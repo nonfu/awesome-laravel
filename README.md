@@ -1,56 +1,55 @@
-Awesome Laravel
+Laravel精选资源大全（Awesome Laravel中文版）
 ===============
 
-> A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
+> 来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。
 
-Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+原项目由 [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) 创建，本文档由 [nonfu/awesome-laravel](https://github.com/nonfu/awesome-laravel) 翻译。
 
-## Essentials
+## 必备品
 * [Documentation](http://laravel.com/docs)
 * [API Reference](http://laravel.com/api/)
 * [Laracasts](http://laracasts.com)
 * [Laravel News](http://laravel-news.com/)
 
 ## Laravel 5
-*Released on 4th February, 2015*
-* Laravel 5 Fundamentals - [Laracasts](https://laracasts.com/series/laravel-5-fundamentals)
-* New Features in Laravel 5 - [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) and [Matt Stauffer's blog](http://mattstauffer.co/tags/laravel+5)
-* Release Notes - [Laravel.com](http://laravel.com/docs/master/releases) and [Laravel News](https://laravel-news.com/2015/01/laravel-5/)
-* Upgrade Guide - [Laravel.com](http://laravel.com/docs/master/upgrade) and [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
-* Learn Laravel 5 From Scratch - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
-* Learn Laravel 5 in Spanish [duilio.me](http://duilio.me/laravel-5/)
+*基于2015年2月4日版本*
+* Laravel 5 基本原则 - [Laracasts](https://laracasts.com/series/laravel-5-fundamentals)
+* Laravel 5 新特性- [Laracasts](https://laracasts.com/series/whats-new-in-laravel-5) 以及 [Matt Stauffer's blog](http://mattstauffer.co/tags/laravel+5)
+* 发布说明 - [Laravel.com](http://laravel.com/docs/master/releases) 以及 [Laravel News](https://laravel-news.com/2015/01/laravel-5/)
+* 升级指南 - [Laravel.com](http://laravel.com/docs/master/upgrade) 以及 [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
+* 从零开始学习 Laravel 5 - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 
 ## Lumen
-*Released on 14th April, 2015*
+*基于2015年4月14日版本*
 * [Introduction](https://laracasts.com/lessons/introducing-lumen) (Laracasts)
 * [Documentation](http://lumen.laravel.com/docs/installation)
 
-## Code Snippets
+## 代码片段
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
 * [Laravel Tricks](http://www.laravel-tricks.com/)
 * [Laravel Recipies](http://laravel-recipes.com/)
 * [Laravel Snippets](http://laravelsnippets.com/)
 
-## Packages
+## 相关包
 * [Packagist](https://packagist.org/)
 * [Laravel Collective](http://laravelcollective.com/)
 * [Packalyst](http://packalyst.com/)
 * [Cartalyst](https://cartalyst.com/)
 
-## Popular Packages
-> This is a list of well-documented, tested packages that are frequently used in Laravel projects. If you're looking for an exhaustive list of PHP packages, then check out the Package Repositories mentioned above.
+## 热门包
+> 下面是一些文档友好的且在具体的Laravel项目中经过实践检验的包：
 
-##### Developer Tools
-* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - Defacto code generator for Laravel
-* [Blacksmith](https://github.com/Indatus/blacksmith) - Flexible code generation tool
-* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - Generates a helper file for IDE auto-completion
+##### 开发者工具
+* [Generators](https://github.com/JeffreyWay/Laravel-4-Generators) - 为Laravel自动生成代码
+* [Blacksmith](https://github.com/Indatus/blacksmith) - 灵活的代码生成工具
+* [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - 为IDE的自动完成功能生成帮助文件
 
-##### Debugging & Profiling
-* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - Integrates PHP Debug Bar with Laravel
-* [Clockwork](https://github.com/itsgoingd/clockwork) - Integrates Clockwork Chrome extension for debugging and profiling apps
-* [Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - View Laravel logs in the browser
+##### 调试 & 分析
+* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - 在Laravel中集成PHP的调试条
+* [Clockwork](https://github.com/itsgoingd/clockwork) - 集成Clockwork的Chrome扩展用于调试和分析应用
+* [Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 在浏览器中查看Laravel日志
 
-##### Authentication & Authorisation
+##### 认证 & 授权
 * [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
 * [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
 * [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
@@ -78,11 +77,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code 
 
-##### Working with Javascript
+##### Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
 * [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
 
-##### Database, Migrations & Seeding
+##### 数据库, 迁移 & 填充
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
 * [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
 * [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation
@@ -99,26 +98,26 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [APIGuard](https://github.com/chrisbjr/api-guard) - A simple way of authenticating your APIs with API keys using Laravel.
 
-##### Tasks, Commands and Scheduling
+##### 任务, 命令和调度
 * [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
 * [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 
-##### Payments
+##### 支付
 * [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/omnipay/omnipay) PHP library
 
-##### Optimization
+##### 优化
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - A blade/html/css/js Minifier
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
 
-##### Localization
+##### 本地化
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
 * [Translator](https://github.com/vinkla/translator) - Laravel translator for multilingual Eloquent objects.
 * [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
 
-##### Third-party Service Integration
+##### 第三方服务集成
 * [Laravel Algolia](https://github.com/vinkla/algolia) A Algolia API bridge
 * [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
 * [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
@@ -129,7 +128,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Pusher](https://github.com/vinkla/pusher) A Pusher API bridge
 * [Laravel Vimeo](https://github.com/vinkla/vimeo) A Vimeo API bridge
 
-## Development Setup
+## 开发环境
 * [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
   * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
   * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
@@ -138,7 +137,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
  * [Mac OSX or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
 
-## Application Hosting
+## 主机
 * [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
   * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
@@ -148,12 +147,12 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://ace.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
 
-## Application Deployment
+## 应用部署
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
 * [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
 
-## Articles, Tutorials, Blogs etc.
+## 文章, 教程, 博客等
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
 * [Christopher Pitt](https://medium.com/laravel-4)
@@ -196,7 +195,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Blog do Vluzrmos (PT-BR)](http://blog.vluzrmos.com.br/category/laravel)
 * [CodeTutorial](http://www.codetutorial.io/tag/laravel/)
 
-## Video Tutorials
+## 视频教程
 * [Laracasts](https://laracasts.com/)
 * [PHP Academy](https://www.youtube.com/user/phpacademy/playlists)
 * [Fallendown2005](https://www.youtube.com/user/fallendown2005/playlists)
@@ -214,18 +213,18 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Tuts+](http://code.tutsplus.com/categories/laravel/courses)
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
 
-## Conferences
+## 讨论
 * [Laracon US](http://laracon.us/)
 * [Laracon EU](http://laracon.eu/)
 * [ArtisanConf](https://www.artisanconf.com/)
 
-#### Conference Videos
+#### 视频讨论
 * [Laracon EU 2014](http://laracon.eu/2014/#schedule)
 * [Laracon US 2014](http://userscape.com/laracon/2014/)
 * [Laracon EU 2013](http://laracon.eu/2013/talks/)
 * [Laracon US 2013](https://www.youtube.com/playlist?list=PLkwAlZpjHQbLcox_S_AgGU24QUfKgXayN)
 
-## Books
+## 书籍
 * [Laravel: Code Bright](https://leanpub.com/codebright)
 * [Laravel: From Apprentice To Artisan](https://leanpub.com/laravel)
 * [Laravel 4 Cookbook](https://leanpub.com/laravel4cookbook)
@@ -245,7 +244,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Easy Laravel 5](https://leanpub.com/easylaravel/)
 * [Laravel 5 Essentials](https://www.packtpub.com/web-development/laravel-5-essentials)
 
-## Codebases for Reference
+## 代码库
 * [Laravel.IO](https://github.com/LaravelIO/laravel.io)
 * [October](https://github.com/octobercms/october)
 * [Invoice Ninja](https://github.com/hillelcoren/invoice-ninja)
@@ -260,11 +259,11 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Paperwork](https://github.com/twostairs/paperwork)
 * [StyleCI](https://github.com/StyleCI/StyleCI)
 
-## Newsletters
+## 新闻
 * [Laravel News](http://laravel-news.com/) ([archive](http://laravel-news.com/archive))
 * [Laravel Weekly](http://laravelweekly.com/)
 
-## Community
+## 社区
 * [Laravel.io Forum](http://laravel.io/) ([Old Forum Archive](http://forumsarchive.laravel.io/))
 * [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
 * [Laravel Podcast](http://www.laravelpodcast.com/)
@@ -279,7 +278,7 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Facebook](https://www.facebook.com/LaravelCommunity)
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 
-#### Local User Groups
+#### 本地用户组
 * [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
 * [Laravel France](http://laravel.fr/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
@@ -292,30 +291,21 @@ Inspired by [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 * [Laravel Spanish](http://laraveles.com/foro/)
 * [Laravel Korea](http://laravel.co.kr/)
 
-#### Meetups
+#### 聚会
 * [All Meetups](http://laravel.meetup.com/)
 * [London Meetup](http://www.meetup.com/London-Laravel/)
 * [Buenos Aires, Argentina Meetup](http://www.meetup.com/Laravel-Buenos-Aires)
 
-## Jobs
+## 工作
 * [LaraJobs](https://larajobs.com/)
 * [Laravel Gurus](http://laravelgurus.com/)
 * [With Laravel](http://withlaravel.com/)
 
-### Hosted Development Tools
+### 主机开发工具
 * [Laragen](http://makzumi.com/laragen/) - View generator
 * [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
 * [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
 
-## Miscellaneous
+## 其它
 * [Built with Laravel](http://builtwithlaravel.com/) - Gallery of websites and projects built with Laravel
 * [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
-
-## Contributing
-Found an awesome package, blog, video etc.? Send me a PR!
-
-#### Guidelines
-* Please make an individual pull request for each suggestion
-* Use the following format for resources: \[Resource\]\(URL\)
-* Use the following format for packages: \[Package\]\(URL\) - Short description
-* New categories or improvements to the existing categorisation are welcome
