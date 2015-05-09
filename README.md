@@ -302,10 +302,10 @@ Laravel精选资源大全
 * [With Laravel](http://withlaravel.com/)
 
 ### 主机开发工具
-* [Laragen](http://makzumi.com/laragen/) - View generator
-* [Laravel Schema Designer](http://laravelsd.com/) - Create, export and share database schemas
-* [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - Graphical tool to create database schemas
+* [Laragen](http://makzumi.com/laragen/) - 视图生成器
+* [Laravel Schema Designer](http://laravelsd.com/) - 创建、导出以及共享数据库结构
+* [Laravel Database Designer](http://biodesignrealworld.github.io/LaravelDatabaseDesigner/) - 创建数据库表结构的图形化工具
 
 ## 其它
-* [Built with Laravel](http://builtwithlaravel.com/) - Gallery of websites and projects built with Laravel
-* [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - Paid scripts and plugins
+* [通过Laravel构建的站点及项目](http://builtwithlaravel.com/) - 通过Laravel构建的站点及项目展示
+* [CodeCanyon](http://codecanyon.net/tags/laravel?term=laravel) - 支付脚本和插件
