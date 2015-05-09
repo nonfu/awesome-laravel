@@ -6,10 +6,10 @@ Laravel精选资源大全
 原项目由 [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) 创建，本文档由 [nonfu/awesome-laravel](https://github.com/nonfu/awesome-laravel) 翻译。
 
 ## 必备品
-* [Documentation](http://laravel.com/docs)
-* [API Reference](http://laravel.com/api/)
-* [Laracasts](http://laracasts.com)
-* [Laravel News](http://laravel-news.com/)
+* 文档：[Documentation](http://laravel.com/docs)
+* API：[API Reference](http://laravel.com/api/)
+* 视频：[Laracasts](http://laracasts.com)
+* 新闻：[Laravel News](http://laravel-news.com/)
 
 ## Laravel 5
 *基于2015年2月4日版本*
@@ -21,8 +21,8 @@ Laravel精选资源大全
 
 ## Lumen
 *基于2015年4月14日版本*
-* [Introduction](https://laracasts.com/lessons/introducing-lumen) (Laracasts)
-* [Documentation](http://lumen.laravel.com/docs/installation)
+* 介绍： [Introduction](https://laracasts.com/lessons/introducing-lumen) (Laracasts)
+* 文档：[Documentation](http://lumen.laravel.com/docs/installation)
 
 ## 代码片段
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
@@ -50,53 +50,53 @@ Laravel精选资源大全
 * [Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 在浏览器中查看Laravel日志
 
 ##### 认证 & 授权
-* [Confide](https://github.com/Zizaco/confide) - Authentication solution to cut repetitive work involving user management
-* [Entrust](https://github.com/Zizaco/entrust) - Role-based Permissions
-* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - Wrapper for OAuth 2.0 authorization server and resource server
-* [Socialite](https://github.com/laravel/socialite) - Social authentication wrapper for Facebook, Google, Twitter etc.
-* [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth client wrapper that supports Facebook, Twitter, Google etc.
-* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web Token authentication for APIs
+* [Confide](https://github.com/Zizaco/confide) - 包括用户管理的认证解决方案以便减少重复性工作
+* [Entrust](https://github.com/Zizaco/entrust) - 基于角色的权限系统
+* [OAuth2 Server Laravel](https://github.com/lucadegasperi/oauth2-server-laravel) - 封装 OAuth 2.0 认证服务器和资源服务器
+* [Socialite](https://github.com/laravel/socialite) - 封装 Facebook, Google, Twitter等社交媒体认证
+* [OAuth 4 Laravel](https://github.com/artdarek/oauth-4-laravel) - OAuth客户端封装以便支持Facebook, Twitter, Google等社交网络
+* [JWT Auth](https://github.com/tymondesigns/jwt-auth) - JSON Web令牌认证API
 
-##### Utilities
-* [HTML](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel 
-* [Validating](https://github.com/dwightwatson/validating) - Trait for validating Eloquent models on save
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - Creates slugs for Eloquent models
-* [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
-* [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
-* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - CommonMark wrapper
-* [Recaptcha](https://github.com/greggilbert/recaptcha) - reCaptcha validator
-* [Datatable](https://github.com/Chumper/Datatable) - Server-side and client-side integration for jQuery Datatables plugin
-* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - Create and manage breadcrumbs
-* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
-* [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - Set of classes to create Bootstrap 3 markup
-* [Setting](https://github.com/Phil-F/Setting) - Persistent configuration settings that are stored in JSON files
-* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
-* [Revisionable](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
-* [Laravel Hashids](https://github.com/vinkla/hashids) - Generate short, unique, non-sequential ids from numbers using [Hashids](http://hashids.org/php/)
-* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - Create a user messaging system in your Laravel app
-* [Intervention Image](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
-* [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code 
+##### 其它有用的利器
+* [HTML](https://github.com/LaravelCollective/html) - Laravel官方HTML及表单构建器
+* [Validating](https://github.com/dwightwatson/validating) - 用于Eloquent模型保存验证的Trait
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - 创建Eloquent模型小物件
+* [Laravel Stapler](https://github.com/CodeSleeve/laravel-stapler) - 基于ORM的文件上传管理器
+* [Laravel Snappy](https://github.com/barryvdh/laravel-snappy) - 使用wkhtmltopdf将HTML转化为PDF生成器 
+* [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - 封装CommonMark
+* [Recaptcha](https://github.com/greggilbert/recaptcha) - 验证码校验器
+* [Datatable](https://github.com/Chumper/Datatable) - 为jQuery数据表插件集成服务器端和客户端
+* [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - 创建及管理面包屑导航
+* [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) - 从请求中收集信息以验证和存储
+* [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - 创建Bootstrap 3标记的类集
+* [Setting](https://github.com/Phil-F/Setting) - 将配置信息持久化存储到JSON文件中
+* [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - 导出导出Excel和CSV文件
+* [Revisionable](https://github.com/VentureCraft/revisionable) - 创建Eloquent模型的历史版本
+* [Laravel Hashids](https://github.com/vinkla/hashids) - 使用[Hashids](http://hashids.org/php/)生成短小的、唯一的、非顺序的数字id 
+* [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - 在Laravel中创建用户消息系统
+* [Intervention Image](https://github.com/Intervention/image) - 图片处理库（创建、编辑、压缩图片）
+* [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - 基于项目源码生成 .env.gen 文件
 
 ##### Javascript
-* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  Pass server-side string/array/collection/whatever to your JavaScript
-* [Laroute](https://github.com/aaronlord/laroute) - Generate Laravel route URLs from JavaScript
+* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据
+* [Laroute](https://github.com/aaronlord/laroute) - 在JavaScript中生成Laravel路由URLs
 
 ##### 数据库, 迁移 & 填充
-* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and Query builder with support for MongoDB
-* [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - Abstraction to swap out a local file-system for a remote one (AWS S3, Dropbox etc.)
-* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM implementation
-* [Migrations Generator](https://github.com/Xethron/migrations-generator) - Generate Migrations from an existing database
-* [iSeed](https://github.com/orangehill/iseed) - Generate a new seed file from existing database table
-* [Backup Manager](https://github.com/heybigname/backup-manager) - Backup to and restore database from S3, Dropbox, SFTP etc.
-* [Tenanti](https://github.com/orchestral/tenanti) - Multi-tenant database schema manager
-* [Baum](https://github.com/etrepat/baum) - Nested Sets pattern implementation for Laravel
-* [ClosureTable](https://github.com/franzose/ClosureTable) - Closure Table pattern implementation for Laravel
+* [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - 支持MongoDB的Eloquent模型及Query构造器
+* [Laravel Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - 从远程主机(AWS S3, Dropbox等)而非本地文件系统提取文件
+* [Laravel Doctrine](https://github.com/mitchellvanw/laravel-doctrine) - Doctrine 2 ORM 实现
+* [Migrations Generator](https://github.com/Xethron/migrations-generator) - 从已有数据库中生成迁移
+* [iSeed](https://github.com/orangehill/iseed) - 从已有数据表中生成一个新的填充文件
+* [Backup Manager](https://github.com/heybigname/backup-manager) - 在S3, Dropbox, SFTP中备份及取出数据库
+* [Tenanti](https://github.com/orchestral/tenanti) - 群租数据库结构管理器
+* [Baum](https://github.com/etrepat/baum) - 在Laravel中实现嵌套集合模式
+* [ClosureTable](https://github.com/franzose/ClosureTable) - 在Laravel中实现闭包表模型
 
 ##### RESTful APIs
-* [API for Laravel](https://github.com/dingo/api) - Build RESTful APIs that can be consumed externally and by your application
-* [Trucker](https://github.com/Indatus/trucker) - Map remote API resources (usually RESTful) as models in an ActiveResource style
-* [Laravel CORS](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
-* [APIGuard](https://github.com/chrisbjr/api-guard) - A simple way of authenticating your APIs with API keys using Laravel.
+* [API for Laravel](https://github.com/dingo/api) - 在应用中构建RESTful APIs
+* [Trucker](https://github.com/Indatus/trucker) - 匹配远程API资源 (通常是RESTful风格)
+* [Laravel CORS](https://github.com/barryvdh/laravel-cors) - 添加 CORS (Cross-Origin Resource Sharing) 头支持
+* [APIGuard](https://github.com/chrisbjr/api-guard) - 使用Laravel中的API键简单认证API
 
 ##### 任务, 命令和调度
 * [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
