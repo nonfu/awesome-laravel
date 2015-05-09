@@ -99,58 +99,58 @@ Laravel精选资源大全
 * [APIGuard](https://github.com/chrisbjr/api-guard) - 使用Laravel中的API键简单认证API
 
 ##### 任务, 命令和调度
-* [Elixr](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
-* [Envoy](https://github.com/laravel/envoy) - SSH Task Runner
-* [Dispatcher](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
+* [Elixr](https://github.com/laravel/elixir) - Node(NPM) 包用于运行Gulp任务（监控文件、运行测试、最小化CSS、组合脚本等等）
+* [Envoy](https://github.com/laravel/envoy) - SSH任务运行器
+* [Dispatcher](https://github.com/indatus/dispatcher) - 调度Artisan命令
 
 ##### 支付
-* [Cashier](https://github.com/laravel/cashier) - Subscription billing with Stripe
-* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay](https://github.com/omnipay/omnipay) PHP library
+* [Cashier](https://github.com/laravel/cashier) - 通过条形码订阅账单
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - 集成 [Omnipay](https://github.com/omnipay/omnipay) PHP库
 
 ##### 优化
-* [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - A blade/html/css/js Minifier
-* [Intervention Image Cache](https://github.com/Intervention/imagecache) - Caching extension for the Intervention Image Class
+* [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - 最小化 blade/html/css/js 
+* [Intervention Image Cache](https://github.com/Intervention/imagecache) - 图片类的缓存扩展
 
 ##### 本地化
-* [Laravel Localization](https://github.com/mcamara/laravel-localization) - Add i18n support via routes
-* [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - Retrieve and store translatable Eloquent model instances
-* [Translator](https://github.com/vinkla/translator) - Laravel translator for multilingual Eloquent objects.
-* [Language Files](https://github.com/caouecs/Laravel4-lang) - Validation, Pagination and Reminders language lines in 37 languages
+* [Laravel Localization](https://github.com/mcamara/laravel-localization) - 通过路由添加i18n支持
+* [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - 取出及保存可翻译的Eloquent模型类实例
+* [Translator](https://github.com/vinkla/translator) - 多Eloquent类的Laravel翻译器
+* [Language Files](https://github.com/caouecs/Laravel4-lang) - 支持37种语言的验证、分页以及提醒
 
 ##### 第三方服务集成
-* [Laravel Algolia](https://github.com/vinkla/algolia) A Algolia API bridge
-* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) A DigitalOceanV2 bridge
-* [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) A Dropbox bridge
-* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) A PHP GitHub API bridge
-* [Laravel GitLab](https://github.com/vinkla/gitlab) A GitLab API bridge
-* [Laravel Instagram](https://github.com/vinkla/instagram) A Instagram API bridge
-* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) A PHP Parse SDK bridge
-* [Laravel Pusher](https://github.com/vinkla/pusher) A Pusher API bridge
-* [Laravel Vimeo](https://github.com/vinkla/vimeo) A Vimeo API bridge
+* [Laravel Algolia](https://github.com/vinkla/algolia) 连接 Algolia API
+* [Laravel DigitalOcean](https://github.com/GrahamCampbell/Laravel-DigitalOcean) 连接 DigitalOceanV2
+* [Laravel Dropbox](https://github.com/GrahamCampbell/Laravel-Dropbox) 连接 Dropbox 
+* [Laravel GitHub](https://github.com/GrahamCampbell/Laravel-GitHub) 连接 PHP GitHub API
+* [Laravel GitLab](https://github.com/vinkla/gitlab) 连接 GitLab API 
+* [Laravel Instagram](https://github.com/vinkla/instagram) 连接 Instagram API
+* [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) 连接 PHP Parse SDK 
+* [Laravel Pusher](https://github.com/vinkla/pusher) 连接 Pusher API
+* [Laravel Vimeo](https://github.com/vinkla/vimeo) 连接 Vimeo API
 
 ## 开发环境
-* [Homestead](http://laravel.com/docs/homestead) - Official Vagrant box for Laravel
-  * [Getting Started with Laravel Homestead](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
-  * [Installation on OSx and Linux](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
-  * [Installation on  Windows](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
-* Install Laravel with Composer
+* [Homestead](http://laravel.com/docs/homestead) - Laravel官方Vagrant box
+  * [Laravel Homestead快速入门](http://scotch.io/tutorials/php/getting-started-with-laravel-homestead)
+  * [在OSx and Linux上安装](https://laracasts.com/series/laravel-5-from-scratch/episodes/3)
+  * [在Windows上安装](http://blog.teamtreehouse.com/laravel-homestead-on-windows)
+* 通过Composer安装 Laravel
  * [Windows](https://www.youtube.com/watch?v=m3D894qZKws)
- * [Mac OSX or Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
+ * [Mac OSX 或 Linux](https://laracasts.com/lessons/laravel-installation-for-newbs)
 
 ## 主机
-* [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
-  * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
-  * [Getting your first site up and running in Laravel Forge](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
+* [Forge](https://forge.laravel.com/) - Linode和DigitalOcean上经优化的PHP服务器
+  * [Forge中的服务器管理](https://laracasts.com/series/server-management-with-forge) (Laracasts)
+  * [让你的第一个站点在Laravel Forge中启动并运行](http://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
-* [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting) ([Video](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
-* [PagodaBox](https://pagodabox.io/) ([Documentation](https://pagodabox.io/docs/framework_laravel))
-* [Heroku](https://www.heroku.com/) ([Tutorial](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
-* [IBM BlueMix](https://ace.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
+* [FortRabbit](http://fortrabbit.com/solutions/laravel-hosting) ([视频](https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit))
+* [PagodaBox](https://pagodabox.io/) ([文档](https://pagodabox.io/docs/framework_laravel))
+* [Heroku](https://www.heroku.com/) ([教程](http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
+* [IBM BlueMix](https://ace.ng.bluemix.net/) ([教程](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
 
 ## 应用部署
-* [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
- * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
-* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - Task runner and deployment package
+* [Envoyer](https://envoyer.io/) - 快速部署 PHP & Laravel 项目
+ * [通过Envoyer进行部署](https://laracasts.com/series/envoyer) (Laracasts)
+* [Rocketeer](https://github.com/Anahkiasen/rocketeer) - 任务运行期及部署包
 
 ## 文章, 教程, 博客等
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
@@ -264,10 +264,10 @@ Laravel精选资源大全
 * [Laravel Weekly](http://laravelweekly.com/)
 
 ## 社区
-* [Laravel.io Forum](http://laravel.io/) ([Old Forum Archive](http://forumsarchive.laravel.io/))
-* [Laracasts Forum](https://laracasts.com/discuss) ([Old Forum Archive](https://www.laracasts.com/forum/))
+* [Laravel.io Forum](http://laravel.io/) ([旧版](http://forumsarchive.laravel.io/))
+* [Laracasts Forum](https://laracasts.com/discuss) ([旧版](https://www.laracasts.com/forum/))
 * [Laravel Podcast](http://www.laravelpodcast.com/)
-* [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.typeform.com/to/wqvupv))
+* [Larachat Slack](https://larachat.slack.com/) ([注册](https://larachat.typeform.com/to/wqvupv))
 * [Gitter](https://gitter.im/laravel/laravel)
 * [IRC Channel](http://laravel.io/chat)
 * [StackOverflow](http://stackoverflow.com/questions/tagged/laravel)
@@ -279,15 +279,15 @@ Laravel精选资源大全
 * [LinkedIn](https://www.linkedin.com/groups/Laravel-PHP-Framework-4419933)
 
 #### 本地用户组
-* [Laravel Russia](http://laravel.ru/) ([VK group](http://vk.com/laravel_rus))
+* [Laravel Russia](http://laravel.ru/) ([VK群组](http://vk.com/laravel_rus))
 * [Laravel France](http://laravel.fr/)
 * [Laravel Myanmar](http://laravelmyanmar.com)
-* [Laravel Indonesia](http://id-laravel.com/) ([Facebook group](https://www.facebook.com/groups/laravel/))
-* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook group](https://www.facebook.com/groups/laravelbrasil/))
-* [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook group](https://www.facebook.com/groups/laravelturkiye/))
-* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook group](https://www.facebook.com/groups/laravelnigeria/))
+* [Laravel Indonesia](http://id-laravel.com/) ([Facebook群组](https://www.facebook.com/groups/laravel/))
+* [Laravel Brasil](http://www.laravel.com.br/) ([Facebook群组](https://www.facebook.com/groups/laravelbrasil/))
+* [Laravel Turkey](http://www.laravel.gen.tr/) ([Facebook群组](https://www.facebook.com/groups/laravelturkiye/))
+* [Laravel Nigeria](http://www.laranaija.com/) ([Facebook群组](https://www.facebook.com/groups/laravelnigeria/))
 * [Laravel China](http://phphub.org)
-* [Laravel Taiwan](http://laravel.tw/) ([Facebook group](https://www.facebook.com/groups/laravel.tw/))
+* [Laravel Taiwan](http://laravel.tw/) ([Facebook群组](https://www.facebook.com/groups/laravel.tw/))
 * [Laravel Spanish](http://laraveles.com/foro/)
 * [Laravel Korea](http://laravel.co.kr/)
 
