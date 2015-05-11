@@ -91,6 +91,7 @@ Laravel精选资源大全
 * [Tenanti](https://github.com/orchestral/tenanti) - 群租数据库结构管理器
 * [Baum](https://github.com/etrepat/baum) - 在Laravel中实现嵌套集合模式
 * [ClosureTable](https://github.com/franzose/ClosureTable) - 在Laravel中实现闭包表模型
+* [Doctrine DBAL](https://github.com/doctrine/dbal) - 数据迁移（migrate）时支持列的重命名操作（renameColumn）
 
 ##### RESTful APIs
 * [API for Laravel](https://github.com/dingo/api) - 在应用中构建RESTful APIs
