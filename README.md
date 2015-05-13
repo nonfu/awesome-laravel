@@ -45,7 +45,7 @@ Laravel精选资源大全
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - 为IDE的自动完成功能生成帮助文件
 
 ##### 调试 & 分析
-* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - 在Laravel中集成PHP的调试条（功能强大，可以查看请求、路由、SQL查询、消息、异常、视图等）
+* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - 在Laravel中集成PHP的调试条（功能强大，可以查看请求、路由、SQL查询、消息、异常、视图、内存消耗等）
 * [Clockwork](https://github.com/itsgoingd/clockwork) - 集成Clockwork的Chrome扩展用于调试和分析应用
 * [Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 在浏览器中查看Laravel日志（就是把Laravel日志搬到浏览器中）
 
