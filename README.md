@@ -105,7 +105,8 @@ Laravel精选资源大全
 * [Envoy](https://github.com/laravel/envoy) - SSH任务运行器
 * [Dispatcher](https://github.com/indatus/dispatcher) - 调度Artisan命令
 
-##### 支付
+##### 购物&支付
+* [LaravelShoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - Laravel实现的购物车
 * [Cashier](https://github.com/laravel/cashier) - 通过条形码订阅账单
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - 集成 [Omnipay](https://github.com/omnipay/omnipay) PHP库
 
