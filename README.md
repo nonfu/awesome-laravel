@@ -3,7 +3,7 @@ Laravel精选资源大全
 
 > 来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。
 
-原项目由 [ziadoz/awesome-php](https://github.com/ziadoz/awesome-php) 创建，本文档由 [nonfu/awesome-laravel](https://github.com/nonfu/awesome-laravel) 翻译。
+原项目由 [chiraggude/awesome-laravel](https://github.com/ziadoz/awesome-php) 创建，本文档由 [nonfu/awesome-laravel](https://github.com/nonfu/awesome-laravel) 翻译。
 
 ## 必备品
 * 文档：[Documentation](http://laravel.com/docs)
@@ -113,12 +113,13 @@ Laravel精选资源大全
 ##### 优化
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - 最小化 blade/html/css/js 
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - 图片类的缓存扩展
+* [Laravel Sitemap](https://github.com/RoumenDamianoff/laravel-sitemap) - Laravel站点地图生成器（Laravel5）
 
 ##### 本地化
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - 通过路由添加i18n支持
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - 取出及保存可翻译的Eloquent模型类实例
 * [Translator](https://github.com/vinkla/translator) - 多Eloquent类的Laravel翻译器
-* [Language Files](https://github.com/caouecs/Laravel4-lang) - 支持37种语言的验证、分页以及提醒
+* [Language Files](https://github.com/caouecs/Laravel4-lang) - 支持44种语言的验证、分页以及提醒
 
 ##### 第三方服务集成
 * [Laravel Algolia](https://github.com/vinkla/algolia) 连接 Algolia API
