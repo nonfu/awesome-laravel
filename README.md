@@ -76,6 +76,7 @@ Laravel精选资源大全
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - 在Laravel中创建用户消息系统
 * [Intervention Image](https://github.com/Intervention/image) - 图片处理库（创建、编辑、压缩、裁剪、保存图片等，支持GD、Imagick、Gmagick扩展驱动）
 * [LaravelDotEnvGen](https://github.com/mathiasgrimm/laravel-dot-env-gen) - 基于项目源码生成 .env.gen 文件
+* [Laravel Administrator](https://github.com/FrozenNode/Laravel-Administrator) - Laravel后台管理
 
 ##### Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据
