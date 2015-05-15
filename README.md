@@ -158,7 +158,7 @@ Laravel精选资源大全
 
 ## 文章, 教程, 博客等
 
-** 中文 **
+**中文**
 
 + [PHPHub](https://phphub.org/) - PHPHub 是积极向上的 PHP & Laravel 开发者社区
 + [Laravel中文网](http://laravel-china.org/) - 由PHPHub站长驱动
@@ -166,7 +166,7 @@ Laravel精选资源大全
 + [SegmentFault Laravel问答归档](http://segmentfault.com/t/laravel)
 + [岁寒-个人博客](http://lvwenhan.com/sort/laravel) - Laravel文章归档
 
-** 英文 **
+**英文**
 
 * [Tuts+](http://code.tutsplus.com/categories/laravel)
 * [SitePoint](http://www.sitepoint.com/php/page/0/?filter[4047]=on)
