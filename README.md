@@ -163,7 +163,6 @@ Laravel精选资源大全
 + [PHPHub](https://phphub.org/) - PHPHub 是积极向上的 PHP & Laravel 开发者社区
 + [Laravel中文网](http://laravel-china.org/) - 由PHPHub站长驱动
 + [Laravel中文网](http://www.golaravel.com/) - 由Bootstrap中文网站长驱动
-+ [SegmentFault](http://segmentfault.com/t/laravel) - SegmentFault上Laravel问答归档
 + [岁寒-个人博客](http://lvwenhan.com/sort/laravel) - Laravel文章归档
 
 **英文**
@@ -209,6 +208,7 @@ Laravel精选资源大全
 * [Bosnadev](https://bosnadev.com/tag/laravel-2/)
 * [Blog do Vluzrmos (PT-BR)](http://blog.vluzrmos.com.br/category/laravel)
 * [CodeTutorial](http://www.codetutorial.io/tag/laravel/)
+* [Camron Cade](http://www.camroncade.com/) - ARTISAN WEB DEVELOPMENT, MOSTLY USING LARAVEL
 
 ## 视频教程
 * [Laracasts](https://laracasts.com/)
@@ -229,6 +229,12 @@ Laravel精选资源大全
 * [Novica Vukobratovic](http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY)
 
 ## 讨论
+
+**中文**
++ [SegmentFault](http://segmentfault.com/t/laravel) - SegmentFault上Laravel问答归档
++ [Laravel中文问答社区](http://wenda.golaravel.com/) 
+
+**英文**
 * [Laracon US](http://laracon.us/)
 * [Laracon EU](http://laracon.eu/)
 * [ArtisanConf](https://www.artisanconf.com/)
