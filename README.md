@@ -19,6 +19,9 @@ Laravel精选资源大全
 * 升级指南 - [Laravel.com](http://laravel.com/docs/master/upgrade) 以及 [Matt Stauffer](http://mattstauffer.co/blog/upgrading-from-laravel-4-to-laravel-5)
 * 从零开始学习 Laravel 5 - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 
+*Laravel 5.1*
+*中文文档* - [LaravelAcademy.org](http://laravelacademy.org/docs/5_1)
+
 ## Lumen
 *基于2015年4月14日版本*
 * 介绍： [Introduction](https://laracasts.com/lessons/introducing-lumen) (Laracasts)
@@ -161,6 +164,7 @@ Laravel精选资源大全
 
 **中文**
 
++ [Laravel学院](http://laravelacademy.org) - Laravel学院致力于提供优质Laravel中文学习资源
 + [PHPHub](https://phphub.org/) - PHPHub 是积极向上的 PHP & Laravel 开发者社区
 + [Laravel中文网](http://laravel-china.org/) - 由PHPHub站长驱动
 + [Laravel中文网](http://www.golaravel.com/) - 由Bootstrap中文网站长驱动
