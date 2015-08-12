@@ -3,7 +3,7 @@ Laravel精选资源大全
 
 > 来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。
 
-原项目由 [chiraggude/awesome-laravel](https://github.com/ziadoz/awesome-php) 创建，本文档由 [nonfu/awesome-laravel](https://github.com/nonfu/awesome-laravel) 翻译。
+原项目由 [chiraggude/awesome-laravel](https://github.com/ziadoz/awesome-php) 创建，本文档由 [nonfu/awesome-laravel](https://github.com/nonfu/awesome-laravel) 翻译，更多Laravel中文学习资源，请关注：[Laravel学院](http://laravelacademy.org)。
 
 ## 必备品
 * 文档：[Documentation](http://laravel.com/docs)
@@ -20,7 +20,7 @@ Laravel精选资源大全
 * 从零开始学习 Laravel 5 - [Laracasts](https://laracasts.com/series/laravel-5-from-scratch)
 
 *Laravel 5.1*
-*中文文档* - [LaravelAcademy.org](http://laravelacademy.org/docs/5_1)
+*中文文档* - [LaravelAcademy.org](http://laravelacademy.org/laravel-docs-5_1)
 
 ## Lumen
 *基于2015年4月14日版本*
