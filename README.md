@@ -168,6 +168,7 @@ Laravel精选资源大全
 + [PHPHub](https://phphub.org/) - PHPHub 是积极向上的 PHP & Laravel 开发者社区
 + [Laravel中文网](http://laravel-china.org/) - 由PHPHub站长驱动
 + [Laravel中文网](http://www.golaravel.com/) - 由Bootstrap中文网站长驱动
++ [Laravel台湾](http://laravel.tw/) - Laravel文档繁体中文版
 + [岁寒-个人博客](http://lvwenhan.com/sort/laravel) - Laravel文章归档
 + [Laravel学习笔记](http://insp.top/notes) -  来自个人博客：灵感-来自生活的馈赠
 
