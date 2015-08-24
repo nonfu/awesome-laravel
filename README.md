@@ -26,6 +26,7 @@ Laravel精选资源大全
 *基于2015年4月14日版本*
 * 介绍： [Introduction](https://laracasts.com/lessons/introducing-lumen) (Laracasts)
 * 文档：[Documentation](http://lumen.laravel.com/docs/installation)
+* 最新版中文文档：<http://laravelacademy.org/lumen-docs>
 
 ## 代码片段
 * [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca)
