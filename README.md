@@ -217,6 +217,8 @@ Laravel精选资源大全
 * [Blog do Vluzrmos (PT-BR)](http://blog.vluzrmos.com.br/category/laravel)
 * [CodeTutorial](http://www.codetutorial.io/tag/laravel/)
 * [Camron Cade](http://www.camroncade.com/) - ARTISAN WEB DEVELOPMENT, MOSTLY USING LARAVEL
+* [Laravelista](http://laravelista.com/)
+* [Go Foryt Blog](http://blog.goforyt.com/category/laravel/)
 
 ## 视频教程
 * [Laracasts](https://laracasts.com/)
