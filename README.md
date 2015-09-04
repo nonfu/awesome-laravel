@@ -86,6 +86,7 @@ Laravel精选资源大全
 ##### Javascript
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) -  在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据
 * [Laroute](https://github.com/aaronlord/laroute) - 在JavaScript中生成Laravel路由URLs
+* [jQuery架构设计与实现](https://github.com/JsAaron/jQuery)- 前端JQuery系列 入门教程 | 源码剖析 | 框架设计
 
 ##### 数据库, 迁移 & 填充
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - 支持MongoDB的Eloquent模型及Query构造器
