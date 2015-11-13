@@ -133,6 +133,7 @@
 	<li><a href="https://github.com/jenssegers/laravel-mongodb">Laravel MongoDB</a> - 支持MongoDB的Eloquent模型及Query构造器</li>
 	<li><a href="https://github.com/Xethron/migrations-generator">Migrations Generator</a> - 从已有数据库中生成迁移</li>
 	<li><a href="https://github.com/orchestral/tenanti">Tenanti</a> - 群租数据库结构管理器</li>
+	<li><a href="https://github.com/znck/belongs-to-through">belongsToThrough</a> - 逆向的远层一对多 </li>
 </ul>
 <h4><strong>搜索</strong></h4>
 <ul>
