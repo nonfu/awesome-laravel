@@ -1,4 +1,4 @@
-<blockquote><a href="https://github.com/Latrell/Alipay">Alipay</a>来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。</blockquote>
+<blockquote>来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。</blockquote>
 原项目由<a href="https://github.com/chiraggude/awesome-laravel" target="_blank">chiraggude/awesome-laravel </a>创建，本文档由 <a href="https://github.com/nonfu/awesome-laravel" target="_blank">nonfu/awesome-laravel</a> 翻译，GitHub地址：<a href="https://github.com/nonfu/awesome-laravel" target="_blank">https://github.com/nonfu/awesome-laravel</a>，更多Laravel中文学习资源，请关注：<a href="http://laravelacademy.org">Laravel学院</a>
 <h3><a id="user-content-必备品" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BF%85%E5%A4%87%E5%93%81"></a>必备品</h3>
 <ul>
