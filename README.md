@@ -1,5 +1,5 @@
 <blockquote>来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。</blockquote>
-原项目由<a href="https://github.com/chiraggude/awesome-laravel" target="_blank">chiraggude/awesome-laravel </a>创建，本文档由 <a href="https://github.com/nonfu/awesome-laravel" target="_blank">nonfu/awesome-laravel</a> 翻译，GitHub地址：<a href="https://github.com/nonfu/awesome-laravel" target="_blank">https://github.com/nonfu/awesome-laravel</a>，更多Laravel中文学习资源，请关注：<a href="http://laravelacademy.org">Laravel学院</a>
+更多Laravel中文学习资源，请关注：<a href="http://laravelacademy.org">Laravel学院</a>
 <h3><a id="user-content-必备品" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BF%85%E5%A4%87%E5%93%81"></a>必备品</h3>
 <ul>
 	<li>文档：<a href="http://laravel.com/docs">Documentation</a></li>
@@ -89,6 +89,7 @@
 	<li><a href="https://github.com/stevenyangecho/laravel-u-editor" target="_blank">Laravel 5 UEditor</a> - 百度编辑器集成到Laravel5（支持七牛云存储）</li>
 	<li><a href="https://github.com/FrozenNode/Laravel-Administrator" target="_blank">Laravel Administrator</a> - Laravel后台管理</li>
 	<li><a href="https://github.com/davejamesmiller/laravel-breadcrumbs">Laravel Breadcrumbs</a> - 创建及管理面包屑导航</li>
+	<li><a href="https://github.com/kamranahmedse/laravel-censor">Laravel Censor</a> —— 用于在Laravel 5.1中编辑、替换视图中指定单词/字符的中间件</li>
 	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatable</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
 	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
 	<li><a href="https://github.com/Maatwebsite/Laravel-Excel">Laravel Excel</a> - 导入导出Excel和CSV文件</li>
