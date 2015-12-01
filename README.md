@@ -104,6 +104,7 @@
 	<li><a href="https://github.com/CodeSleeve/laravel-stapler">Laravel Stapler</a> - 基于ORM的文件上传管理器</li>
 	<li><a href="https://github.com/antonioribeiro/tracker">Laravel Stats Tracker</a> - 从请求中收集信息以验证和存储</li>
 	<li><a href="https://github.com/spatie/laravel-tail">Laravel Tail</a> - Laravel 5 漏掉的tail命令</li>
+	<li><a href="https://github.com/RachidLaasri/LaravelInstaller/">Laravel Web Installer</a> – 通过浏览器安装 Laravel 5.1</li>
 	<li><a href="https://github.com/overtrue/latest-laravel" target="_blank">Latest Laravel</a> - 每天准时更新的 Laravel 不同分支完整包</li>
 	<li><a href="https://github.com/lookitsatravis/listify">Listify</a> - 添加分类/排序到任意Eloquent模型</li>
 	<li><a href="https://github.com/ARCANEDEV/noCAPTCHA">noCAPTCHA</a> - Google新的noCAPTCHA（reCAPTCHA）助手</li>
