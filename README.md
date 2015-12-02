@@ -99,6 +99,7 @@
 	<li><a href="https://github.com/spatie/laravel-medialibrary" target="_blank">Laravel MediaLibrary</a> - Eloquent模型助手文件</li>
 	<li><a href="https://github.com/cmgmyr/laravel-messenger">Laravel Messenger</a> - 在Laravel中创建用户消息系统</li>
 	<li><a href="https://github.com/overtrue/pinyin" target="_blank">Laravel Pinyin</a> - 基于词库的中文转拼音优质解决方案</li>
+	<li><a href="https://github.com/Bosnadev/Repositories">Laravel Repositories </a>– 在Laravel中使用Repository模式实现业务逻辑与数据访问的分离</li>
 	<li><a href="https://github.com/spatie/laravel-responsecache">Laravel Responsecache</a> - 通过缓存整个响应加速Laravel应用</li>
 	<li><a href="https://github.com/barryvdh/laravel-snappy">Laravel Snappy</a> - 使用wkhtmltopdf将HTML转化为PDF生成器</li>
 	<li><a href="https://github.com/CodeSleeve/laravel-stapler">Laravel Stapler</a> - 基于ORM的文件上传管理器</li>
