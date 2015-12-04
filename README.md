@@ -113,6 +113,7 @@
 	<li><a href="https://github.com/VentureCraft/revisionable">Revisionable</a> - 创建Eloquent模型的历史版本</li>
 	<li><a href="https://github.com/artesaos/seotools">SEOTools</a> - Laravel和Lumen的SEO工具包</li>
 	<li><a href="https://github.com/Phil-F/Setting">Setting</a> - 将配置信息持久化存储到JSON文件中</li>
+	<li><a href="https://github.com/SimpleSoftwareIO/simple-qrcode">Simple QrCode</a> – Laravel二维码生成器</li>
 	<li><a href="https://github.com/mpociot/teamwork">Teamwork</a> - 在一个邀请系统中用户与小组的关联</li>
 	<li><a href="https://github.com/dwightwatson/validating">Validating</a> - 用于Eloquent模型保存验证的Trait</li>
 	<li><a href="https://github.com/mpociot/vat-calculator">VAT Calculator</a> - 处理所有与欧盟MOSS增值税条例相关的麻烦事儿</li>
