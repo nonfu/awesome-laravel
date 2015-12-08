@@ -124,7 +124,7 @@
 	<li><a href="https://github.com/laracasts/PHP-Vars-To-Js-Transformer">PHP Vars to JavaScript Transformer</a> - 在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据</li>
 	<li><a href="https://github.com/proengsoft/laravel-jsvalidation">Javascript Validation</a> - 使用验证规则、消息、表单请求和验证器在客户端验证表单而不需要编写任何JavaScript代码</li>
 </ul>
-<h4><a id="user-content-数据库-迁移--填充" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%BF%81%E7%A7%BB--%E5%A1%AB%E5%85%85"></a><strong>数据库, 迁移 &amp; 填充</strong></h4>
+<h4><a id="user-content-数据库-迁移--填充" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%BF%81%E7%A7%BB--%E5%A1%AB%E5%85%85"></a><strong>数据库,ORMS, 迁移 &amp; 填充</strong></h4>
 <ul>
 	<li><a href="https://github.com/heybigname/backup-manager">Backup Manager</a> - 在S3, Dropbox, SFTP中备份及取出数据库</li>
 	<li><a href="https://github.com/etrepat/baum">Baum</a> - 在Laravel中实现嵌套集合模式</li>
@@ -136,6 +136,7 @@
 	<li><a href="https://github.com/GrahamCampbell/Laravel-Flysystem">Laravel Flysystem</a> - 从远程主机(AWS S3, Dropbox等)而非本地文件系统提取文件</li>
 	<li><a href="https://github.com/jenssegers/laravel-mongodb">Laravel MongoDB</a> - 支持MongoDB的Eloquent模型及Query构造器</li>
 	<li><a href="https://github.com/Xethron/migrations-generator">Migrations Generator</a> - 从已有数据库中生成迁移</li>
+	<li><a href="https://github.com/jarektkaczyk/eloquence">Sofa/Eloquence</a> – Eloquent ORM 扩展</li>
 	<li><a href="https://github.com/orchestral/tenanti">Tenanti</a> - 群租数据库结构管理器</li>
 	<li><a href="https://github.com/znck/belongs-to-through">belongsToThrough</a> - 逆向的远层一对多 </li>
 </ul>
