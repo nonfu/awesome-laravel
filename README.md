@@ -52,6 +52,7 @@
 	<li><a href="https://github.com/JeffreyWay/Laravel-4-Generators">Generators</a> - 为Laravel自动生成代码（Laravel 4）</li>
 	<li><a href="https://github.com/Indatus/blacksmith">Blacksmith</a> - 灵活的代码生成工具（Laravel 4）</li>
 	<li><a href="https://github.com/barryvdh/laravel-ide-helper">IDE Helper</a> - 为IDE的自动完成功能生成帮助文件（Laravel 4 &amp; Laravel 5）</li>
+	<li><a href="https://github.com/adamwathan/jigsaw">Jigsaw</a> – 使用Blade的静态站点生成器</li>
 	<li><a href="https://github.com/appzcoder/crud-generator">Laravel 5 CRUD Generator</a> - Laravel 5 CRUD 生成器</li>
 	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）</li>
 	<li><a href="https://github.com/mitulgolakiya/laravel-api-generator">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器</li>
