@@ -414,6 +414,7 @@
 	<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a></li>
 	<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a></li>
 	<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a></li>
+	<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a></li>
 	<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a></li>
 	<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a></li>
 	<li><a href="https://github.com/TypiCMS/Base">TypiCMS</a></li>
