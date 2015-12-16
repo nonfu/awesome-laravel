@@ -399,6 +399,7 @@
 	<li><a href="https://github.com/REBELinBLUE/deployer">Deployer</a></li>
 	<li><a href="http://laravelacademy.org/post/1090.html" target="_blank">Flarum</a></li>
 	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a></li>
+	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a></li>
 	<li><a href="https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site">Laravel 4 Bootstrap Starter Site</a></li>
 	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a></li>
 	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a></li>
