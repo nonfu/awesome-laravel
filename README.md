@@ -102,11 +102,13 @@
 	<li><a href="https://github.com/overtrue/pinyin" target="_blank">Laravel Pinyin</a> - 基于词库的中文转拼音优质解决方案</li>
 	<li><a href="https://github.com/Bosnadev/Repositories">Laravel Repositories </a>– 在Laravel中使用Repository模式实现业务逻辑与数据访问的分离</li>
 	<li><a href="https://github.com/spatie/laravel-responsecache">Laravel Responsecache</a> - 通过缓存整个响应加速Laravel应用</li>
+	<li><a href="https://github.com/toplan/laravel-sms">Laravel Sms</a> – Laravel 短信发送扩展包</li>
 	<li><a href="https://github.com/barryvdh/laravel-snappy">Laravel Snappy</a> - 使用wkhtmltopdf将HTML转化为PDF生成器</li>
 	<li><a href="https://github.com/CodeSleeve/laravel-stapler">Laravel Stapler</a> - 基于ORM的文件上传管理器</li>
 	<li><a href="https://github.com/antonioribeiro/tracker">Laravel Stats Tracker</a> - 从请求中收集信息以验证和存储</li>
 	<li><a href="https://github.com/spatie/laravel-tail">Laravel Tail</a> - Laravel 5 漏掉的tail命令</li>
 	<li><a href="https://github.com/RachidLaasri/LaravelInstaller/">Laravel Web Installer</a> – 通过浏览器安装 Laravel 5.1</li>
+	<li><a href="https://github.com/webpatser/laravel-uuid">Laravel Uuid</a> – 基于RFC 4122标准生成UUID的Laravel包</li>
 	<li><a href="https://github.com/overtrue/latest-laravel" target="_blank">Latest Laravel</a> - 每天准时更新的 Laravel 不同分支完整包</li>
 	<li><a href="https://github.com/lookitsatravis/listify">Listify</a> - 添加分类/排序到任意Eloquent模型</li>
 	<li><a href="https://github.com/ARCANEDEV/noCAPTCHA">noCAPTCHA</a> - Google新的noCAPTCHA（reCAPTCHA）助手</li>
