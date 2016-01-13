@@ -326,6 +326,7 @@
 	<li><a href="http://codelution.com/tag/laravel/">Codelution</a></li>
 	<li><a href="http://codebyjeff.com/">codebyjeff</a></li>
 	<li><a href="http://goodheads.io/category/laravel/">Good Heads</a></li>
+	<li><a href="http://adamwathan.me/">Adam Wathan</a></li>
 </ul>
 <h3><a id="user-content-视频教程" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B"></a>视频教程</h3>
 <h4>英文</h4>
