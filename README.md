@@ -127,6 +127,10 @@
 	<li><a href="https://github.com/laracasts/PHP-Vars-To-Js-Transformer">PHP Vars to JavaScript Transformer</a> - 在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据</li>
 	<li><a href="https://github.com/proengsoft/laravel-jsvalidation">Javascript Validation</a> - 使用验证规则、消息、表单请求和验证器在客户端验证表单而不需要编写任何JavaScript代码</li>
 </ul>
+<h4 id="ipt_kb_toc_153_12" tabindex="-1"><strong>前端模板</strong></h4>
+<ul>
+<li><a href="https://github.com/acacha/adminlte-laravel" target="_blank">AdminLTE Template For Laravel 5</a>&nbsp;– 将默认 Laravel 前端模板代码替换成 AdminLTE 和 Pratt 页面</li>
+</ul>
 <h4><a id="user-content-数据库-迁移--填充" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%BF%81%E7%A7%BB--%E5%A1%AB%E5%85%85"></a><strong>数据库,ORMS, 迁移 &amp; 填充</strong></h4>
 <ul>
 	<li><a href="https://github.com/heybigname/backup-manager">Backup Manager</a> - 在S3, Dropbox, SFTP中备份及取出数据库</li>
