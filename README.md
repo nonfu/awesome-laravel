@@ -3,7 +3,7 @@
 <h3><a id="user-content-必备品" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BF%85%E5%A4%87%E5%93%81"></a>必备品</h3>
 <ul>
 	<li>文档：<a href="http://laravel.com/docs">Documentation</a></li>
-	<li>API： <a href="http://laravel.com/api/">API Reference</a></li>
+	<li>API： <a href="http://laravel.com/api/master">API Reference</a></li>
 	<li>视频：<a href="http://laracasts.com/">Laracasts</a></li>
 	<li>新闻：<a href="http://laravel-news.com/">Laravel News</a></li>
 </ul>
@@ -398,6 +398,9 @@
 	<li><a href="https://leanpub.com/laravel5learneasy">Laravel 5 Learn Easy</a></li>
 	<li><a href="https://leanpub.com/laravel-and-angularjs">Laravel and AngularJS</a></li>
 	<li><a href="http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/">Laravel 5 UnFolded</a></li>
+	<li><a href="https://leanpub.com/lumen-apis">Writing APIs With Lumen</a></li>
+	<li><a href="https://leanpub.com/laravelsurvivalguide">The Laravel Survival Guide</a></li>
+	<li><a href="https://leanpub.com/laravel-5-for-beginners-laraboot">Laraboot: Laravel 5 For Beginners</a></li>
 </ul>
 <h3><a id="user-content-代码库" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%BB%A3%E7%A0%81%E5%BA%93"></a>代码库</h3>
 <ul>
