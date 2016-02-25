@@ -404,33 +404,37 @@
 </ul>
 <h3><a id="user-content-代码库" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%BB%A3%E7%A0%81%E5%BA%93"></a>代码库</h3>
 <ul>
-	<li><a href="http://laravelacademy.org/post/1045.html">92Five</a></li>
-	<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a></li>
-	<li><a href="http://laravelacademy.org/post/824.html">Cachet</a></li>
-	<li><a href="https://github.com/REBELinBLUE/deployer">Deployer</a></li>
-	<li><a href="http://laravelacademy.org/post/1090.html" target="_blank">Flarum</a></li>
-	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a></li>
-	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a></li>
-	<li><a href="https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site">Laravel 4 Bootstrap Starter Site</a></li>
-	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a></li>
-	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a></li>
-	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5 Boilerplate</a></li>
-	<li><a href="https://github.com/DimitriMikadze/laravel-angular-cms">Laravel and AngularJS CMS</a></li>
-	<li><a href="http://laravelacademy.org/post/788.html">Laravel.com</a></li>
-	<li><a href="http://laravelacademy.org/post/666.html">Laravel.IO</a></li>
-	<li><a href="http://laravelacademy.org/post/1227.html" target="_blank">Lavalite</a></li>
-	<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
-	<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a></li>
-	<li><a href="http://laravelacademy.org/post/1132.html">October</a></li>
-	<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a></li>
-	<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a></li>
-	<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a></li>
-	<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a></li>
-	<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a></li>
-	<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a></li>
-	<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a></li>
-	<li><a href="https://github.com/TypiCMS/Base">TypiCMS</a></li>
-	<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a></li>
+<li><a href="http://laravelacademy.org/post/1045.html">92Five</a></li>
+<li><a href="https://github.com/acacha/adminlte-laravel">Acacha adminlte-laravel</a></li>
+<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a></li>
+<li><a href="http://laravelacademy.org/post/824.html">Cachet</a></li>
+<li><a href="https://github.com/REBELinBLUE/deployer">Deployer</a></li>
+<li><a href="http://laravelacademy.org/post/1090.html" target="_blank">Flarum</a></li>
+<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a></li>
+<li><a href="http://laravelacademy.org/post/2624.html">Koel</a></li>
+<li><a href="https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site">Laravel 4 Bootstrap Starter Site</a></li>
+<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a></li>
+<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a></li>
+<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5 Boilerplate</a></li>
+<li><a href="https://github.com/DimitriMikadze/laravel-angular-cms">Laravel and AngularJS CMS</a></li>
+<li><a href="http://laravelacademy.org/post/788.html">Laravel.com</a></li>
+<li><a href="https://github.com/unicodeveloper/laravel-hackathon-starter">Laravel Hackathon Starter</a></li>
+<li><a href="http://laravelacademy.org/post/666.html">Laravel.IO</a></li>
+<li><a href="http://laravelacademy.org/post/1227.html" target="_blank">Lavalite</a></li>
+<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
+<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
+<li><a href="https://github.com/laravel/spark">Laravel Spark</a></li>
+<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a></li>
+<li><a href="http://laravelacademy.org/post/1132.html">October</a></li>
+<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a></li>
+<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a></li>
+<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a></li>
+<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a></li>
+<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a></li>
+<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a></li>
+<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a></li>
+<li><a href="https://github.com/TypiCMS/Base">TypiCMS</a></li>
+<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a></li>
 </ul>
 <h3><a id="user-content-新闻" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%96%B0%E9%97%BB"></a>新闻</h3>
 <ul>
