@@ -1,9 +1,9 @@
 <blockquote>来自Laravel生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。</blockquote>
-更多Laravel中文学习资源，请关注：<a href="http://laravelacademy.org">Laravel学院</a>
+对应GitHub地址：<a href="https://github.com/nonfu/awesome-laravel" target="_blank">https://github.com/nonfu/awesome-laravel</a>，更多Laravel中文学习资源，请关注：<a href="http://laravelacademy.org">Laravel学院</a>
 <h3><a id="user-content-必备品" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BF%85%E5%A4%87%E5%93%81"></a>必备品</h3>
 <ul>
 	<li>文档：<a href="http://laravel.com/docs">Documentation</a></li>
-	<li>API： <a href="http://laravel.com/api/master">API Reference</a></li>
+	<li>API： <a href="https://laravel.com/api/master/">API Reference</a></li>
 	<li>视频：<a href="http://laracasts.com/">Laracasts</a></li>
 	<li>新闻：<a href="http://laravel-news.com/">Laravel News</a></li>
 </ul>
@@ -34,7 +34,6 @@
 	<li><a href="http://cheats.jesse-obrien.ca/">Laravel Cheat Sheet</a></li>
 	<li><a href="http://www.laravel-tricks.com/">Laravel Tricks</a></li>
 	<li><a href="http://laravel-recipes.com/">Laravel Recipies</a></li>
-	<li><a href="http://laravelsnippets.com/">Laravel Snippets</a></li>
 	<li><a href="http://laravelacademy.org/resources/code">代码片段</a></li>
 </ul>
 <h3><a id="user-content-相关包" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E7%9B%B8%E5%85%B3%E5%8C%85"></a>相关包</h3>
@@ -52,10 +51,11 @@
 	<li><a href="https://github.com/JeffreyWay/Laravel-4-Generators">Generators</a> - 为Laravel自动生成代码（Laravel 4）</li>
 	<li><a href="https://github.com/Indatus/blacksmith">Blacksmith</a> - 灵活的代码生成工具（Laravel 4）</li>
 	<li><a href="https://github.com/barryvdh/laravel-ide-helper">IDE Helper</a> - 为IDE的自动完成功能生成帮助文件（Laravel 4 &amp; Laravel 5）</li>
-	<li><a href="https://github.com/adamwathan/jigsaw">Jigsaw</a> – 使用Blade的静态站点生成器</li>
+	<li><a href="https://github.com/adamwathan/jigsaw">Jigsaw</a> - 使用Blade的静态站点生成器</li>
 	<li><a href="https://github.com/appzcoder/crud-generator">Laravel 5 CRUD Generator</a> - Laravel 5 CRUD 生成器</li>
 	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）</li>
-	<li><a href="https://github.com/mitulgolakiya/laravel-api-generator">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器</li>
+	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器</li>
+	<li><a href="https://github.com/spatie/laravel-menu" target="_blank">Html Menu Generator for Laravel</a> - Html导航菜单生成器</li>
 </ul>
 <h4><a id="user-content-调试--分析" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%B0%83%E8%AF%95--%E5%88%86%E6%9E%90"></a><strong>调试 &amp; 分析</strong></h4>
 <ul>
@@ -93,6 +93,7 @@
 	<li><a href="https://github.com/kamranahmedse/laravel-censor">Laravel Censor</a> —— 用于在Laravel 5.1中编辑、替换视图中指定单词/字符的中间件</li>
 	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatable</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
 	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
+	<li><a href="https://github.com/unicodeveloper/laravel-emoji">laravel-emoji</a> - Laravel表情扩展包</li>
 	<li><a href="https://github.com/Maatwebsite/Laravel-Excel">Laravel Excel</a> - 导入导出Excel和CSV文件</li>
 	<li><a href="https://github.com/Torann/laravel-geoip">Laravel GeoIP</a> - 基于网站访问用户的IP地址判断其地理位置</li>
 	<li><a href="https://github.com/vinkla/hashids">Laravel Hashids</a> - 使用<a href="http://hashids.org/php/">Hashids</a>生成短小的、唯一的、非顺序的数字id</li>
@@ -100,23 +101,23 @@
 	<li><a href="https://github.com/spatie/laravel-medialibrary" target="_blank">Laravel MediaLibrary</a> - Eloquent模型助手文件</li>
 	<li><a href="https://github.com/cmgmyr/laravel-messenger">Laravel Messenger</a> - 在Laravel中创建用户消息系统</li>
 	<li><a href="https://github.com/overtrue/pinyin" target="_blank">Laravel Pinyin</a> - 基于词库的中文转拼音优质解决方案</li>
-	<li><a href="https://github.com/Bosnadev/Repositories">Laravel Repositories </a>– 在Laravel中使用Repository模式实现业务逻辑与数据访问的分离</li>
+	<li><a href="https://github.com/Bosnadev/Repositories">Laravel Repositories </a>- 在Laravel中使用Repository模式实现业务逻辑与数据访问的分离</li>
 	<li><a href="https://github.com/spatie/laravel-responsecache">Laravel Responsecache</a> - 通过缓存整个响应加速Laravel应用</li>
-	<li><a href="https://github.com/toplan/laravel-sms">Laravel Sms</a> – Laravel 短信发送扩展包</li>
+	<li><a href="https://github.com/toplan/laravel-sms">Laravel Sms</a> - Laravel 短信发送扩展包</li>
 	<li><a href="https://github.com/barryvdh/laravel-snappy">Laravel Snappy</a> - 使用wkhtmltopdf将HTML转化为PDF生成器</li>
 	<li><a href="https://github.com/CodeSleeve/laravel-stapler">Laravel Stapler</a> - 基于ORM的文件上传管理器</li>
 	<li><a href="https://github.com/antonioribeiro/tracker">Laravel Stats Tracker</a> - 从请求中收集信息以验证和存储</li>
 	<li><a href="https://github.com/spatie/laravel-tail">Laravel Tail</a> - Laravel 5 漏掉的tail命令</li>
-	<li><a href="https://github.com/RachidLaasri/LaravelInstaller/">Laravel Web Installer</a> – 通过浏览器安装 Laravel 5.1</li>
-	<li><a href="https://github.com/webpatser/laravel-uuid">Laravel Uuid</a> – 基于RFC 4122标准生成UUID的Laravel包</li>
+	<li><a href="https://github.com/webpatser/laravel-uuid">Laravel Uuid</a> - 基于RFC 4122标准生成UUID的Laravel包</li>
+	<li><a href="https://github.com/RachidLaasri/LaravelInstaller/">Laravel Web Installer</a> - 通过浏览器安装 Laravel 5.1</li>
 	<li><a href="https://github.com/overtrue/latest-laravel" target="_blank">Latest Laravel</a> - 每天准时更新的 Laravel 不同分支完整包</li>
 	<li><a href="https://github.com/lookitsatravis/listify">Listify</a> - 添加分类/排序到任意Eloquent模型</li>
-	<li><a href="https://github.com/ARCANEDEV/noCAPTCHA">noCAPTCHA</a> - Google新的noCAPTCHA（reCAPTCHA）助手</li>
+	<li><a href="https://github.com/anhskohbo/no-captcha">noCAPTCHA</a> - Google新的noCAPTCHA（reCAPTCHA）助手</li>
 	<li><a href="https://github.com/greggilbert/recaptcha">Recaptcha</a> - 验证码校验器（Laravel 5）</li>
 	<li><a href="https://github.com/VentureCraft/revisionable">Revisionable</a> - 创建Eloquent模型的历史版本</li>
 	<li><a href="https://github.com/artesaos/seotools">SEOTools</a> - Laravel和Lumen的SEO工具包</li>
-	<li><a href="https://github.com/Phil-F/Setting">Setting</a> - 将配置信息持久化存储到JSON文件中</li>
-	<li><a href="https://github.com/SimpleSoftwareIO/simple-qrcode">Simple QrCode</a> – Laravel二维码生成器</li>
+	<li><a href="https://github.com/thetispro/laravel5-setting">Setting</a> - 将配置信息持久化存储到JSON文件中</li>
+	<li><a href="https://github.com/SimpleSoftwareIO/simple-qrcode">Simple QrCode</a> - Laravel二维码生成器</li>
 	<li><a href="https://github.com/mpociot/teamwork">Teamwork</a> - 在一个邀请系统中用户与小组的关联</li>
 	<li><a href="https://github.com/dwightwatson/validating">Validating</a> - 用于Eloquent模型保存验证的Trait</li>
 	<li><a href="https://github.com/mpociot/vat-calculator">VAT Calculator</a> - 处理所有与欧盟MOSS增值税条例相关的麻烦事儿</li>
@@ -127,11 +128,11 @@
 	<li><a href="https://github.com/laracasts/PHP-Vars-To-Js-Transformer">PHP Vars to JavaScript Transformer</a> - 在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据</li>
 	<li><a href="https://github.com/proengsoft/laravel-jsvalidation">Javascript Validation</a> - 使用验证规则、消息、表单请求和验证器在客户端验证表单而不需要编写任何JavaScript代码</li>
 </ul>
-<h4 id="ipt_kb_toc_153_12" tabindex="-1"><strong>前端模板</strong></h4>
+<h4><strong>前端模板</strong></h4>
 <ul>
-<li><a href="https://github.com/acacha/adminlte-laravel" target="_blank">AdminLTE Template For Laravel 5</a>&nbsp;– 将默认 Laravel 前端模板代码替换成 AdminLTE 和 Pratt 页面</li>
+	<li><a href="https://github.com/acacha/adminlte-laravel" target="_blank">AdminLTE Template For Laravel 5</a> - 将默认 Laravel 前端模板代码替换成 AdminLTE 和 Pratt 页面</li>
 </ul>
-<h4><a id="user-content-数据库-迁移--填充" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%BF%81%E7%A7%BB--%E5%A1%AB%E5%85%85"></a><strong>数据库,ORMS, 迁移 &amp; 填充</strong></h4>
+<h4><a id="user-content-数据库-迁移--填充" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%95%B0%E6%8D%AE%E5%BA%93-%E8%BF%81%E7%A7%BB--%E5%A1%AB%E5%85%85"></a><strong>数据库，ORMS， 迁移 &amp; 填充</strong></h4>
 <ul>
 	<li><a href="https://github.com/heybigname/backup-manager">Backup Manager</a> - 在S3, Dropbox, SFTP中备份及取出数据库</li>
 	<li><a href="https://github.com/etrepat/baum">Baum</a> - 在Laravel中实现嵌套集合模式</li>
@@ -143,9 +144,9 @@
 	<li><a href="https://github.com/GrahamCampbell/Laravel-Flysystem">Laravel Flysystem</a> - 从远程主机(AWS S3, Dropbox等)而非本地文件系统提取文件</li>
 	<li><a href="https://github.com/jenssegers/laravel-mongodb">Laravel MongoDB</a> - 支持MongoDB的Eloquent模型及Query构造器</li>
 	<li><a href="https://github.com/Xethron/migrations-generator">Migrations Generator</a> - 从已有数据库中生成迁移</li>
-	<li><a href="https://github.com/jarektkaczyk/eloquence">Sofa/Eloquence</a> – Eloquent ORM 扩展</li>
+	<li><a href="https://github.com/jarektkaczyk/eloquence">Sofa/Eloquence</a> - Eloquent ORM 扩展</li>
 	<li><a href="https://github.com/orchestral/tenanti">Tenanti</a> - 群租数据库结构管理器</li>
-	<li><a href="https://github.com/znck/belongs-to-through">belongsToThrough</a> - 逆向的远层一对多 </li>
+	<li><a href="https://github.com/znck/belongs-to-through">belongsToThrough</a> - 逆向的远层一对多</li>
 </ul>
 <h4><strong>搜索</strong></h4>
 <ul>
@@ -187,6 +188,10 @@
 	<li><a href="https://github.com/vinkla/translator" target="_blank">Laravel Translator</a> - 将Eloquent模型翻译到多种语言文件</li>
 	<li><a href="https://github.com/jenssegers/laravel-date" target="_blank">Laravel Date</a> - 基于Carbon的库，用于处理多语言日期格式</li>
 </ul>
+<h4><strong>模块化</strong></h4>
+<ul>
+	<li><a href="https://github.com/pingpong-labs/modules">Laravel 5 Modules</a> - Laravel 5 中实现模块化开发</li>
+</ul>
 <h4><a id="user-content-第三方服务集成" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9C%8D%E5%8A%A1%E9%9B%86%E6%88%90"></a><strong>第三方服务集成</strong></h4>
 <ul>
 	<li><a href="https://github.com/vinkla/algolia">Laravel Algolia</a> - 连接 Algolia API</li>
@@ -202,6 +207,7 @@
 	<li><a href="https://github.com/GrahamCampbell/Laravel-Parse">Laravel Parse</a> - 连接 PHP Parse SDK</li>
 	<li><a href="https://github.com/vinkla/pusher">Laravel Pusher</a> - 连接 Pusher API</li>
 	<li><a href="https://github.com/schimpanz/Laravel-Pushwoosh" target="_blank">Laravel Pushwoosh</a> - Pushwoosh API</li>
+	<li><a href="https://github.com/maknz/slack">Laravel Slack</a> - 发动消息到Slack</li>
 	<li><a href="https://github.com/vinkla/vimeo">Laravel Vimeo</a> - 连接 Vimeo API</li>
 	<li><a href="https://github.com/overtrue/laravel-wechat" target="_blank">Laravel Wechat</a> - 目前最优雅的微信公众平台 SDK</li>
 	<li><a href="https://github.com/huanghua581/laravel-wechat-sdk">Laravel Wechat SDK</a> - 另一个微信公众平台 Laravel SDK</li>
@@ -251,7 +257,7 @@
 	<li><a href="https://github.com/Anahkiasen/rocketeer">Rocketeer</a> - 任务运行期及部署包</li>
 </ul>
 <h3><a id="user-content-文章-教程-博客等" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%96%87%E7%AB%A0-%E6%95%99%E7%A8%8B-%E5%8D%9A%E5%AE%A2%E7%AD%89"></a>文章，教程，博客等</h3>
-<h4><strong>中文</strong></h4>
+<h4>中文</h4>
 <ul>
 	<li><a href="http://laravelacademy.org/resources/tutorial">Laravel学院实例教程</a></li>
 	<li><a href="http://laravel.so" target="_blank">Laravel技巧：Laravel.so</a></li>
@@ -267,13 +273,15 @@
 	<li><a href="http://overtrue.me/" target="_blank">安正超博客</a></li>
 	<li><a href="http://laravelbase.com/" target="_blank">LaraBase - PHP工匠之家</a></li>
 	<li><a href="http://laravel.lapland.name/" target="_blank">Hello Laravel！</a></li>
+	<li><a href="http://note.mango.im/" target="_blank">芒果笔记</a></li>
+	<li><a href="http://www.kyomini.com/" target="_blank">Laravel | Kyomini</a></li>
 </ul>
-<h4><strong>英文</strong></h4>
+<h4>英文</h4>
 <ul>
 	<li><a href="http://code.tutsplus.com/categories/laravel">Tuts+</a></li>
-	<li><a href="http://www.sitepoint.com/php/page/0/?filter%5B4047%5D=on">SitePoint</a></li>
-	<li><a href="https://medium.com/laravel-4">Christopher Pitt</a></li>
-	<li><a href="http://culttt.com/tag/cribbb/">Culttt</a></li>
+	<li><a href="http://www.sitepoint.com/tag/laravel/" target="_blank">SitePoint</a></li>
+	<li><a href="https://medium.com/laravel-5">Christopher Pitt</a></li>
+	<li><a href="http://culttt.com/tag/laravel/" target="_blank">Culttt</a></li>
 	<li><a href="http://scotch.io/tag/laravel">Scotch</a></li>
 	<li><a href="http://fideloper.com/tag/laravel">Fideloper</a></li>
 	<li><a href="http://maxoffsky.com/tag/laravel/">Maxoffsky</a></li>
@@ -329,33 +337,26 @@
 	<li><a href="http://www.tutorials.kode-blog.com/laravel-5-tutorial">Laravel 5 Tutorial</a></li>
 	<li><a href="http://codelution.com/tag/laravel/">Codelution</a></li>
 	<li><a href="http://codebyjeff.com/">codebyjeff</a></li>
+	<li><a href="https://forlaravel.com/" target="_blank">ForLaravel</a></li>
 	<li><a href="http://goodheads.io/category/laravel/">Good Heads</a></li>
 	<li><a href="http://adamwathan.me/">Adam Wathan</a></li>
 </ul>
-<h3><a id="user-content-视频教程" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B"></a>视频教程</h3>
+<h3><a id="user-content-视频教程" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B"></a>视频</h3>
 <h4>英文</h4>
 <ul>
 	<li><a href="https://laracasts.com/">Laracasts</a></li>
-	<li><a href="https://www.youtube.com/user/phpacademy/playlists">PHP Academy</a></li>
-	<li><a href="https://www.youtube.com/user/fallendown2005/playlists">Fallendown2005</a></li>
-	<li><a href="http://vimeo.com/userscape/videos">Userscape</a></li>
-	<li><a href="http://teamtreehouse.com/library/laravel-basics">Treehouse</a></li>
-	<li><a href="https://www.youtube.com/user/anthonytrading81/playlists">Anthony Vipond</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PLl0rlrKS77Mr5T6k8ZPfvCcaJ8ctk1ChU">Design Code Blade</a></li>
-	<li><a href="http://www.formatccolon.com/blog/category/code-web-development/laravel/">Format C:</a></li>
-	<li><a href="https://www.youtube.com/watch?v=QBdudSQ1aLg">Brandon Boswell</a></li>
-	<li><a href="https://www.youtube.com/watch?v=BtbB26VWTBI">Jason Chaney</a></li>
-	<li><a href="https://www.youtube.com/watch?v=hqAyiqUs93c">David Mosher</a></li>
-	<li><a href="https://www.youtube.com/channel/UCrehvx9t0p_TFAIw6YLtzDQ/videos">Maarten (muukrls)</a></li>
-	<li><a href="https://www.youtube.com/playlist?list=PL2uFHrRTF1xxC4nG9gMUmwONI3d_vJEJf">Yavor Kirov</a></li>
-	<li><a href="http://www.lynda.com/Laravel-tutorials/Up-Running-Laravel/166513-2.html">Lynda</a></li>
+	<li><a href="https://www.codecourse.com/">Coursecode</a> (<a href="https://www.youtube.com/user/phpacademy/playlists">YouTube</a>)</li>
 	<li><a href="http://code.tutsplus.com/categories/laravel/courses">Tuts+</a></li>
-	<li><a href="http://www.youtube.com/playlist?list=PLaWzibV7A82RMFW58Iq2gZHpB_TLrixFY">Novica Vukobratovic</a></li>
-	<li><a href="https://www.youtube.com/user/silencedsg/videos" target="_blank">Duilio Palacios</a></li>
+	<li><a href="https://www.udemy.com/courses/search/?q=laravel&amp;lang=en">Udemy</a></li>
+	<li><a href="https://teamtreehouse.com/library/q:laravel">Treehouse</a></li>
+	<li><a href="https://www.youtube.com/user/silencedsg/videos">Duilio Palacios</a></li>
 	<li><a href="https://www.youtube.com/playlist?list=PL_UnIDIwT95NUvLU14l_QFFV2ZxO1phpQ">DevDojo</a></li>
+	<li><a href="https://www.youtube.com/channel/UC4gijXR8cM4gmEt9Olse-TQ/videos">Amitav Roy</a></li>
+	<li><a href="http://www.lynda.com/Laravel-training-tutorials/2779-0.html">Lynda</a></li>
+	<li><a href="https://www.pluralsight.com/search?q=laravel&amp;categories=course">Pluralsight</a></li>
 </ul>
 <h3><a id="user-content-讨论" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%AE%A8%E8%AE%BA"></a>讨论</h3>
-<strong>英文</strong>
+英文
 <ul>
 	<li><a href="http://laracon.us/">Laracon US</a></li>
 	<li><a href="http://laracon.eu/">Laracon EU</a></li>
@@ -398,43 +399,46 @@
 	<li><a href="https://leanpub.com/laravel5learneasy">Laravel 5 Learn Easy</a></li>
 	<li><a href="https://leanpub.com/laravel-and-angularjs">Laravel and AngularJS</a></li>
 	<li><a href="http://www.amazon.com/Laravel-UnFolded-Application-Programming-Simplified-ebook/dp/B011I0DVWO/">Laravel 5 UnFolded</a></li>
+	<li><a href="https://leanpub.com/laravelcollectionsunraveled" target="_blank">Laravel Collections Unraveled</a></li>
 	<li><a href="https://leanpub.com/lumen-apis">Writing APIs With Lumen</a></li>
 	<li><a href="https://leanpub.com/laravelsurvivalguide">The Laravel Survival Guide</a></li>
 	<li><a href="https://leanpub.com/laravel-5-for-beginners-laraboot">Laraboot: Laravel 5 For Beginners</a></li>
 </ul>
 <h3><a id="user-content-代码库" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%BB%A3%E7%A0%81%E5%BA%93"></a>代码库</h3>
 <ul>
-<li><a href="http://laravelacademy.org/post/1045.html">92Five</a></li>
-<li><a href="https://github.com/acacha/adminlte-laravel">Acacha adminlte-laravel</a></li>
-<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a></li>
-<li><a href="http://laravelacademy.org/post/824.html">Cachet</a></li>
-<li><a href="https://github.com/REBELinBLUE/deployer">Deployer</a></li>
-<li><a href="http://laravelacademy.org/post/1090.html" target="_blank">Flarum</a></li>
-<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a></li>
-<li><a href="http://laravelacademy.org/post/2624.html">Koel</a></li>
-<li><a href="https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site">Laravel 4 Bootstrap Starter Site</a></li>
-<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a></li>
-<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a></li>
-<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5 Boilerplate</a></li>
-<li><a href="https://github.com/DimitriMikadze/laravel-angular-cms">Laravel and AngularJS CMS</a></li>
-<li><a href="http://laravelacademy.org/post/788.html">Laravel.com</a></li>
-<li><a href="https://github.com/unicodeveloper/laravel-hackathon-starter">Laravel Hackathon Starter</a></li>
-<li><a href="http://laravelacademy.org/post/666.html">Laravel.IO</a></li>
-<li><a href="http://laravelacademy.org/post/1227.html" target="_blank">Lavalite</a></li>
-<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
-<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
-<li><a href="https://github.com/laravel/spark">Laravel Spark</a></li>
-<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a></li>
-<li><a href="http://laravelacademy.org/post/1132.html">October</a></li>
-<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a></li>
-<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a></li>
-<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a></li>
-<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a></li>
-<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a></li>
-<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a></li>
-<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a></li>
-<li><a href="https://github.com/TypiCMS/Base">TypiCMS</a></li>
-<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a></li>
+	<li><a href="http://laravelacademy.org/post/1045.html">92Five</a></li>
+	<li><a href="https://github.com/acacha/adminlte-laravel">Acacha adminlte-laravel</a></li>
+	<li><a href="https://github.com/AsgardCms/Platform">AsgardCMS</a></li>
+	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a></li>
+	<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a></li>
+	<li><a href="http://laravelacademy.org/post/824.html">Cachet</a></li>
+	<li><a href="https://github.com/REBELinBLUE/deployer">Deployer</a></li>
+	<li><a href="http://laravelacademy.org/post/1090.html" target="_blank">Flarum</a></li>
+	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a></li>
+	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a></li>
+	<li><a href="https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site">Laravel 4 Bootstrap Starter Site</a></li>
+	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a></li>
+	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a></li>
+	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5 Boilerplate</a></li>
+	<li><a href="https://github.com/DimitriMikadze/laravel-angular-cms">Laravel and AngularJS CMS</a></li>
+	<li><a href="http://laravelacademy.org/post/788.html">Laravel.com</a></li>
+	<li><a href="https://github.com/unicodeveloper/laravel-hackathon-starter">Laravel Hackathon Starter</a></li>
+	<li><a href="http://laravelacademy.org/post/666.html">Laravel.IO</a></li>
+	<li><a href="http://laravelacademy.org/post/1227.html" target="_blank">Lavalite</a></li>
+	<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
+	<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
+	<li><a href="https://github.com/laravel/spark">Laravel Spark</a></li>
+	<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a></li>
+	<li><a href="http://laravelacademy.org/post/1132.html">October</a></li>
+	<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a></li>
+	<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a></li>
+	<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a></li>
+	<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a></li>
+	<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a></li>
+	<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a></li>
+	<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a></li>
+	<li><a href="https://github.com/TypiCMS/Base">TypiCMS</a></li>
+	<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a></li>
 </ul>
 <h3><a id="user-content-新闻" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%96%B0%E9%97%BB"></a>新闻</h3>
 <ul>
@@ -442,8 +446,15 @@
 	<li><a href="http://laravelweekly.com/">Laravel Weekly</a></li>
 	<li><a href="http://laravelacademy.org/news">Laravel 新闻</a></li>
 </ul>
+<h3>播客</h3>
+<ul>
+	<li><a href="http://www.laravelpodcast.com/">The Laravel Podcast</a></li>
+	<li><a href="http://podcast.laravel-news.com/">The Laravel News Podcast</a></li>
+	<li><a href="https://laracasts.simplecast.fm/">The Laracasts Snippet</a></li>
+	<li><a href="http://larachat.co/live">Larachat Live</a></li>
+</ul>
 <h3><a id="user-content-社区" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E7%A4%BE%E5%8C%BA"></a>社区</h3>
-<h4><strong>中文</strong></h4>
+<h4>中文</h4>
 <ul>
 	<li><a href="https://phphub.org/" target="_blank">PHPHub</a></li>
 	<li><a href="http://wenda.golaravel.com/">Laravel中文网问答社区</a></li>
@@ -451,7 +462,7 @@
 	<li><a href="http://www.zhihu.com/topic/19856963/newest">知乎Laravel话题</a></li>
 	<li><a href="http://www.oschina.net/question/tag/laravel">开源中国社区Laravel标签归档</a></li>
 </ul>
-<h4><strong>繁体中文</strong></h4>
+<h4>繁体中文</h4>
 <ul>
 	<li><a href="http://forum.laravel.tw/">Laravel台湾技术论坛</a></li>
 </ul>
@@ -513,4 +524,5 @@
 	<li><a href="https://www.larasites.com/">Larasites</a> - 基于Laravel构建的网站</li>
 	<li><a href="http://codecanyon.net/tags/laravel?term=laravel">CodeCanyon</a> - 支付脚本和插件</li>
 	<li><a href="https://laramap.com/" target="_blank">Laramap</a> - Laravel开发者地图</li>
+	<li><a href="https://laraver.xyz/" target="_blank">Laravel Versions {x.y.z}</a> - Laravel更新记录</li>
 </ul>
