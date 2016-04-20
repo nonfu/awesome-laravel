@@ -84,12 +84,14 @@
 </ul>
 <h4><a id="user-content-其它有用的利器" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%85%B6%E5%AE%83%E6%9C%89%E7%94%A8%E7%9A%84%E5%88%A9%E5%99%A8"></a><strong>其它有用的利器</strong></h4>
 <ul>
+	<li><a href="https://github.com/aimeos/aimeos-laravel">Aimeos Laravel package</a> - Laravel 电子商务扩展包</li>
 	<li><a href="https://github.com/patricktalmadge/bootstrapper/">Bootstrapper</a> - 创建Bootstrap 3标记的类集</li>
 	<li><a href="https://github.com/Chumper/Datatable">Datatable</a> - 为jQuery数据表插件集成服务器端和客户端</li>
 	<li><a href="https://github.com/laravelista/Ekko">Ekko</a> - 自动高亮当前激活的导航菜单并应用Bootstrap样式</li>
 	<li><a href="https://github.com/cviebrock/eloquent-sluggable">Eloquent Sluggable</a> - 创建Eloquent模型小物件</li>
 	<li><a href="https://github.com/LaravelCollective/html">HTML</a> - Laravel官方HTML及表单构建器</li>
 	<li><a href="https://github.com/Intervention/image">Intervention Image</a> - 图片处理库（创建、编辑、压缩图片）</li>
+	<li><a href="https://github.com/kristijanhusak/laravel-form-builder">Laravel 5 form builder</a> - Laravel 5 表单构建器</li>
 	<li><a href="https://github.com/yccphp/laravel-5-markdown-editor" target="_blank">laravel-5-markdown-editor</a> - Laravel 5 Markdown编辑器</li>
 	<li><a href="https://github.com/stevenyangecho/laravel-u-editor" target="_blank">Laravel 5 UEditor</a> - 百度编辑器集成到Laravel5（支持七牛云存储）</li>
 	<li><a href="https://github.com/FrozenNode/Laravel-Administrator" target="_blank">Laravel Administrator</a> - Laravel后台管理</li>
@@ -110,11 +112,13 @@
 	<li><a href="https://github.com/Bosnadev/Repositories">Laravel Repositories </a>- 在Laravel中使用Repository模式实现业务逻辑与数据访问的分离</li>
 	<li><a href="https://github.com/spatie/laravel-responsecache">Laravel Responsecache</a> - 通过缓存整个响应加速Laravel应用</li>
 	<li><a href="https://github.com/anlutro/laravel-settings">Laravel Settings</a> - 对Laravel进行全局配置</li>
+	<li><a href="https://github.com/ericmakesstuff/laravel-server-monitor">Laravel Server Monitor</a> - Laravel应用服务器监听命令</li>
 	<li><a href="https://github.com/toplan/laravel-sms">Laravel Sms</a> - Laravel 短信发送扩展包</li>
 	<li><a href="https://github.com/barryvdh/laravel-snappy">Laravel Snappy</a> - 使用wkhtmltopdf将HTML转化为PDF生成器</li>
 	<li><a href="https://github.com/CodeSleeve/laravel-stapler">Laravel Stapler</a> - 基于ORM的文件上传管理器</li>
 	<li><a href="https://github.com/antonioribeiro/tracker">Laravel Stats Tracker</a> - 从请求中收集信息以验证和存储</li>
 	<li><a href="https://github.com/spatie/laravel-tail">Laravel Tail</a> - Laravel 5 漏掉的tail命令</li>
+	<li><a href="https://github.com/mpociot/laravel-test-factory-helper">Laravel Test Factory Generator</a> - 通过已存在的模型生成Laravel测试工厂类</li>
 	<li><a href="https://github.com/webpatser/laravel-uuid">Laravel Uuid</a> - 基于RFC 4122标准生成UUID的Laravel包</li>
 	<li><a href="https://github.com/RachidLaasri/LaravelInstaller/">Laravel Web Installer</a> - 通过浏览器安装 Laravel 5.1</li>
 	<li><a href="https://github.com/overtrue/latest-laravel" target="_blank">Latest Laravel</a> - 每天准时更新的 Laravel 不同分支完整包</li>
@@ -195,6 +199,7 @@
 	<li><a href="https://github.com/dimsav/laravel-translatable">Laravel Translatable</a> - 取出及保存可翻译的Eloquent模型类实例</li>
 	<li><a href="https://github.com/vinkla/translator" target="_blank">Laravel Translator</a> - 将Eloquent模型翻译到多种语言文件</li>
 	<li><a href="https://github.com/jenssegers/laravel-date" target="_blank">Laravel Date</a> - 基于Carbon的库，用于处理多语言日期格式</li>
+	<li><a href="https://github.com/themsaid/laravel-langman">Laravel Langman</a> - 从Artisan命令行管理语言文件</li>
 </ul>
 <h4><strong>模块化</strong></h4>
 <ul>
@@ -426,11 +431,13 @@
 	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a></li>
 	<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a></li>
 	<li><a href="http://laravelacademy.org/post/824.html">Cachet</a></li>
+	<li><a href="https://github.com/web-feet/coastercms">Coaster CMS</a></li>
 	<li><a href="https://github.com/REBELinBLUE/deployer">Deployer</a></li>
 	<li><a href="http://laravelacademy.org/post/1090.html" target="_blank">Flarum</a></li>
 	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a></li>
 	<li><a href="https://github.com/themsaid/katana">Katana</a></li>
 	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a></li>
+	<li><a href="https://github.com/larapress-cms/larapress">Larapress</a></li>
 	<li><a href="https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site">Laravel 4 Bootstrap Starter Site</a></li>
 	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a></li>
 	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a></li>
@@ -442,8 +449,8 @@
 	<li><a href="http://laravelacademy.org/post/1227.html" target="_blank">Lavalite</a></li>
 	<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
 	<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
-	<li><a href="https://github.com/laravel/spark">Laravel Spark</a></li>
 	<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a></li>
+	<li><a href="https://github.com/microweber/microweber">Microweber</a></li>
 	<li><a href="http://laravelacademy.org/post/1132.html">October</a></li>
 	<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a></li>
 	<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a></li>
