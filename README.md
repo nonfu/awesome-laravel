@@ -56,6 +56,7 @@
 	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）</li>
 	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器</li>
 	<li><a href="https://github.com/spatie/laravel-menu" target="_blank">Html Menu Generator for Laravel</a> - Html导航菜单生成器</li>
+	<li><a href="https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl" target="_blank">Laravel Testtools</a> - Chrome扩展，用于生成Laravel集成测试</li>
 </ul>
 <h4><a id="user-content-调试--分析" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%B0%83%E8%AF%95--%E5%88%86%E6%9E%90"></a><strong>调试 &amp; 分析</strong></h4>
 <ul>
@@ -86,10 +87,12 @@
 <ul>
 	<li><a href="https://github.com/aimeos/aimeos-laravel">Aimeos Laravel package</a> - Laravel 电子商务扩展包</li>
 	<li><a href="https://github.com/patricktalmadge/bootstrapper/">Bootstrapper</a> - 创建Bootstrap 3标记的类集</li>
+	<li><a href="https://github.com/mewebstudio/captcha">Captcha</a> - Laravel 5 验证码生成器</li>
 	<li><a href="https://github.com/Chumper/Datatable">Datatable</a> - 为jQuery数据表插件集成服务器端和客户端</li>
 	<li><a href="https://github.com/laravelista/Ekko">Ekko</a> - 自动高亮当前激活的导航菜单并应用Bootstrap样式</li>
 	<li><a href="https://github.com/cviebrock/eloquent-sluggable">Eloquent Sluggable</a> - 创建Eloquent模型小物件</li>
 	<li><a href="https://github.com/LaravelCollective/html">HTML</a> - Laravel官方HTML及表单构建器</li>
+	<li><a href="https://github.com/hyn/multi-tenant">Hyn/multi-tenant</a> - 该扩展包用于支持多个站点基于同一个Laravel安装</li>
 	<li><a href="https://github.com/Intervention/image">Intervention Image</a> - 图片处理库（创建、编辑、压缩图片）</li>
 	<li><a href="https://github.com/kristijanhusak/laravel-form-builder">Laravel 5 form builder</a> - Laravel 5 表单构建器</li>
 	<li><a href="https://github.com/yccphp/laravel-5-markdown-editor" target="_blank">laravel-5-markdown-editor</a> - Laravel 5 Markdown编辑器</li>
@@ -124,6 +127,7 @@
 	<li><a href="https://github.com/overtrue/latest-laravel" target="_blank">Latest Laravel</a> - 每天准时更新的 Laravel 不同分支完整包</li>
 	<li><a href="https://github.com/lookitsatravis/listify">Listify</a> - 添加分类/排序到任意Eloquent模型</li>
 	<li><a href="https://github.com/anhskohbo/no-captcha">noCAPTCHA</a> - Google新的noCAPTCHA（reCAPTCHA）助手</li>
+	<li><a href="https://github.com/mewebstudio/purifier">Purifier</a> - 集成Laravel和HTMLPurifier</li>
 	<li><a href="https://github.com/greggilbert/recaptcha">Recaptcha</a> - 验证码校验器（Laravel 5）</li>
 	<li><a href="https://github.com/VentureCraft/revisionable">Revisionable</a> - 创建Eloquent模型的历史版本</li>
 	<li><a href="https://github.com/artesaos/seotools">SEOTools</a> - Laravel和Lumen的SEO工具包</li>
@@ -149,6 +153,7 @@
 	<li><a href="https://github.com/etrepat/baum">Baum</a> - 在Laravel中实现嵌套集合模式</li>
 	<li><a href="https://github.com/franzose/ClosureTable">ClosureTable</a> - 在Laravel中实现闭包表模型</li>
 	<li><a href="https://github.com/doctrine/dbal" target="_blank">Doctrine DBAL</a> - 数据迁移（migrate）时支持列的重命名操作（renameColumn）</li>
+	<li><a href="https://github.com/kirkbushell/eloquence">Eloquence</a> - 为Eloquent模型添加额外功能特性</li>
 	<li><a href="https://github.com/orangehill/iseed">iSeed</a> - 从已有数据表中生成一个新的填充文件</li>
 	<li><a href="https://github.com/spatie/laravel-backup">Laravel Backup</a> - 备份 Laravel 5 应用的包</li>
 	<li><a href="https://github.com/mitchellvanw/laravel-doctrine">Laravel Doctrine</a> - Doctrine 2 ORM 实现</li>
@@ -374,7 +379,7 @@
 	<li><a href="https://laracademy.co/">Laracademy</a></li>
 </ul>
 <h3><a id="user-content-讨论" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%AE%A8%E8%AE%BA"></a>讨论</h3>
-英文
+<h4>英文</h4>
 <ul>
 	<li><a href="http://laracon.us/">Laracon US</a></li>
 	<li><a href="http://laracon.eu/">Laracon EU</a></li>
@@ -423,44 +428,63 @@
 	<li><a href="https://leanpub.com/laravel-5-for-beginners-laraboot">Laraboot: Laravel 5 For Beginners</a></li>
 </ul>
 <h3><a id="user-content-代码库" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%BB%A3%E7%A0%81%E5%BA%93"></a>代码库</h3>
+<h4>原型项目</h4>
 <ul>
-	<li><a href="http://laravelacademy.org/post/1045.html">92Five</a></li>
+	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5 Boilerplate</a> —— 基于当前Laravel最新版本（Laravel 5.1.*）并集成Boilerplate的项目</li>
+	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a> —— 这是一个Laravel 5.1和AngularJS的原型项目</li>
 	<li><a href="https://github.com/acacha/adminlte-laravel">Acacha adminlte-laravel</a></li>
-	<li><a href="http://laravelacademy.org/post/3793.html">Antvel</a>（基于Laravel 5的电商网站）</li>
-	<li><a href="https://github.com/AsgardCms/Platform">AsgardCMS</a></li>
-	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a></li>
-	<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a></li>
-	<li><a href="http://laravelacademy.org/post/824.html">Cachet</a></li>
-	<li><a href="https://github.com/web-feet/coastercms">Coaster CMS</a></li>
-	<li><a href="https://github.com/REBELinBLUE/deployer">Deployer</a></li>
-	<li><a href="http://laravelacademy.org/post/1090.html" target="_blank">Flarum</a></li>
-	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a></li>
-	<li><a href="https://github.com/themsaid/katana">Katana</a></li>
-	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a></li>
-	<li><a href="https://github.com/larapress-cms/larapress">Larapress</a></li>
-	<li><a href="https://github.com/andrewelkins/Laravel-4-Bootstrap-Starter-Site">Laravel 4 Bootstrap Starter Site</a></li>
-	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a></li>
-	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a></li>
-	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5 Boilerplate</a></li>
-	<li><a href="https://github.com/DimitriMikadze/laravel-angular-cms">Laravel and AngularJS CMS</a></li>
-	<li><a href="http://laravelacademy.org/post/788.html">Laravel.com</a></li>
 	<li><a href="https://github.com/unicodeveloper/laravel-hackathon-starter">Laravel Hackathon Starter</a></li>
-	<li><a href="http://laravelacademy.org/post/666.html">Laravel.IO</a></li>
-	<li><a href="http://laravelacademy.org/post/1227.html" target="_blank">Lavalite</a></li>
-	<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
+</ul>
+<h4>CMS</h4>
+<ul>
+	<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a> —— Laravel 5.1驱动的功能强大的CMS</li>
+	<li><a href="http://laravelacademy.org/post/1132.html">October</a> —— 基于Laravel 5，致力于让开发工作变得简单的CMS</li>
+	<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a> —— MVC架构的PHP内容管理系统，3.0以前基于CodeIgniter，目前基于Laravel 5.1</li>
+	<li><a href="http://laravelacademy.org/post/1227.html">LavaLite</a> —— 基于Laravel 5.1 &amp; Bootstrap 3的内容管理系统</li>
+	<li><a href="http://laravelacademy.org/post/1508.html">TypiCMS</a> —— 基于 Laravel 5 构建的、支持多语言的内容管理系统</li>
+	<li><a href="http://laravelacademy.org/post/1972.html">Laravel and AngularJS CMS</a> —— 基于Laravel 5.1和AngularJS的CMS</li>
+	<li><a href="http://laravelacademy.org/post/3876.html">Microweber</a> —— 基于 Laravel 拖拽式生成 CMS 及在线商店利器</li>
+	<li><a href="https://asgardcms.com/">Asgard CMS</a></li>
+	<li><a href="http://www.coastercms.org/">Coaster Cms</a></li>
+	<li><a href="https://github.com/larapress-cms/larapress">Larapress</a>（基于Laravel 4）</li>
+</ul>
+<h4>论坛</h4>
+<ul>
+	<li><a href="http://laravelacademy.org/post/666.html">Laravel.io</a> —— Laravel开发者社区</li>
+	<li><a href="http://laravelacademy.org/post/1090.html">Flarum</a> —— 免费的、开源的、专注于简约的论坛系统，esoTalk和FluexBB的联合继承者</li>
+	<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a> —— 基于Laravel 4.2，积极向上的 PHP &amp; Laravel 开发者社区</li>
+</ul>
+<h4>电商</h4>
+<ul>
+	<li><a href="http://laravelacademy.org/post/3793.html">Antvel</a> —— 基于 Laravel 5.* 开发的开源电子商务项目</li>
+</ul>
+<h4>项目管理</h4>
+<ul>
+	<li><a href="http://laravelacademy.org/post/1045.html">92five app</a> —— 基于 Laravel框架 &amp; Backbone JS 构建，是一个自托管的、基于web的项目管理应用</li>
+	<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a> —— 基于Laravel5，项目管理应用</li>
+</ul>
+<h4>博客</h4>
+<ul>
+	<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a> —— 专注于写作的最小化博客平台</li>
+	<li><a href="https://github.com/themsaid/katana">Katana</a> —— 静态站点/博客生成器</li>
+	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a> —— 基于 Laravel 5 开发的博客系统</li>
+	<li><a href="http://demo.0ez.ru/root/login">0ez</a> —— 基于Laravel的 轻博客系统</li>
+</ul>
+<h4>其他</h4>
+<ul>
+	<li><a href="http://laravelacademy.org/post/788.html">Laravel.com</a> —— Laravel官网源码</li>
+	<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a> —— Laravel小技巧&amp;小贴士</li>
+	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a> —— 基于Laravel构建的开源发票及时间跟踪应用</li>
+	<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a> —— 基于Laravel 4.X的开源的笔记&amp;归档工具</li>
+	<li><a href="http://laravelacademy.org/post/824.html">Cachet</a> —— 基于Laravel 5的开源的状态页系统</li>
+	<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a> —— 由 PHP CS Fixer开发，提供PHP代码风格持续集成服务</li>
+	<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a> —— 基于Laravel 5，构建属于你自己的播客网站</li>
+	<li><a href="http://laravelacademy.org/post/1681.html">Deployer</a> —— 基于Laravel 5.1的、免费的、开源的PHP应用部署工具</li>
+	<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a> —— 基于 Lumen 开发的 RSS 聚合器和阅读器</li>
+	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a> —— 基于 Laravel 5.1 &amp; Vue.js 开发的酷炫音乐流媒体应用</li>
+	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a> —— 基于 Laravel 框架开发的开源门票及活动管理应用</li>
+	<li><a href="https://github.com/laramap/laramap.com">Laravelmap</a></li>
 	<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
-	<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a></li>
-	<li><a href="https://github.com/microweber/microweber">Microweber</a></li>
-	<li><a href="http://laravelacademy.org/post/1132.html">October</a></li>
-	<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a></li>
-	<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a></li>
-	<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a></li>
-	<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a></li>
-	<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a></li>
-	<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a></li>
-	<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a></li>
-	<li><a href="https://github.com/TypiCMS/Base">TypiCMS</a></li>
-	<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a></li>
 </ul>
 <h3><a id="user-content-新闻" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%96%B0%E9%97%BB"></a>新闻</h3>
 <ul>
