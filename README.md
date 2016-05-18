@@ -66,6 +66,7 @@
 	<li><a href="https://github.com/ARCANEDEV/LogViewer">LogViewer</a> - Laravel 5 日志查看器</li>
 	<li><a href="https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier">LERN</a> - Laravel 5扩展包，用于将异常写入数据库并发送通知</li>
 	<li><a href="https://github.com/themsaid/laravel-mail-preview">Mail Preview</a> - 在web浏览器或邮件客户端中预览发送的邮件</li>
+	<li><a href="https://github.com/fitztrev/query-tracer">Laravel Query Tracer</a> - 查看数据库查询在Laravel应用什么地方调用</li>
 </ul>
 <h4><a id="user-content-认证--授权" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%AE%A4%E8%AF%81--%E6%8E%88%E6%9D%83"></a><strong>认证 &amp; 授权</strong></h4>
 <ul>
@@ -86,8 +87,10 @@
 <h4><a id="user-content-其它有用的利器" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%85%B6%E5%AE%83%E6%9C%89%E7%94%A8%E7%9A%84%E5%88%A9%E5%99%A8"></a><strong>其它有用的利器</strong></h4>
 <ul>
 	<li><a href="https://github.com/aimeos/aimeos-laravel">Aimeos Laravel package</a> - Laravel 电子商务扩展包</li>
+	<li><a href="https://github.com/svenluijten/artisan-view">Artisan View</a> - 通过Artisan管理Laravel项目的视图</li>
 	<li><a href="https://github.com/patricktalmadge/bootstrapper/">Bootstrapper</a> - 创建Bootstrap 3标记的类集</li>
 	<li><a href="https://github.com/mewebstudio/captcha">Captcha</a> - Laravel 5 验证码生成器</li>
+	<li><a href="https://github.com/tightenco/collect">Collect</a> - 在Laravel之外使用Collection</li>
 	<li><a href="https://github.com/Chumper/Datatable">Datatable</a> - 为jQuery数据表插件集成服务器端和客户端</li>
 	<li><a href="https://github.com/laravelista/Ekko">Ekko</a> - 自动高亮当前激活的导航菜单并应用Bootstrap样式</li>
 	<li><a href="https://github.com/cviebrock/eloquent-sluggable">Eloquent Sluggable</a> - 创建Eloquent模型小物件</li>
@@ -103,6 +106,7 @@
 	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatable</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
 	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
 	<li><a href="https://github.com/unicodeveloper/laravel-emoji">laravel-emoji</a> - Laravel表情扩展包</li>
+	<li><a href="https://github.com/svenluijten/env-providers">Laravel EnvProviders</a> - 基于开发环境加载服务提供者</li>
 	<li><a href="https://github.com/Maatwebsite/Laravel-Excel">Laravel Excel</a> - 导入导出Excel和CSV文件</li>
 	<li><a href="https://github.com/hootlex/laravel-friendships">Laravel Friendships</a> - 让Eloquent模型插上管理朋友关系的翅膀</li>
 	<li><a href="https://github.com/Torann/laravel-geoip">Laravel GeoIP</a> - 基于网站访问用户的IP地址判断其地理位置</li>
@@ -159,6 +163,7 @@
 	<li><a href="https://github.com/mitchellvanw/laravel-doctrine">Laravel Doctrine</a> - Doctrine 2 ORM 实现</li>
 	<li><a href="https://github.com/GrahamCampbell/Laravel-Flysystem">Laravel Flysystem</a> - 从远程主机(AWS S3, Dropbox等)而非本地文件系统提取文件</li>
 	<li><a href="https://github.com/jenssegers/laravel-mongodb">Laravel MongoDB</a> - 支持MongoDB的Eloquent模型及Query构造器</li>
+	<li><a href="https://github.com/Askedio/laravel5-soft-cascade">Laravel 5 Soft Cascade</a> - 使用Laravel软删除功能实现级联删除和恢复</li>
 	<li><a href="https://github.com/Xethron/migrations-generator">Migrations Generator</a> - 从已有数据库中生成迁移</li>
 	<li><a href="https://github.com/jarektkaczyk/eloquence">Sofa/Eloquence</a> - Eloquent ORM 扩展</li>
 	<li><a href="https://github.com/orchestral/tenanti">Tenanti</a> - 群租数据库结构管理器</li>
@@ -169,6 +174,7 @@
 	<li><a href="https://github.com/algolia/algoliasearch-laravel">Algolia Search</a> - 集成 Algolia Search API到Laravel Eloquent ORM</li>
 	<li><a href="https://github.com/elasticquent/Elasticquent">Elasticquent</a> - 为Eloquent模型准备的Elasticsearch</li>
 	<li><a href="https://github.com/mmanos/laravel-search">Laravel Search</a> - Elasticsearch、Algolia以及 ZendSearch的统一API</li>
+	<li><a href="https://github.com/TomLingham/Laravel-Searchy">Laravel Searchy</a> - Laravel 搜索扩展包，让用户可以轻松进行精准匹配或模糊查询</li>
 	<li><a href="https://github.com/spatie/searchindex">SearchIndex</a> - 在Algolia或Elasticsearch存储或获取对象数据</li>
 	<li><a href="https://github.com/nicolaslopezj/searchable">Searchable</a> - 添加简单搜索功能到Eloquent模型的trait</li>
 </ul>
@@ -227,7 +233,8 @@
 	<li><a href="https://github.com/schimpanz/Laravel-Pushwoosh" target="_blank">Laravel Pushwoosh</a> - Pushwoosh API</li>
 	<li><a href="https://github.com/maknz/slack">Laravel Slack</a> - 发动消息到Slack</li>
 	<li><a href="https://github.com/vinkla/vimeo">Laravel Vimeo</a> - 连接 Vimeo API</li>
-	<li><a href="https://github.com/overtrue/laravel-wechat" target="_blank">Laravel Wechat</a> - 目前最优雅的微信公众平台 SDK</li>
+	<li><a style="line-height: 1.5;" href="https://github.com/stormpath/stormpath-laravel" target="_blank">stormpath-laravel</a> - 使用Laravel和Stormpath构建安全的Web应用</li>
+	<li><a style="line-height: 1.5;" href="https://github.com/overtrue/laravel-wechat" target="_blank">Laravel Wechat</a><span style="line-height: 1.5;"> - 目前最优雅的微信公众平台 SDK</span></li>
 	<li><a href="https://github.com/huanghua581/laravel-wechat-sdk">Laravel Wechat SDK</a> - 另一个微信公众平台 Laravel SDK</li>
 	<li><a href="https://github.com/johnlui/AliyunOSS">AliyunOSS</a> —— 阿里云 OSS 官方 SDK 的 Composer 封装，支持任何 PHP 项目，包括 Laravel、Symfony 等等</li>
 	<li><a href="https://github.com/zgldh/qiniu-laravel-storage">Laravel Qiniu</a> —— Qiniu 云储存 Laravel 5 Storage版</li>
@@ -244,6 +251,9 @@
 	<li><a href="http://laravelacademy.org/post/3596.html">在 Docker 中运行 Homestead</a></li>
 </ul>
 </li>
+	<li><a href="http://laravel.com/docs/valet">Valet</a> - Mac极简开发环境</li>
+	<li><a href="https://github.com/LaraDock/laradock">LaraDock</a> - 在Docker上运行Laravel（和Homestead类似但是使用Docker而不是Vagrant部署）</li>
+	<li><a href="https://github.com/laraedit/laraedit-docker">LaraEdit Docker</a> - 在Docker容器中运行Homestead开发环境</li>
 	<li>通过Composer安装 Laravel
 <ul>
 	<li><a href="https://www.youtube.com/watch?v=m3D894qZKws">Windows</a></li>
@@ -466,7 +476,7 @@
 <h4>博客</h4>
 <ul>
 	<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a> —— 专注于写作的最小化博客平台</li>
-	<li><a href="https://github.com/themsaid/katana">Katana</a> —— 静态站点/博客生成器</li>
+	<li><a href="http://laravelacademy.org/post/4019.html">Katana</a> —— 静态站点/博客生成器</li>
 	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank">Laravel 5 Blog</a> —— 基于 Laravel 5 开发的博客系统</li>
 	<li><a href="http://demo.0ez.ru/root/login">0ez</a> —— 基于Laravel的 轻博客系统</li>
 </ul>
@@ -483,7 +493,7 @@
 	<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a> —— 基于 Lumen 开发的 RSS 聚合器和阅读器</li>
 	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a> —— 基于 Laravel 5.1 &amp; Vue.js 开发的酷炫音乐流媒体应用</li>
 	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a> —— 基于 Laravel 框架开发的开源门票及活动管理应用</li>
-	<li><a href="https://github.com/laramap/laramap.com">Laravelmap</a></li>
+	<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
 	<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
 </ul>
 <h3><a id="user-content-新闻" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%96%B0%E9%97%BB"></a>新闻</h3>
