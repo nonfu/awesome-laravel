@@ -55,6 +55,7 @@
 	<li><a href="https://github.com/appzcoder/crud-generator">Laravel 5 CRUD Generator</a> - Laravel 5 CRUD 生成器</li>
 	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）</li>
 	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器</li>
+	<li><a href="https://github.com/yabhq/laracogs">Laracogs</a> - Laravel 工具集（命令、服务、门面、模板等）</li>
 	<li><a href="https://github.com/spatie/laravel-menu" target="_blank">Html Menu Generator for Laravel</a> - Html导航菜单生成器</li>
 	<li><a href="https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl" target="_blank">Laravel Testtools</a> - Chrome扩展，用于生成Laravel集成测试</li>
 </ul>
@@ -80,7 +81,7 @@
 	<li><a href="https://github.com/artdarek/oauth-4-laravel">OAuth 4 Laravel</a> - OAuth客户端封装以便支持Facebook, Twitter, Google等社交网络（Laravel 4）</li>
 	<li><a href="https://github.com/cartalyst/sentinel">Sentinel</a> - 框架未知的认证&amp;授权系统</li>
 	<li><a href="https://github.com/laravel/socialite">Socialite</a> - 封装 Facebook, Google, Twitter等社交媒体认证</li>
-	<li><a href="http://socialiteproviders.github.io/">Socialite Providers</a> - 为Socialite准备的超过70个认证提供者</li>
+	<li><a href="http://socialiteproviders.github.io/">Socialite Providers</a> - 为Socialite准备的超过100个认证提供者（第三方登录）</li>
 	<li><a href="https://github.com/antonioribeiro/google2fa">Google2FA</a> —— Google双重认证模块</li>
 	<li><a href="https://github.com/jrean/laravel-user-verification">Laravel User Verification</a> - 处理Laravel 5中的用户验证流程</li>
 </ul>
@@ -88,6 +89,7 @@
 <ul>
 	<li><a href="https://github.com/aimeos/aimeos-laravel">Aimeos Laravel package</a> - Laravel 电子商务扩展包</li>
 	<li><a href="https://github.com/svenluijten/artisan-view">Artisan View</a> - 通过Artisan管理Laravel项目的视图</li>
+	<li><a href="https://github.com/jorenvh/blogify">Blogify</a> － 添加博客功能到Laravel应用的扩展包</li>
 	<li><a href="https://github.com/patricktalmadge/bootstrapper/">Bootstrapper</a> - 创建Bootstrap 3标记的类集</li>
 	<li><a href="https://github.com/mewebstudio/captcha">Captcha</a> - Laravel 5 验证码生成器</li>
 	<li><a href="https://github.com/tightenco/collect">Collect</a> - 在Laravel之外使用Collection</li>
@@ -101,11 +103,12 @@
 	<li><a href="https://github.com/yccphp/laravel-5-markdown-editor" target="_blank">laravel-5-markdown-editor</a> - Laravel 5 Markdown编辑器</li>
 	<li><a href="https://github.com/stevenyangecho/laravel-u-editor" target="_blank">Laravel 5 UEditor</a> - 百度编辑器集成到Laravel5（支持七牛云存储）</li>
 	<li><a href="https://github.com/FrozenNode/Laravel-Administrator" target="_blank">Laravel Administrator</a> - Laravel后台管理</li>
+	<li><a href="https://github.com/mpociot/laravel-apidoc-generator/">Laravel API Document Generator</a> - Laravel API 文档生成器</li>
 	<li><a href="https://github.com/davejamesmiller/laravel-breadcrumbs">Laravel Breadcrumbs</a> - 创建及管理面包屑导航</li>
 	<li><a href="https://github.com/kamranahmedse/laravel-censor">Laravel Censor</a> —— 用于在Laravel 5.1中编辑、替换视图中指定单词/字符的中间件</li>
 	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatable</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
 	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
-	<li><a href="https://github.com/unicodeveloper/laravel-emoji">laravel-emoji</a> - Laravel表情扩展包</li>
+	<li><a href="https://github.com/unicodeveloper/laravel-emoji">Laravel Emoji</a> - Laravel表情扩展包</li>
 	<li><a href="https://github.com/svenluijten/env-providers">Laravel EnvProviders</a> - 基于开发环境加载服务提供者</li>
 	<li><a href="https://github.com/Maatwebsite/Laravel-Excel">Laravel Excel</a> - 导入导出Excel和CSV文件</li>
 	<li><a href="https://github.com/hootlex/laravel-friendships">Laravel Friendships</a> - 让Eloquent模型插上管理朋友关系的翅膀</li>
@@ -251,13 +254,13 @@
 	<li><a href="http://laravelacademy.org/post/3596.html">在 Docker 中运行 Homestead</a></li>
 </ul>
 </li>
-	<li><a href="http://laravel.com/docs/valet">Valet</a> - Mac极简开发环境</li>
+	<li><a href="http://laravelacademy.org/post/4147.html">Valet</a> - Mac极简开发环境</li>
 	<li><a href="https://github.com/LaraDock/laradock">LaraDock</a> - 在Docker上运行Laravel（和Homestead类似但是使用Docker而不是Vagrant部署）</li>
 	<li><a href="https://github.com/laraedit/laraedit-docker">LaraEdit Docker</a> - 在Docker容器中运行Homestead开发环境</li>
 	<li>通过Composer安装 Laravel
 <ul>
-	<li><a href="https://www.youtube.com/watch?v=m3D894qZKws">Windows</a></li>
-	<li><a href="https://laracasts.com/lessons/laravel-installation-for-newbs">Mac OSX 或 Linux</a></li>
+	<li><a href="http://laravelacademy.org/post/2124.html">Windows</a></li>
+	<li><a href="http://laravelacademy.org/post/2177.html">Mac OSX 或 Linux</a></li>
 	<li><a href="http://laravelacademy.org/post/306.html">在Windows上安装Laravel 5.1.x（中文）</a></li>
 </ul>
 </li>
@@ -408,6 +411,7 @@
 	<li><a href="https://leanpub.com/laravel">Laravel: From Apprentice To Artisan</a></li>
 	<li><a href="https://leanpub.com/laravel4cookbook">Laravel 4 Cookbook</a></li>
 	<li><a href="https://leanpub.com/laravel-testing-decoded">Laravel Testing Decoded</a></li>
+	<li><a href="http://adamwathan.me/refactoring-to-collections" target="_blank">Refactoring to Collections</a></li>
 	<li><a href="https://leanpub.com/implementinglaravel">Implementing Laravel</a></li>
 	<li><a href="https://leanpub.com/gettingstuffdonelaravel">Getting Stuff Done with Laravel 4</a></li>
 	<li><a href="http://www.packtpub.com/laravel-application-development-blueprints/book">Laravel Application Development Blueprints</a></li>
