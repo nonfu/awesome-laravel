@@ -57,6 +57,7 @@
 	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器</li>
 	<li><a href="https://github.com/yabhq/laracogs">Laracogs</a> - Laravel 工具集（命令、服务、门面、模板等）</li>
 	<li><a href="https://github.com/spatie/laravel-menu" target="_blank">Laravel Menu</a> - Html导航菜单生成器</li>
+	<li><a href="https://github.com/Jeroen-G/Laravel-Packager" target="_blank">Laravel Packager</a> - 通过CLI工具创建Laravel扩展包</li>
 	<li><a href="https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl" target="_blank">Laravel Testtools</a> - Chrome扩展，用于生成Laravel集成测试</li>
 </ul>
 <h4><a id="user-content-调试--分析" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%B0%83%E8%AF%95--%E5%88%86%E6%9E%90"></a><strong>调试 &amp; 分析</strong></h4>
@@ -99,9 +100,11 @@
 	<li><a href="https://github.com/laravelista/Ekko">Ekko</a> - 自动高亮当前激活的导航菜单并应用Bootstrap样式</li>
 	<li><a href="https://github.com/cviebrock/eloquent-sluggable">Eloquent Sluggable</a> - 创建Eloquent模型小物件</li>
 	<li><a href="https://github.com/spatie/eloquent-sortable">Eloquent Sortable</a> - 为Eloquent 模型添加排序功能</li>
+	<li><a href="https://github.com/svenluijten/flex-env">FlexEnv</a> - 通过Artisan管理.env文件</li>
 	<li><a href="https://github.com/LaravelCollective/html">HTML</a> - Laravel官方HTML及表单构建器</li>
 	<li><a href="https://github.com/hyn/multi-tenant">Hyn/multi-tenant</a> - 该扩展包用于支持多个站点基于同一个Laravel安装</li>
 	<li><a href="https://github.com/Intervention/image">Intervention Image</a> - 图片处理库（创建、编辑、压缩图片）</li>
+	<li><a href="https://github.com/sahusoftcom/eloquent-image-mutator">Eloquent Image Mutator</a> - 使用Eloquent模型存储/获取图片</li>
 	<li><a href="https://github.com/kristijanhusak/laravel-form-builder">Laravel 5 form builder</a> - Laravel 5 表单构建器</li>
 	<li><a href="https://github.com/yccphp/laravel-5-markdown-editor" target="_blank">laravel-5-markdown-editor</a> - Laravel 5 Markdown编辑器</li>
 	<li><a href="https://github.com/stevenyangecho/laravel-u-editor" target="_blank">Laravel 5 UEditor</a> - 百度编辑器集成到Laravel5（支持七牛云存储）</li>
@@ -111,6 +114,7 @@
 	<li><a href="https://github.com/spatie/laravel-blade-javascript">Laravel Blade Javascript</a> - 将PHP变量转化为Javascript变量的Blade指令</li>
 	<li><a href="https://github.com/davejamesmiller/laravel-breadcrumbs">Laravel Breadcrumbs</a> - 创建及管理面包屑导航</li>
 	<li><a href="https://github.com/kamranahmedse/laravel-censor">Laravel Censor</a> —— 用于在Laravel 5.1中编辑、替换视图中指定单词/字符的中间件</li>
+	<li><a href="https://github.com/spatie/laravel-collection-macros" target="_blank">Laravel Collection Macros</a> - 增强的Laravel集合方法</li>
 	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatable</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
 	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
 	<li><a href="https://github.com/unicodeveloper/laravel-emoji">Laravel Emoji</a> - Laravel表情扩展包</li>
@@ -198,6 +202,7 @@
 	<li><a href="https://github.com/sleimanx2/plastic">Plastic</a> - 适配 Laravel 的 Elasticsearch ODM</li>
 	<li><a href="https://github.com/spatie/searchindex">SearchIndex</a> - 在Algolia或Elasticsearch存储或获取对象数据</li>
 	<li><a href="https://github.com/nicolaslopezj/searchable">Searchable</a> - 添加简单搜索功能到Eloquent模型的trait</li>
+	<li><a href="https://github.com/teamtnt/tntsearch">TNTSearch</a> - PHP编写的功能完备的全文搜索引擎</li>
 </ul>
 <h4><a id="user-content-restful-apis" class="anchor" href="https://github.com/nonfu/awesome-laravel#restful-apis"></a><strong>APIs</strong></h4>
 <ul>
@@ -398,6 +403,7 @@
 	<li><a href="https://medium.com/tag/laravel" target="_blank">Medium</a></li>
 	<li><a href="https://murze.be/tag/laravel/" target="_blank">MURZE.BE</a></li>
 	<li><a href="http://mackhankins.com/" target="_blank">Mack Hankins</a></li>
+	<li><a href="http://taha-sh.com/blog/tag/Laravel">Taha Shashtari</a></li>
 </ul>
 <h3><a id="user-content-视频教程" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B"></a>视频</h3>
 <h4>英文</h4>
