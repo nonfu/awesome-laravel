@@ -2,10 +2,10 @@
 对应GitHub地址：<a href="https://github.com/nonfu/awesome-laravel" target="_blank">https://github.com/nonfu/awesome-laravel</a>，更多Laravel中文学习资源，请关注：<a href="http://laravelacademy.org">Laravel学院</a>
 <h3><a id="user-content-必备品" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BF%85%E5%A4%87%E5%93%81"></a>必备品</h3>
 <ul>
-	<li>文档：<a href="http://laravel.com/docs">Documentation</a></li>
+	<li>文档：<a href="https://laravel.com/docs">Documentation</a></li>
 	<li>API： <a href="https://laravel.com/api/master/">API Reference</a></li>
-	<li>视频：<a href="http://laracasts.com/">Laracasts</a></li>
-	<li>新闻：<a href="http://laravel-news.com/">Laravel News</a></li>
+	<li>视频：<a href="https://laracasts.com/">Laracasts</a></li>
+	<li>新闻：<a href="https://laravel-news.com/">Laravel News</a></li>
 </ul>
 <h3>中文文档</h3>
 <ul>
@@ -27,7 +27,7 @@
 <em>基于2015年4月14日版本</em>
 <ul>
 	<li>介绍： <a href="https://laracasts.com/lessons/introducing-lumen">Introduction</a> (Laracasts)</li>
-	<li>文档：<a href="http://lumen.laravel.com/docs/installation">Documentation</a>（<a href="http://laravelacademy.org/lumen-docs">中文</a>）</li>
+	<li>文档：<a href="https://lumen.laravel.com/docs/installation">Documentation</a>（<a href="http://laravelacademy.org/lumen-docs">中文</a>）</li>
 </ul>
 <h3><a id="user-content-代码片段" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%BB%A3%E7%A0%81%E7%89%87%E6%AE%B5"></a>代码片段</h3>
 <ul>
@@ -59,11 +59,12 @@
 	<li><a href="https://github.com/spatie/laravel-menu" target="_blank">Laravel Menu</a> - Html导航菜单生成器</li>
 	<li><a href="https://github.com/Jeroen-G/Laravel-Packager" target="_blank">Laravel Packager</a> - 通过CLI工具创建Laravel扩展包</li>
 	<li><a href="https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl" target="_blank">Laravel Testtools</a> - Chrome扩展，用于生成Laravel集成测试</li>
+	<li><a href="https://github.com/amranidev/scaffold-interface">Scaffold Interface</a> - Laravel智能CRUD生成器</li>
 </ul>
 <h4><a id="user-content-调试--分析" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%B0%83%E8%AF%95--%E5%88%86%E6%9E%90"></a><strong>调试 &amp; 分析</strong></h4>
 <ul>
-	<li><a href="https://github.com/barryvdh/laravel-debugbar">Debug Bar</a> - 在Laravel中集成PHP的调试条</li>
 	<li><a href="https://github.com/itsgoingd/clockwork">Clockwork</a> - 集成Clockwork的Chrome扩展用于调试和分析应用</li>
+	<li><a href="https://github.com/barryvdh/laravel-debugbar">Debug Bar</a> - 在Laravel中集成PHP的调试条</li>
 	<li><a href="https://github.com/rap2hpoutre/laravel-log-viewer">Laravel 5 Log Viewer</a> - 在浏览器中查看Laravel日志</li>
 	<li><a href="https://github.com/ARCANEDEV/LogViewer">LogViewer</a> - Laravel 5 日志查看器</li>
 	<li><a href="https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier">LERN</a> - Laravel 5扩展包，用于将异常写入数据库并发送通知</li>
@@ -115,7 +116,7 @@
 	<li><a href="https://github.com/davejamesmiller/laravel-breadcrumbs">Laravel Breadcrumbs</a> - 创建及管理面包屑导航</li>
 	<li><a href="https://github.com/kamranahmedse/laravel-censor">Laravel Censor</a> —— 用于在Laravel 5.1中编辑、替换视图中指定单词/字符的中间件</li>
 	<li><a href="https://github.com/spatie/laravel-collection-macros" target="_blank">Laravel Collection Macros</a> - 增强的Laravel集合方法</li>
-	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatable</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
+	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatables</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
 	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
 	<li><a href="https://github.com/unicodeveloper/laravel-emoji">Laravel Emoji</a> - Laravel表情扩展包</li>
 	<li><a href="https://github.com/svenluijten/env-providers">Laravel EnvProviders</a> - 基于开发环境加载服务提供者</li>
@@ -187,6 +188,7 @@
 	<li><a href="https://github.com/mitchellvanw/laravel-doctrine">Laravel Doctrine</a> - Doctrine 2 ORM 实现</li>
 	<li><a href="https://github.com/GrahamCampbell/Laravel-Flysystem">Laravel Flysystem</a> - 从远程主机(AWS S3, Dropbox等)而非本地文件系统提取文件</li>
 	<li><a href="https://github.com/jenssegers/laravel-mongodb">Laravel MongoDB</a> - 支持MongoDB的Eloquent模型及Query构造器</li>
+	<li><a href="https://github.com/yajra/laravel-oci8">Laravel OCI8</a> - 通过OCI8在Laravel 4/5中实现Oracle DB驱动</li>
 	<li><a href="https://github.com/Askedio/laravel5-soft-cascade">Laravel 5 Soft Cascade</a> - 使用Laravel软删除功能实现级联删除和恢复</li>
 	<li><a href="https://github.com/Xethron/migrations-generator">Migrations Generator</a> - 从已有数据库中生成迁移</li>
 	<li><a href="https://github.com/jarektkaczyk/eloquence">Sofa/Eloquence</a> - Eloquent ORM 扩展</li>
