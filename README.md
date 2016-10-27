@@ -51,10 +51,10 @@
 	<li><a href="https://github.com/JeffreyWay/Laravel-4-Generators">Generators</a> - 为Laravel自动生成代码（Laravel 4）</li>
 	<li><a href="https://github.com/Indatus/blacksmith">Blacksmith</a> - 灵活的代码生成工具（Laravel 4）</li>
 	<li><a href="https://github.com/barryvdh/laravel-ide-helper">IDE Helper</a> - 为IDE的自动完成功能生成帮助文件（Laravel 4 &amp; Laravel 5）</li>
-	<li><a href="https://github.com/adamwathan/jigsaw">Jigsaw</a> - 使用Blade的静态站点生成器</li>
 	<li><a href="https://github.com/appzcoder/crud-generator">Laravel 5 CRUD Generator</a> - Laravel 5 CRUD 生成器</li>
 	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）</li>
 	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器</li>
+	<li><a href="https://github.com/mpociot/laravel-apidoc-generator/">Laravel API Document Generator</a> - Laravel API 文档生成器</li>
 	<li><a href="https://github.com/yabhq/laracogs">Laracogs</a> - Laravel 工具集（命令、服务、门面、模板等）</li>
 	<li><a href="https://github.com/spatie/laravel-menu" target="_blank">Laravel Menu</a> - Html导航菜单生成器</li>
 	<li><a href="https://github.com/Jeroen-G/Laravel-Packager" target="_blank">Laravel Packager</a> - 通过CLI工具创建Laravel扩展包</li>
@@ -71,6 +71,7 @@
 	<li><a href="https://github.com/themsaid/laravel-mail-preview">Mail Preview</a> - 在web浏览器或邮件客户端中预览发送的邮件</li>
 	<li><a href="https://github.com/fitztrev/query-tracer">Laravel Query Tracer</a> - 查看数据库查询在Laravel应用什么地方调用</li>
 	<li><a href="https://github.com/recca0120/laravel-tracy">Laravel Tracy</a> - 在Laravel中集成Nette Tracy进行异常处理</li>
+	<li><a href="https://github.com/asvae/laravel-api-tester">Laravel API Tester</a> - 类似Postman这种对Laravel路由进行测试的工具</li>
 </ul>
 <h4><a id="user-content-认证--授权" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%AE%A4%E8%AF%81--%E6%8E%88%E6%9D%83"></a><strong>认证 &amp; 授权</strong></h4>
 <ul>
@@ -88,6 +89,7 @@
 	<li><a href="http://socialiteproviders.github.io/">Socialite Providers</a> - 为Socialite准备的超过100个认证提供者（第三方登录）</li>
 	<li><a href="https://github.com/antonioribeiro/google2fa">Google2FA</a> —— Google双重认证模块</li>
 	<li><a href="https://github.com/jrean/laravel-user-verification">Laravel User Verification</a> - 处理Laravel 5中的用户验证流程</li>
+	<li><a href="https://github.com/Adldap2/Adldap2-Laravel">Adldap2 Laravel </a>- Laravel Adldap2 扩展包</li>
 </ul>
 <h4><a id="user-content-其它有用的利器" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%85%B6%E5%AE%83%E6%9C%89%E7%94%A8%E7%9A%84%E5%88%A9%E5%99%A8"></a><strong>其它有用的利器</strong></h4>
 <ul>
@@ -96,6 +98,7 @@
 	<li><a href="https://github.com/jorenvh/blogify">Blogify</a> － 添加博客功能到Laravel应用的扩展包</li>
 	<li><a href="https://github.com/patricktalmadge/bootstrapper/">Bootstrapper</a> - 创建Bootstrap 3标记的类集</li>
 	<li><a href="https://github.com/mewebstudio/captcha">Captcha</a> - Laravel 5 验证码生成器</li>
+	<li><a href="https://github.com/ConsoleTVs/Charts">Charts</a> - 在Laravel中创建支持多种库的交互式图表</li>
 	<li><a href="https://github.com/tightenco/collect">Collect</a> - 在Laravel之外使用Collection</li>
 	<li><a href="https://github.com/Chumper/Datatable">Datatable</a> - 为jQuery数据表插件集成服务器端和客户端</li>
 	<li><a href="https://github.com/laravelista/Ekko">Ekko</a> - 自动高亮当前激活的导航菜单并应用Bootstrap样式</li>
@@ -111,11 +114,12 @@
 	<li><a href="https://github.com/stevenyangecho/laravel-u-editor" target="_blank">Laravel 5 UEditor</a> - 百度编辑器集成到Laravel5（支持七牛云存储）</li>
 	<li><a href="https://github.com/spatie/laravel-activitylog">Laravel Activitylog</a> - 在Laravel中记录用户活动日志</li>
 	<li><a href="https://github.com/FrozenNode/Laravel-Administrator" target="_blank">Laravel Administrator</a> - Laravel后台管理</li>
-	<li><a href="https://github.com/mpociot/laravel-apidoc-generator/">Laravel API Document Generator</a> - Laravel API 文档生成器</li>
+	<li><a href="https://github.com/owen-it/laravel-auditing">Laravel Auditing</a> - 记录Laravel模型修改日志</li>
 	<li><a href="https://github.com/spatie/laravel-blade-javascript">Laravel Blade Javascript</a> - 将PHP变量转化为Javascript变量的Blade指令</li>
 	<li><a href="https://github.com/davejamesmiller/laravel-breadcrumbs">Laravel Breadcrumbs</a> - 创建及管理面包屑导航</li>
 	<li><a href="https://github.com/kamranahmedse/laravel-censor">Laravel Censor</a> —— 用于在Laravel 5.1中编辑、替换视图中指定单词/字符的中间件</li>
 	<li><a href="https://github.com/spatie/laravel-collection-macros" target="_blank">Laravel Collection Macros</a> - 增强的Laravel集合方法</li>
+	<li><a href="https://github.com/spatie/laravel-cookie-consent">Laravel Cookie Consent</a> - 让你的Laravel应用遵循疯狂的欧盟Cookie规则</li>
 	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatables</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）</li>
 	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
 	<li><a href="https://github.com/unicodeveloper/laravel-emoji">Laravel Emoji</a> - Laravel表情扩展包</li>
@@ -241,6 +245,7 @@
 	<li><a href="https://github.com/jenssegers/laravel-date" target="_blank">Laravel Date</a> - 基于Carbon的库，用于处理多语言日期格式</li>
 	<li><a href="https://github.com/themsaid/laravel-langman">Laravel Langman</a> - 从Artisan命令行管理语言文件</li>
 	<li><a href="https://github.com/waavi/translation">Laravel Translation</a> - 更好的Laravel翻译管理</li>
+	<li><a href="https://github.com/spatie/laravel-translation-loader">Laravel Translation Loader</a> - 将翻译存放到数据库或其他地方</li>
 </ul>
 <h4><strong>模块化</strong></h4>
 <ul>
@@ -293,6 +298,7 @@
 	<li><a href="http://laravelacademy.org/post/306.html">在Windows上安装Laravel 5.1.x（中文）</a></li>
 </ul>
 </li>
+	<li><a href="https://laragon.org/">Laragon</a> - Windows上隔离的开发环境</li>
 </ul>
 <h3><a id="user-content-主机" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%B8%BB%E6%9C%BA"></a>主机</h3>
 <ul>
@@ -477,11 +483,14 @@
 <ul>
 	<li><a href="https://github.com/acacha/adminlte-laravel">Acacha adminlte-laravel</a> —— 基于 AdminLTE + Pratt + Bootstrap 实现的 Laravel 前后台模板</li>
 	<li><a href="https://github.com/laravelish/EasyAdmin">EasyAdmin</a> —— 高级用户登录与管理（支持双重认证）</li>
-	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5 Boilerplate</a> —— 基于当前Laravel最新版本（Laravel 5.1.*）并集成Boilerplate的项目</li>
+	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5.1 Boilerplate</a> —— 基于当前Laravel最新版本（Laravel 5.1.*）并集成Boilerplate的项目</li>
+	<li><a href="https://github.com/rappasoft/laravel-5-boilerplate">Laravel 5.2 Boilerplate</a></li>
 	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a> —— 这是一个Laravel 5.1和AngularJS的原型项目</li>
 	<li><a href="https://github.com/unicodeveloper/laravel-hackathon-starter">Laravel Hackathon Starter</a></li>
 	<li><a href="https://github.com/silverbux/laravel-angular-admin">Laravel Angular AdminLTE</a></li>
 	<li><a href="https://github.com/laravel-backpack">Backpack for Laravel</a></li>
+	<li><a href="https://github.com/someline/someline-starter">Someline</a></li>
+	<li><a href="https://github.com/dwijitsolutions/laraadmin">LaraAdmin</a> - 开源Laravel后台面板</li>
 </ul>
 <h4>CMS</h4>
 <ul>
@@ -539,6 +548,8 @@
 	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a> —— 基于 Laravel 框架开发的开源门票及活动管理应用</li>
 	<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
 	<li><a href="https://github.com/laravelso/site" target="_blank">Laravel.so</a></li>
+	<li><a href="https://github.com/stefanzweifel/screeenly">Screeenly</a> - 通过API创建网站截图</li>
+	<li><a href="https://github.com/adamwathan/jigsaw">Jigsaw</a> - 使用Blade的静态站点生成器</li>
 </ul>
 <h3><a id="user-content-新闻" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%96%B0%E9%97%BB"></a>新闻</h3>
 <ul>
