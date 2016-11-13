@@ -144,11 +144,13 @@
 	<li><a href="https://github.com/spatie/laravel-responsecache">Laravel Responsecache</a> - 通过缓存整个响应加速Laravel应用</li>
 	<li><a href="https://github.com/anlutro/laravel-settings">Laravel Settings</a> - 对Laravel进行全局配置</li>
 	<li><a href="https://github.com/ericmakesstuff/laravel-server-monitor">Laravel Server Monitor</a> - Laravel应用服务器监听命令</li>
-	<li><a href="https://github.com/Crinsane/LaravelShoppingcart">LaravelShoppingcart</a> - Laravel购物车实现</li>
+	<li><a href="https://github.com/Crinsane/LaravelShoppingcart">Laravel Shoppingcart</a> - Laravel购物车实现</li>
+	<li><a href="https://github.com/spatie/laravel-sitemap">Laravel Sitemap</a> - 为Laravel应用自动生成站点地图</li>
 	<li><a href="https://github.com/toplan/laravel-sms">Laravel Sms</a> - Laravel 短信发送扩展包</li>
 	<li><a href="https://github.com/barryvdh/laravel-snappy">Laravel Snappy</a> - 使用wkhtmltopdf将HTML转化为PDF生成器</li>
 	<li><a href="https://github.com/CodeSleeve/laravel-stapler">Laravel Stapler</a> - 基于ORM的文件上传管理器</li>
 	<li><a href="https://github.com/antonioribeiro/tracker">Laravel Stats Tracker</a> - 从请求中收集信息以验证和存储</li>
+	<li><a href="https://github.com/spatie/laravel-tags">Laravel Tags</a> - 添加标签和标签行为到Laravel应用</li>
 	<li><a href="https://github.com/spatie/laravel-tail">Laravel Tail</a> - Laravel 5 漏掉的tail命令</li>
 	<li><a href="https://github.com/mpociot/laravel-test-factory-helper">Laravel Test Factory Generator</a> - 通过已存在的模型生成Laravel测试工厂类</li>
 	<li><a href="https://github.com/spatie/laravel-url-signer">Laravel url signer</a> - 通过有效时间创建安全的URL</li>
@@ -179,6 +181,9 @@
 <ul>
 	<li><a href="https://github.com/acacha/adminlte-laravel" target="_blank">AdminLTE Template For Laravel 5</a> - 将默认 Laravel 前端模板代码替换成 AdminLTE 和 Pratt 页面</li>
 	<li><a href="https://github.com/silverbux/laravel-angular-admin">Laravel Angular Admin</a> － 基于 Laravel + Angularjs + Bootstrap + AdminLTE 实现的后台模板，此外支持Oauth和JWT登录认证。</li>
+	<li><a href="https://github.com/dwijitsolutions/laraadmin">LaraAdmin</a> - 开源Laravel后台面板</li>
+	<li><a href="https://github.com/the-control-group/voyager"><strong>V</strong>oyager</a> - 不容错过的Laravel后台</li>
+	<li><a href="https://github.com/z-song/laravel-admin">laravel-admin</a> - 十分钟构建全功能Laravel后台界面</li>
 </ul>
 <h4><strong style="line-height: 1.5;">数据库，ORMS， 迁移 &amp; 填充</strong></h4>
 <ul>
@@ -489,8 +494,7 @@
 	<li><a href="https://github.com/unicodeveloper/laravel-hackathon-starter">Laravel Hackathon Starter</a></li>
 	<li><a href="https://github.com/silverbux/laravel-angular-admin">Laravel Angular AdminLTE</a></li>
 	<li><a href="https://github.com/laravel-backpack">Backpack for Laravel</a></li>
-	<li><a href="https://github.com/someline/someline-starter">Someline</a></li>
-	<li><a href="https://github.com/dwijitsolutions/laraadmin">LaraAdmin</a> - 开源Laravel后台面板</li>
+	<li><a href="http://laravelacademy.org/post/6408.html">Someline Starter</a> —— 基于Laravel 5和Vue.js，用于快速构架RESTful API和Web应用的原型项目</li>
 </ul>
 <h4>CMS</h4>
 <ul>
@@ -501,8 +505,12 @@
 	<li><a href="http://laravelacademy.org/post/1508.html">TypiCMS</a> —— 基于 Laravel 5 构建的、支持多语言的内容管理系统</li>
 	<li><a href="http://laravelacademy.org/post/1972.html">Laravel and AngularJS CMS</a> —— 基于Laravel 5.1和AngularJS的CMS</li>
 	<li><a href="http://laravelacademy.org/post/3876.html">Microweber</a> —— 基于 Laravel 拖拽式生成 CMS 及在线商店利器</li>
-	<li><a href="https://asgardcms.com/">Asgard CMS</a></li>
+	<li><a href="http://laravelacademy.org/post/6417.html">AsgardCMS</a> —— 基于Laravel构建的、支持模块化和多语言的CMS</li>
 	<li><a href="http://www.coastercms.org/">Coaster Cms</a></li>
+	<li><a href="https://github.com/odirleiborgert/borgert-cms">Borgert CMS</a> —— 基于Laravel 5.3构建的开源CMS</li>
+	<li><a href="https://github.com/YABhq/Quarx/">Quarx</a></li>
+	<li><a href="https://botble.com/">Botble</a> （收费）</li>
+	<li><a href="https://statamic.com/">Statamic</a>（收费）</li>
 	<li><a href="https://github.com/larapress-cms/larapress">Larapress</a>（基于Laravel 4）</li>
 </ul>
 <h4>CRM</h4>
