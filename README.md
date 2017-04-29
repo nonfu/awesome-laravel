@@ -314,6 +314,7 @@
 	<li><a href="http://forgerecipes.com/">ForgeRecipes</a></li>
 </ul>
 </li>
+	<li><a href="https://www.cloudways.com/en/laravel-hosting.php">Cloudways</a> (<a href="https://www.cloudways.com/blog/install-laravel-on-digitalocean/">教程</a>)</li>
 	<li><a href="http://fortrabbit.com/solutions/laravel-hosting">FortRabbit</a> (<a href="https://laracasts.com/lessons/from-zero-to-deploy-with-fortrabbit">视频</a>)</li>
 	<li><a href="https://pagodabox.io/">PagodaBox</a> (<a href="https://pagodabox.io/docs/framework_laravel">文档</a>)</li>
 	<li><a href="https://www.heroku.com/">Heroku</a> (<a href="http://mattstauffer.co/blog/installing-a-laravel-app-on-heroku">教程</a>)</li>
@@ -351,6 +352,7 @@
 </ul>
 <h4>英文</h4>
 <ul>
+	<li><a href="https://www.cloudways.com/blog/category/applications/laravel">Cloudways</a></li>
 	<li><a href="http://code.tutsplus.com/categories/laravel">Tuts+</a></li>
 	<li><a href="http://www.sitepoint.com/tag/laravel/" target="_blank">SitePoint</a></li>
 	<li><a href="https://medium.com/laravel-5">Christopher Pitt</a></li>
