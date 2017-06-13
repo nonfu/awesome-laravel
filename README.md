@@ -3,7 +3,7 @@
 <h3><a id="user-content-必备品" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BF%85%E5%A4%87%E5%93%81"></a>必备品</h3>
 <ul>
  	<li>文档：<a href="https://laravel.com/docs">Documentation</a></li>
- 	<li>API： <a href="https://laravel.com/api/master/">API Reference</a></li>
+ 	<li>API： <a href="https://laravel.com/api/master/">API Reference</a></li>
  	<li>视频：<a href="https://laracasts.com/">Laracasts</a></li>
  	<li>新闻：<a href="https://laravel-news.com/">Laravel News</a></li>
 </ul>
@@ -52,8 +52,8 @@
  	<li><a href="https://github.com/Indatus/blacksmith">Blacksmith</a> - 灵活的代码生成工具（Laravel 4）</li>
  	<li><a href="https://github.com/barryvdh/laravel-ide-helper">IDE Helper</a> - 为IDE的自动完成功能生成帮助文件（Laravel 4 &amp; Laravel 5）（3900+ stars）</li>
  	<li><a href="https://github.com/appzcoder/crud-generator">Laravel 5 CRUD Generator</a> - Laravel 5 CRUD 生成器</li>
- 	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）（1200+ stars）</li>
- 	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器（1000+ stars）</li>
+ 	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）（1200+ stars）</li>
+ 	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器（1000+ stars）</li>
  	<li><a href="https://github.com/mpociot/laravel-apidoc-generator/">Laravel API Document Generator</a> - Laravel API 文档生成器</li>
  	<li><a href="https://github.com/yabhq/laracogs">Laracogs</a> - Laravel 工具集（命令、服务、门面、模板等）</li>
  	<li><a href="https://github.com/spatie/laravel-menu" target="_blank" rel="noopener noreferrer">Laravel Menu</a> - Html导航菜单生成器</li>
@@ -84,9 +84,9 @@
  	<li><a href="https://github.com/romanbican/roles" target="_blank" rel="noopener noreferrer">Laravel Roles</a> - 处理角色及权限的包（Laravel 5）（900+ stars）</li>
  	<li><a href="https://github.com/lucadegasperi/oauth2-server-laravel">OAuth 2 Server Laravel</a> - 封装 OAuth 2.0 认证服务器和资源服务器（2100+ stars）</li>
  	<li><a href="https://github.com/artdarek/oauth-4-laravel">OAuth 4 Laravel</a> - OAuth客户端封装以便支持Facebook, Twitter, Google等社交网络（Laravel 4）</li>
- 	<li><a href="https://github.com/cartalyst/sentinel">Sentinel</a> - 框架未知的认证&amp;授权系统</li>
+ 	<li><a href="https://github.com/cartalyst/sentinel">Sentinel</a> - 框架未知的认证&amp;授权系统</li>
  	<li><a href="https://github.com/laravel/socialite">Socialite</a> - 封装 Facebook, Google, Twitter等社交媒体认证（1500+ stars）</li>
- 	<li><a href="http://socialiteproviders.github.io/">Socialite Providers</a> - 为Socialite准备的超过100个认证提供者（第三方登录）</li>
+ 	<li><a href="http://socialiteproviders.github.io/">Socialite Providers</a> - 为Socialite准备的超过100个认证提供者（第三方登录）</li>
  	<li><a href="https://github.com/antonioribeiro/google2fa">Google2FA</a> —— Google双重认证模块</li>
  	<li><a href="https://github.com/jrean/laravel-user-verification">Laravel User Verification</a> - 处理Laravel 5中的用户验证流程</li>
  	<li><a href="https://github.com/Adldap2/Adldap2-Laravel">Adldap2 Laravel </a>- Laravel Adldap2 扩展包</li>
@@ -108,7 +108,7 @@
  	<li><a href="https://github.com/cviebrock/eloquent-sluggable">Eloquent Sluggable</a> - 创建Eloquent模型小物件（1300+ stars）</li>
  	<li><a href="https://github.com/spatie/eloquent-sortable">Eloquent Sortable</a> - 为Eloquent 模型添加排序功能</li>
  	<li><a href="https://github.com/svenluijten/flex-env">FlexEnv</a> - 通过Artisan管理.env文件</li>
- 	<li><a href="https://github.com/LaravelCollective/html">HTML</a> - Laravel官方HTML及表单构建器</li>
+ 	<li><a href="https://github.com/LaravelCollective/html">HTML</a> - Laravel HTML及表单元素构建器</li>
  	<li><a href="https://github.com/hyn/multi-tenant">Hyn/multi-tenant</a> - 该扩展包用于支持多个站点基于同一个Laravel安装</li>
  	<li><a href="https://github.com/Intervention/image">Intervention Image</a> - 图片处理库（创建、编辑、压缩图片）（4300+ stars）</li>
  	<li><a href="https://github.com/sahusoftcom/eloquent-image-mutator">Eloquent Image Mutator</a> - 使用Eloquent模型存储/获取图片</li>
@@ -117,6 +117,7 @@
  	<li><a href="https://github.com/stevenyangecho/laravel-u-editor" target="_blank" rel="noopener noreferrer">Laravel 5 UEditor</a> - 百度编辑器集成到Laravel5（支持七牛云存储）</li>
  	<li><a href="https://github.com/spatie/laravel-activitylog">Laravel Activitylog</a> - 在Laravel中记录用户活动日志</li>
  	<li><a href="https://github.com/FrozenNode/Laravel-Administrator" target="_blank" rel="noopener noreferrer">Laravel Administrator</a> - Laravel后台管理（1800+ stars）</li>
+ 	<li><a href="https://github.com/gstt/laravel-achievements" target="_blank" rel="noopener noreferrer">Laravel Achievements</a> - 基于 Laravel 实现的勋章系统</li>
  	<li><a href="https://github.com/owen-it/laravel-auditing">Laravel Auditing</a> - 记录Laravel模型修改日志</li>
  	<li><a href="https://github.com/spatie/laravel-blade-javascript">Laravel Blade Javascript</a> - 将PHP变量转化为Javascript变量的Blade指令</li>
  	<li><a href="https://github.com/davejamesmiller/laravel-breadcrumbs">Laravel Breadcrumbs</a> - 创建及管理面包屑导航</li>
@@ -125,7 +126,7 @@
  	<li><a href="https://github.com/spatie/laravel-cookie-consent">Laravel Cookie Consent</a> - 让你的Laravel应用遵循疯狂的欧盟Cookie规则</li>
  	<li><a href="https://github.com/yajra/laravel-datatables">Laravel Datatables</a> - jQuery数据表API（Laravel 4 &amp; Laravel 5）（1000+ stars）</li>
  	<li><a href="https://github.com/mathiasgrimm/laravel-dot-env-gen" target="_blank" rel="noopener noreferrer">Laravel Dot Env Generator</a> - 基于项目源码生成 .env.gen 文件</li>
- 	<li><a href="https://github.com/unicodeveloper/laravel-emoji">Laravel Emoji</a> - Laravel表情扩展包</li>
+ 	<li><a href="https://github.com/unicodeveloper/laravel-emoji">Laravel Emoji</a> - Laravel表情扩展包</li>
  	<li><a href="https://github.com/svenluijten/env-providers">Laravel EnvProviders</a> - 基于开发环境加载服务提供者</li>
  	<li><a href="https://github.com/Maatwebsite/Laravel-Excel">Laravel Excel</a> - 导入导出Excel和CSV文件（2600+ stars）</li>
  	<li><a href="https://github.com/spatie/laravel-failed-job-monitor">Laravel Failed Job Monitor</a> - Laravel 队列任务失败监听器</li>
@@ -136,16 +137,16 @@
  	<li><a href="https://github.com/404labfr/laravel-impersonate">Laravel Impersonate</a> - 让你以任意用户的身份登录到应用</li>
  	<li><a href="https://github.com/RachidLaasri/LaravelInstaller">Laravel Installer</a> - 让你像安装WordPress一样按照向导安装Laravel</li>
  	<li><a href="https://github.com/GrahamCampbell/Laravel-Markdown">Laravel Markdown</a> - 封装CommonMark</li>
- 	<li><a href="https://github.com/spatie/laravel-medialibrary" target="_blank" rel="noopener noreferrer">Laravel MediaLibrary</a> - Eloquent模型助手文件（900+ stars）</li>
+ 	<li><a href="https://github.com/spatie/laravel-medialibrary" target="_blank" rel="noopener noreferrer">Laravel MediaLibrary</a> - Eloquent模型助手文件（900+ stars）</li>
  	<li><a href="https://github.com/cmgmyr/laravel-messenger">Laravel Messenger</a> - 在Laravel中创建用户消息系统（900+ stars）</li>
  	<li><a href="https://github.com/hootlex/laravel-moderation">Laravel Moderation</a> - Laravel 5.* 内容审核系统，允许你接收或拒绝对资源的请求</li>
  	<li><a href="https://github.com/fenos/Notifynder">Laravel Notifynder</a> - Laravel通知管理</li>
- 	<li><a href="https://github.com/spatie/laravel-paginateroute">Laravel Paginate Route</a> - 添加 paginate 路由方法支持分页（取代查询字符串）</li>
+ 	<li><a href="https://github.com/spatie/laravel-paginateroute">Laravel Paginate Route</a> - 添加 paginate 路由方法支持分页（取代查询字符串）</li>
  	<li><a href="https://github.com/overtrue/pinyin" target="_blank" rel="noopener noreferrer">Laravel Pinyin</a> - 基于词库的中文转拼音优质解决方案（1200+ stars）</li>
  	<li><a href="https://github.com/spatie/laravel-pjax">Laravel Pjax</a> - Laravel 5 Pjax 中间件</li>
  	<li><a href="https://github.com/gocanto/places-validation">Laravel Places Validation</a> - 用户地址验证</li>
  	<li><a href="https://github.com/Bosnadev/Repositories">Laravel Repositories </a>- 在Laravel中使用Repository模式实现业务逻辑与数据访问的分离</li>
- 	<li><a href="https://github.com/spatie/laravel-responsecache">Laravel Responsecache</a> - 通过缓存整个响应加速Laravel应用</li>
+ 	<li><a href="https://github.com/spatie/laravel-responsecache">Laravel Responsecache</a> - 通过缓存整个响应加速Laravel应用</li>
  	<li><a href="https://github.com/anlutro/laravel-settings">Laravel Settings</a> - 对Laravel进行全局配置</li>
  	<li><a href="https://github.com/ericmakesstuff/laravel-server-monitor">Laravel Server Monitor</a> - Laravel应用服务器监听命令</li>
  	<li><a href="https://github.com/Crinsane/LaravelShoppingcart">Laravel Shoppingcart</a> - Laravel购物车实现（1000+ stars）</li>
@@ -155,24 +156,26 @@
  	<li><a href="https://github.com/CodeSleeve/laravel-stapler">Laravel Stapler</a> - 基于ORM的文件上传管理器</li>
  	<li><a href="https://github.com/antonioribeiro/tracker">Laravel Stats Tracker</a> - 从请求中收集信息以验证和存储（900+ stars）</li>
  	<li><a href="https://github.com/spatie/laravel-tags">Laravel Tags</a> - 添加标签和标签行为到Laravel应用</li>
- 	<li><a href="https://github.com/spatie/laravel-tail">Laravel Tail</a> - Laravel 5 漏掉的tail命令</li>
+ 	<li><a href="https://github.com/spatie/laravel-tail">Laravel Tail</a> - Laravel 5 漏掉的tail命令</li>
+ 	<li><a href="https://github.com/nahid/talk" target="_blank" rel="noopener noreferrer">Laravel Talk</a> - 基于Laravel 5开发的用户实时消息&amp;聊天系统</li>
  	<li><a href="https://github.com/mpociot/laravel-test-factory-helper">Laravel Test Factory Generator</a> - 通过已存在的模型生成Laravel测试工厂类</li>
+ 	<li><a href="https://github.com/shipu/themevel" target="_blank" rel="noopener noreferrer">Laravel Themvel</a> - Laravel 主题及前端资源管理系统</li>
  	<li><a href="https://github.com/spatie/laravel-uptime-monitor">Laravel Uptime Monitor</a> - 功能强大，配置简单的uptime和ssl监听器</li>
  	<li><a href="https://github.com/spatie/laravel-url-signer">Laravel url signer</a> - 通过有效时间创建安全的URL</li>
  	<li><a href="https://github.com/gocanto/user-invitations">Laravel Users Invitation</a> - 邀请新用户注册</li>
  	<li><a href="https://github.com/webpatser/laravel-uuid">Laravel Uuid</a> - 基于RFC 4122标准生成UUID的Laravel包</li>
  	<li><a href="https://github.com/RachidLaasri/LaravelInstaller/">Laravel Web Installer</a> - 通过浏览器安装 Laravel 5.1</li>
- 	<li><a href="https://github.com/overtrue/latest-laravel" target="_blank" rel="noopener noreferrer">Latest Laravel</a> - 每天准时更新的 Laravel 不同分支完整包</li>
+ 	<li><a href="https://github.com/overtrue/latest-laravel" target="_blank" rel="noopener noreferrer">Latest Laravel</a> - 每天准时更新的 Laravel 不同分支完整包</li>
  	<li><a href="https://github.com/lookitsatravis/listify">Listify</a> - 添加分类/排序到任意Eloquent模型</li>
  	<li><a href="https://github.com/tightenco/mailthief">MailThief</a> - 测试邮件发送扩展包，无需真实发送邮件</li>
- 	<li><a href="https://github.com/anhskohbo/no-captcha">noCAPTCHA</a> - Google新的noCAPTCHA（reCAPTCHA）助手</li>
+ 	<li><a href="https://github.com/anhskohbo/no-captcha">noCAPTCHA</a> - Google新的noCAPTCHA（reCAPTCHA）助手</li>
  	<li><a href="https://github.com/mewebstudio/purifier">Purifier</a> - 集成Laravel和HTMLPurifier</li>
  	<li><a href="https://github.com/greggilbert/recaptcha">Recaptcha</a> - 验证码校验器（Laravel 5）</li>
  	<li><a href="https://github.com/VentureCraft/revisionable">Revisionable</a> - 创建Eloquent模型的历史版本（1000+ stars）</li>
- 	<li><a href="https://github.com/artesaos/seotools">SEOTools</a> - Laravel和Lumen的SEO工具包</li>
+ 	<li><a href="https://github.com/artesaos/seotools">SEOTools</a> - Laravel和Lumen的SEO工具包</li>
  	<li><a href="https://github.com/thetispro/laravel5-setting">Setting</a> - 将配置信息持久化存储到JSON文件中</li>
  	<li><a href="https://github.com/SimpleSoftwareIO/simple-qrcode">Simple QrCode</a> - Laravel二维码生成器</li>
- 	<li><a href="https://github.com/mpociot/teamwork">Teamwork</a> - 在一个邀请系统中用户与小组的关联</li>
+ 	<li><a href="https://github.com/mpociot/teamwork">Teamwork</a> - 在一个邀请系统中用户与小组的关联</li>
  	<li><a href="https://github.com/dwightwatson/validating">Validating</a> - 用于Eloquent模型保存验证的Trait</li>
  	<li><a href="https://github.com/mpociot/vat-calculator">VAT Calculator</a> - 处理所有与欧盟MOSS增值税条例相关的麻烦事儿</li>
 </ul>
@@ -184,11 +187,12 @@
 </ul>
 <h4><strong>后台模板</strong></h4>
 <ul>
- 	<li><a href="https://github.com/acacha/adminlte-laravel" target="_blank" rel="noopener noreferrer">AdminLTE Template For Laravel 5</a> - 将默认 Laravel 前端模板代码替换成 AdminLTE 和 Pratt 页面</li>
+ 	<li><a href="https://github.com/acacha/adminlte-laravel" target="_blank" rel="noopener noreferrer">AdminLTE Template For Laravel 5</a> - 将默认 Laravel 前端模板代码替换成 AdminLTE 和 Pratt 页面</li>
  	<li><a href="https://github.com/silverbux/laravel-angular-admin">Laravel Angular Admin</a> － 基于 Laravel + Angularjs + Bootstrap + AdminLTE 实现的后台模板，此外支持Oauth和JWT登录认证。</li>
  	<li><a href="https://github.com/dwijitsolutions/laraadmin">LaraAdmin</a> - 开源Laravel后台面板</li>
  	<li><a href="https://github.com/the-control-group/voyager"><strong>V</strong>oyager</a> - 不容错过的Laravel后台（1300+ stars）</li>
  	<li><a href="https://github.com/z-song/laravel-admin">laravel-admin</a> - 十分钟构建全功能Laravel后台界面</li>
+ 	<li><a href="https://github.com/Laralum/Laralum" target="_blank" rel="noopener noreferrer">Laralum</a> - 基于Laravel 5.4开发的开源模块化后台管理面板</li>
 </ul>
 <h4><strong style="line-height: 1.5;">数据库，ORMs， 迁移 &amp; 填充</strong></h4>
 <ul>
@@ -199,14 +203,14 @@
  	<li><a href="https://github.com/doctrine/dbal" target="_blank" rel="noopener noreferrer">Doctrine DBAL</a> - 数据迁移（migrate）时支持列的重命名操作（renameColumn）</li>
  	<li><a href="https://github.com/kirkbushell/eloquence">Eloquence</a> - 为Eloquent模型添加额外功能特性</li>
  	<li><a href="https://github.com/orangehill/iseed">iSeed</a> - 从已有数据表中生成一个新的填充文件</li>
- 	<li><a href="https://github.com/spatie/laravel-backup">Laravel Backup</a> - 备份 Laravel 5 应用的包（1200+ stars）</li>
+ 	<li><a href="https://github.com/spatie/laravel-backup">Laravel Backup</a> - 备份 Laravel 5 应用的包（1200+ stars）</li>
  	<li><a href="https://github.com/mitchellvanw/laravel-doctrine">Laravel Doctrine</a> - Doctrine 2 ORM 实现</li>
  	<li><a href="https://github.com/GrahamCampbell/Laravel-Flysystem">Laravel Flysystem</a> - 从远程主机(AWS S3, Dropbox等)而非本地文件系统提取文件</li>
  	<li><a href="https://github.com/jenssegers/laravel-mongodb">Laravel MongoDB</a> - 支持MongoDB的Eloquent模型及Query构造器（2100+ stars）</li>
  	<li><a href="https://github.com/yajra/laravel-oci8">Laravel OCI8</a> - 通过OCI8在Laravel 4/5中实现Oracle DB驱动</li>
  	<li><a href="https://github.com/Askedio/laravel5-soft-cascade">Laravel 5 Soft Cascade</a> - 使用Laravel软删除功能实现级联删除和恢复</li>
  	<li><a href="https://github.com/Xethron/migrations-generator">Migrations Generator</a> - 从已有数据库中生成迁移（900+ stars）</li>
- 	<li><a href="https://github.com/jarektkaczyk/eloquence">Sofa/Eloquence</a> - Eloquent ORM 扩展</li>
+ 	<li><a href="https://github.com/jarektkaczyk/eloquence">Sofa/Eloquence</a> - Eloquent ORM 扩展</li>
  	<li><a href="https://github.com/orchestral/tenanti">Tenanti</a> - 群租数据库结构管理器</li>
  	<li><a href="https://github.com/thedevsaddam/laravel-schema">Laravel Schema</a> - 从终端查看数据库连接信息</li>
  	<li><a href="https://github.com/znck/belongs-to-through">belongsToThrough</a> - 逆向的远层一对多</li>
@@ -216,13 +220,13 @@
 </ul>
 <h4><strong>搜索</strong></h4>
 <ul>
- 	<li><a href="https://github.com/algolia/algoliasearch-laravel">Algolia Search</a> - 集成 Algolia Search API到Laravel Eloquent ORM</li>
- 	<li><a href="https://github.com/elasticquent/Elasticquent">Elasticquent</a> - 为Eloquent模型准备的Elasticsearch</li>
- 	<li><a href="https://github.com/mmanos/laravel-search">Laravel Search</a> - Elasticsearch、Algolia以及 ZendSearch的统一API</li>
+ 	<li><a href="https://github.com/algolia/algoliasearch-laravel">Algolia Search</a> - 集成 Algolia Search API到Laravel Eloquent ORM</li>
+ 	<li><a href="https://github.com/elasticquent/Elasticquent">Elasticquent</a> - 为Eloquent模型准备的Elasticsearch</li>
+ 	<li><a href="https://github.com/mmanos/laravel-search">Laravel Search</a> - Elasticsearch、Algolia以及 ZendSearch的统一API</li>
  	<li><a href="https://github.com/TomLingham/Laravel-Searchy">Laravel Searchy</a> - Laravel 搜索扩展包，让用户可以轻松进行精准匹配或模糊查询</li>
- 	<li><a href="https://github.com/sleimanx2/plastic">Plastic</a> - 适配 Laravel 的 Elasticsearch ODM</li>
- 	<li><a href="https://github.com/spatie/searchindex">SearchIndex</a> - 在Algolia或Elasticsearch存储或获取对象数据</li>
- 	<li><a href="https://github.com/nicolaslopezj/searchable">Searchable</a> - 添加简单搜索功能到Eloquent模型的trait</li>
+ 	<li><a href="https://github.com/sleimanx2/plastic">Plastic</a> - 适配 Laravel 的 Elasticsearch ODM</li>
+ 	<li><a href="https://github.com/spatie/searchindex">SearchIndex</a> - 在Algolia或Elasticsearch存储或获取对象数据</li>
+ 	<li><a href="https://github.com/nicolaslopezj/searchable">Searchable</a> - 添加简单搜索功能到Eloquent模型的trait</li>
  	<li><a href="https://github.com/teamtnt/tntsearch">TNTSearch</a> - PHP编写的功能完备的全文搜索引擎</li>
 </ul>
 <h4><a id="user-content-restful-apis" class="anchor" href="https://github.com/nonfu/awesome-laravel#restful-apis"></a><strong>APIs</strong></h4>
@@ -243,7 +247,7 @@
 <ul>
  	<li><a href="https://github.com/laravel/cashier">Laravel Cashier</a> - 为Stripe提供了平滑、优雅的接口实现订购支付功能（信用卡支付）（900+ stars）</li>
  	<li><a href="https://github.com/ignited/laravel-omnipay">Omnipay for Laravel</a> - 集成 <a href="https://github.com/omnipay/omnipay">Omnipay</a> PHP支付处理库（含支付宝、银联支付、微信支付、Paypal、Stripe等）</li>
- 	<li><a href="https://github.com/Latrell/Alipay">Alipay</a> - 支付宝SDK在Laravel 5中的封装</li>
+ 	<li><a href="https://github.com/Latrell/Alipay">Alipay</a> - 支付宝SDK在Laravel 5中的封装</li>
 </ul>
 <h4><a id="user-content-优化" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%BC%98%E5%8C%96"></a><strong>优化</strong></h4>
 <ul>
@@ -267,7 +271,7 @@
 </ul>
 <h4><strong>模块化</strong></h4>
 <ul>
- 	<li><a href="https://github.com/pingpong-labs/modules">Laravel 5 Modules</a> - Laravel 5 中实现模块化开发</li>
+ 	<li><a href="https://github.com/pingpong-labs/modules">Laravel 5 Modules</a> - Laravel 5 中实现模块化开发</li>
  	<li><a href="https://github.com/nWidart/laravel-modules">Laravel-modules</a> - 在Laravel中实现简单的模块化管理</li>
  	<li><a href="https://github.com/Propaganistas/Laravel-Phone">Laravel Phone</a> - 在Laravel或Lumen中对手机号码进行验证&amp;格式化</li>
  	<li><a href="https://github.com/cybercog/laravel-ban">Laravel Ban</a> - 简化Laravel模型阻止/禁止使用</li>
@@ -275,27 +279,27 @@
 </ul>
 <h4><a id="user-content-第三方服务集成" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E7%AC%AC%E4%B8%89%E6%96%B9%E6%9C%8D%E5%8A%A1%E9%9B%86%E6%88%90"></a><strong>第三方服务集成</strong></h4>
 <ul>
- 	<li><a href="https://github.com/vinkla/algolia">Laravel Algolia</a> - 连接 Algolia API</li>
- 	<li><a href="https://github.com/spatie/laravel-analytics" target="_blank" rel="noopener noreferrer">Laravel Analytics</a> - 可配置的Laravel 5 包用于从Google Analytics获取页面浏览数或其他数据</li>
+ 	<li><a href="https://github.com/vinkla/algolia">Laravel Algolia</a> - 连接 Algolia API</li>
+ 	<li><a href="https://github.com/spatie/laravel-analytics" target="_blank" rel="noopener noreferrer">Laravel Analytics</a> - 可配置的Laravel 5 包用于从Google Analytics获取页面浏览数或其他数据</li>
  	<li><a href="https://github.com/GrahamCampbell/Laravel-Bitbucket">Laravel Bitbucket</a> - Laravel Bitbucket API</li>
- 	<li><a href="https://github.com/GrahamCampbell/Laravel-DigitalOcean">Laravel DigitalOcean</a> - 连接 DigitalOceanV2</li>
- 	<li><a href="https://github.com/GrahamCampbell/Laravel-Dropbox">Laravel Dropbox</a> - 连接 Dropbox</li>
- 	<li><a href="https://github.com/schimpanz/Laravel-Facebook" target="_blank" rel="noopener noreferrer">Laravel Facebook</a> - Laravel Facebook API</li>
- 	<li><a href="https://github.com/GrahamCampbell/Laravel-GitHub">Laravel GitHub</a> - 连接 PHP GitHub API</li>
- 	<li><a href="https://github.com/vinkla/gitlab">Laravel GitLab</a> - 连接 GitLab API</li>
- 	<li><a href="https://github.com/spatie/laravel-googletagmanager" target="_blank" rel="noopener noreferrer">Laravel Googletagmanager</a> - 轻松设置并发送数据到 Google Tag Manager</li>
- 	<li><a href="https://github.com/vinkla/instagram">Laravel Instagram</a> - 连接 Instagram API</li>
+ 	<li><a href="https://github.com/GrahamCampbell/Laravel-DigitalOcean">Laravel DigitalOcean</a> - 连接 DigitalOceanV2</li>
+ 	<li><a href="https://github.com/GrahamCampbell/Laravel-Dropbox">Laravel Dropbox</a> - 连接 Dropbox</li>
+ 	<li><a href="https://github.com/schimpanz/Laravel-Facebook" target="_blank" rel="noopener noreferrer">Laravel Facebook</a> - Laravel Facebook API</li>
+ 	<li><a href="https://github.com/GrahamCampbell/Laravel-GitHub">Laravel GitHub</a> - 连接 PHP GitHub API</li>
+ 	<li><a href="https://github.com/vinkla/gitlab">Laravel GitLab</a> - 连接 GitLab API</li>
+ 	<li><a href="https://github.com/spatie/laravel-googletagmanager" target="_blank" rel="noopener noreferrer">Laravel Googletagmanager</a> - 轻松设置并发送数据到 Google Tag Manager</li>
+ 	<li><a href="https://github.com/vinkla/instagram">Laravel Instagram</a> - 连接 Instagram API</li>
  	<li><a href="https://github.com/spatie/laravel-newsletter" target="_blank" rel="noopener noreferrer">Laravel Newsletter</a> - 使用Mailchimp发送时事通讯</li>
- 	<li><a href="https://github.com/GrahamCampbell/Laravel-Parse">Laravel Parse</a> - 连接 PHP Parse SDK</li>
- 	<li><a href="https://github.com/vinkla/pusher">Laravel Pusher</a> - 连接 Pusher API</li>
- 	<li><a href="https://github.com/schimpanz/Laravel-Pushwoosh" target="_blank" rel="noopener noreferrer">Laravel Pushwoosh</a> - Pushwoosh API</li>
+ 	<li><a href="https://github.com/GrahamCampbell/Laravel-Parse">Laravel Parse</a> - 连接 PHP Parse SDK</li>
+ 	<li><a href="https://github.com/vinkla/pusher">Laravel Pusher</a> - 连接 Pusher API</li>
+ 	<li><a href="https://github.com/schimpanz/Laravel-Pushwoosh" target="_blank" rel="noopener noreferrer">Laravel Pushwoosh</a> - Pushwoosh API</li>
  	<li><a href="https://github.com/maknz/slack">Laravel Slack</a> - 发动消息到Slack</li>
- 	<li><a href="https://github.com/vinkla/vimeo">Laravel Vimeo</a> - 连接 Vimeo API</li>
- 	<li><a style="line-height: 1.5;" href="https://github.com/stormpath/stormpath-laravel" target="_blank" rel="noopener noreferrer">stormpath-laravel</a> - 使用Laravel和Stormpath构建安全的Web应用</li>
- 	<li><a style="line-height: 1.5;" href="https://github.com/overtrue/laravel-wechat" target="_blank" rel="noopener noreferrer">Laravel Wechat</a><span style="line-height: 1.5;"> - 目前最优雅的微信公众平台 SDK</span></li>
+ 	<li><a href="https://github.com/vinkla/vimeo">Laravel Vimeo</a> - 连接 Vimeo API</li>
+ 	<li><a style="line-height: 1.5;" href="https://github.com/stormpath/stormpath-laravel" target="_blank" rel="noopener noreferrer">stormpath-laravel</a> - 使用Laravel和Stormpath构建安全的Web应用</li>
+ 	<li><a style="line-height: 1.5;" href="https://github.com/overtrue/laravel-wechat" target="_blank" rel="noopener noreferrer">Laravel Wechat</a><span style="line-height: 1.5;"> - 目前最优雅的微信公众平台 SDK</span></li>
  	<li><a href="https://github.com/huanghua581/laravel-wechat-sdk">Laravel Wechat SDK</a> - 另一个微信公众平台 Laravel SDK</li>
- 	<li><a href="https://github.com/johnlui/AliyunOSS">AliyunOSS</a> —— 阿里云 OSS 官方 SDK 的 Composer 封装，支持任何 PHP 项目，包括 Laravel、Symfony 等等</li>
- 	<li><a href="https://github.com/zgldh/qiniu-laravel-storage">Laravel Qiniu</a> —— Qiniu 云储存 Laravel 5 Storage版</li>
+ 	<li><a href="https://github.com/johnlui/AliyunOSS">AliyunOSS</a> —— 阿里云 OSS 官方 SDK 的 Composer 封装，支持任何 PHP 项目，包括 Laravel、Symfony 等等</li>
+ 	<li><a href="https://github.com/zgldh/qiniu-laravel-storage">Laravel Qiniu</a> —— Qiniu 云储存 Laravel 5 Storage版</li>
 </ul>
 <h3><a id="user-content-开发环境" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83"></a>开发环境</h3>
 <ul>
@@ -309,7 +313,7 @@
  	<li><a href="http://laravelacademy.org/post/3596.html">在 Docker 中运行 Homestead</a></li>
 </ul>
 </li>
- 	<li><a href="http://laravelacademy.org/post/4147.html">Valet</a> - Mac极简开发环境</li>
+ 	<li><a href="http://laravelacademy.org/post/4147.html">Valet</a> - Mac极简开发环境</li>
  	<li><a href="https://github.com/cpriego/valet-linux">Valet Linux</a> - Linux版Valet</li>
  	<li><a href="https://github.com/LaraDock/laradock">LaraDock</a> - 在Docker上运行Laravel（和Homestead类似但是使用Docker而不是Vagrant部署）（1600+ stars）</li>
  	<li><a href="https://github.com/laraedit/laraedit-docker">LaraEdit Docker</a> - 在Docker容器中运行Homestead开发环境</li>
@@ -412,7 +416,7 @@
  	<li><a href="http://blog.vluzrmos.com.br/category/laravel">Blog do Vluzrmos (PT-BR)</a></li>
  	<li><a href="http://www.codetutorial.io/tag/laravel/">CodeTutorial</a></li>
  	<li><a href="http://www.camroncade.com/" target="_blank" rel="noopener noreferrer">Camron Cade</a></li>
- 	<li><a href="http://blog.jetbrains.com/phpstorm/tag/laravel/">JetBrains PhpStorm Blog Tag Archives: Laravel</a></li>
+ 	<li><a href="http://blog.jetbrains.com/phpstorm/tag/laravel/">JetBrains PhpStorm Blog Tag Archives: Laravel</a></li>
  	<li><a href="http://laravelista.com/" target="_blank" rel="noopener noreferrer">Laravelista</a></li>
  	<li><a href="http://blog.goforyt.com/category/laravel/" target="_blank" rel="noopener noreferrer">Go Foryt Blog</a></li>
  	<li><a href="http://ryanchenkie.com/tag/laravel/" target="_blank" rel="noopener noreferrer">Ryan Chenkie</a></li>
@@ -451,6 +455,7 @@
  	<li><a href="http://www.lynda.com/Laravel-training-tutorials/2779-0.html">Lynda</a></li>
  	<li><a href="https://www.pluralsight.com/search?q=laravel&amp;categories=course">Pluralsight</a></li>
  	<li><a href="https://laracademy.co/">Laracademy</a></li>
+ 	<li><a href="https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA/playlists" target="_blank" rel="noopener noreferrer">Dev Marketer</a></li>
 </ul>
 <h3><a id="user-content-讨论" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%AE%A8%E8%AE%BA"></a>讨论</h3>
 <h4>英文</h4>
@@ -505,15 +510,15 @@
 <h3><a id="user-content-代码库" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%BB%A3%E7%A0%81%E5%BA%93"></a>代码库</h3>
 <h4>原型项目</h4>
 <ul>
- 	<li><a href="https://github.com/acacha/adminlte-laravel">Acacha adminlte-laravel</a> —— 基于 AdminLTE + Pratt + Bootstrap 实现的 Laravel 前后台模板</li>
+ 	<li><a href="https://github.com/acacha/adminlte-laravel">Acacha adminlte-laravel</a> —— 基于 AdminLTE + Pratt + Bootstrap 实现的 Laravel 前后台模板</li>
  	<li><a href="https://github.com/laravelish/EasyAdmin">EasyAdmin</a> —— 高级用户登录与管理（支持双重认证）</li>
- 	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5.1 Boilerplate</a> —— 基于当前Laravel最新版本（Laravel 5.1.*）并集成Boilerplate的项目</li>
+ 	<li><a href="http://laravelacademy.org/post/1359.html">Laravel 5.1 Boilerplate</a> —— 基于当前Laravel最新版本（Laravel 5.1.*）并集成Boilerplate的项目</li>
  	<li><a href="https://github.com/rappasoft/laravel-5-boilerplate">Laravel 5.2 Boilerplate</a></li>
- 	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a> —— 这是一个Laravel 5.1和AngularJS的原型项目</li>
+ 	<li><a href="http://laravelacademy.org/post/1426.html">Laravel 5 Angular Material Starter</a> —— 这是一个Laravel 5.1和AngularJS的原型项目</li>
  	<li><a href="https://github.com/unicodeveloper/laravel-hackathon-starter">Laravel Hackathon Starter</a></li>
  	<li><a href="https://github.com/silverbux/laravel-angular-admin">Laravel Angular AdminLTE</a></li>
  	<li><a href="https://github.com/laravel-backpack">Backpack for Laravel</a></li>
- 	<li><a href="http://laravelacademy.org/post/6408.html">Someline Starter</a> —— 基于Laravel 5和Vue.js，用于快速构架RESTful API和Web应用的原型项目</li>
+ 	<li><a href="http://laravelacademy.org/post/6408.html">Someline Starter</a> —— 基于Laravel 5和Vue.js，用于快速构架RESTful API和Web应用的原型项目</li>
  	<li><a href="https://github.com/francescomalatesta/laravel-api-boilerplate-jwt">Laravel REST API Boilerplate</a></li>
  	<li><a href="https://github.com/Porto-SAP/Hello-API">Hello API</a> —— 通过PHP和Laravel构建现代API</li>
  	<li><a href="https://github.com/TheOrchid/Platform"><span class="blob-code-inner"><span class="pl-e">Orchid</span></span></a> —— 提供了一种灵活、可扩展的方式来构建自定义应用</li>
@@ -521,19 +526,20 @@
 </ul>
 <h4>CMS</h4>
 <ul>
- 	<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a> —— Laravel 5.1驱动的功能强大的CMS</li>
+ 	<li><a href="http://laravelacademy.org/post/709.html">Bootstrap CMS</a> —— Laravel 5.1驱动的功能强大的CMS</li>
  	<li><a href="http://laravelacademy.org/post/1132.html">October</a> —— 基于Laravel 5，致力于让开发工作变得简单的CMS</li>
- 	<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a> —— MVC架构的PHP内容管理系统，3.0以前基于CodeIgniter，目前基于Laravel 5.1</li>
- 	<li><a href="http://laravelacademy.org/post/1227.html">LavaLite</a> —— 基于Laravel 5.1 &amp; Bootstrap 3的内容管理系统</li>
- 	<li><a href="http://laravelacademy.org/post/1508.html">TypiCMS</a> —— 基于 Laravel 5 构建的、支持多语言的内容管理系统</li>
+ 	<li><a href="http://laravelacademy.org/post/1391.html">PyroCMS</a> —— MVC架构的PHP内容管理系统，3.0以前基于CodeIgniter，目前基于Laravel 5.1</li>
+ 	<li><a href="http://laravelacademy.org/post/1227.html">LavaLite</a> —— 基于Laravel 5.1 &amp; Bootstrap 3的内容管理系统</li>
+ 	<li><a href="http://laravelacademy.org/post/1508.html">TypiCMS</a> —— 基于 Laravel 5 构建的、支持多语言的内容管理系统</li>
  	<li><a href="http://laravelacademy.org/post/1972.html">Laravel and AngularJS CMS</a> —— 基于Laravel 5.1和AngularJS的CMS</li>
  	<li><a href="http://laravelacademy.org/post/3876.html">Microweber</a> —— 基于 Laravel 拖拽式生成 CMS 及在线商店利器</li>
- 	<li><a href="http://laravelacademy.org/post/6417.html">AsgardCMS</a> —— 基于Laravel构建的、支持模块化和多语言的CMS</li>
- 	<li><a href="http://laravelacademy.org/post/6547.html">Coaster CMS</a> —— 基于Laravel 5.3构建的下一代CMS</li>
+ 	<li><a href="http://laravelacademy.org/post/6417.html">AsgardCMS</a> —— 基于Laravel构建的、支持模块化和多语言的CMS</li>
+ 	<li><a href="http://laravelacademy.org/post/6547.html">Coaster CMS</a> —— 基于Laravel 5.3构建的下一代CMS</li>
  	<li><a href="https://github.com/odirleiborgert/borgert-cms">Borgert CMS</a> —— 基于Laravel 5.3构建的开源CMS</li>
- 	<li><a href="http://laravelacademy.org/post/6477.html">Quarx</a> —— 在任意Laravel中实现CMS功能的扩展包</li>
+ 	<li><a href="http://laravelacademy.org/post/6477.html">Quarx</a> —— 在任意Laravel中实现CMS功能的扩展包</li>
  	<li><a href="https://github.com/sgsoft-studio/webed" target="_blank" rel="noopener noreferrer">WebEd CMS</a> —— 基于Laravel 5.4的CMS系统</li>
- 	<li><a href="https://botble.com/">Botble</a> （收费）</li>
+ 	<li><a href="https://github.com/TheOrchid/Platform" target="_blank" rel="noopener noreferrer">Orchid</a> —— 又一个 Laravel CMS 扩展包</li>
+ 	<li><a href="https://botble.com/">Botble</a> （收费）</li>
  	<li><a href="https://statamic.com/">Statamic</a>（收费）</li>
  	<li><a href="https://github.com/larapress-cms/larapress">Larapress</a>（基于Laravel 4）</li>
 </ul>
@@ -544,47 +550,47 @@
 <h4>论坛</h4>
 <ul>
  	<li><a href="http://laravelacademy.org/post/666.html">Laravel.io</a> —— Laravel开发者社区</li>
- 	<li><a href="http://laravelacademy.org/post/1090.html">Flarum</a> —— 免费的、开源的、专注于简约的论坛系统，esoTalk和FluexBB的联合继承者</li>
+ 	<li><a href="http://laravelacademy.org/post/1090.html">Flarum</a> —— 免费的、开源的、专注于简约的论坛系统，esoTalk和FluexBB的联合继承者</li>
  	<li><a href="http://laravelacademy.org/post/899.html">PHPHub</a> —— 基于Laravel 4.2，积极向上的 PHP &amp; Laravel 开发者社区</li>
 </ul>
 <h4>电商</h4>
 <ul>
- 	<li><a href="http://laravelacademy.org/post/3793.html">Antvel</a> —— 基于 Laravel 5.* 开发的开源电子商务项目</li>
+ 	<li><a href="http://laravelacademy.org/post/3793.html">Antvel</a> —— 基于 Laravel 5.* 开发的开源电子商务项目</li>
 </ul>
 <h4>项目管理</h4>
 <ul>
- 	<li><a href="http://laravelacademy.org/post/1045.html">92five app</a> —— 基于 Laravel框架 &amp; Backbone JS 构建，是一个自托管的、基于web的项目管理应用</li>
+ 	<li><a href="http://laravelacademy.org/post/1045.html">92five app</a> —— 基于 Laravel框架 &amp; Backbone JS 构建，是一个自托管的、基于web的项目管理应用</li>
  	<li><a href="http://laravelacademy.org/post/956.html">Scrumwala</a> —— 基于Laravel5，项目管理应用</li>
  	<li><a href="http://laravelacademy.org/post/6495.html">Ribbbon</a> —— 基于Laravel 5.1和Vue.js构建的开源项目管理系统</li>
- 	<li><a href="https://github.com/renatomarinho/laravel-gitscrum">Laravel GitScrum</a> —— 基于Laravel 5.4开发的免费应用，致力于帮助开发团队使用Git和Scrum进行天对天的任务管理</li>
+ 	<li><a href="https://github.com/renatomarinho/laravel-gitscrum">GitScrum</a> —— 基于Laravel 5.4开发的免费应用，致力于帮助开发团队使用Git和Scrum进行天对天的任务管理</li>
 </ul>
 <h4>博客</h4>
 <ul>
  	<li><a href="http://laravelacademy.org/post/5136.html">Canvas</a> —— 基于Laravel 5.2 开发的轻量级博客系统</li>
  	<li><a href="http://laravelacademy.org/post/4019.html">Katana</a> —— 静态站点/博客生成器</li>
- 	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank" rel="noopener noreferrer">Laravel 5 Blog</a> —— 基于 Laravel 5 开发的博客系统</li>
- 	<li><a href="http://demo.0ez.ru/root/login">0ez</a> —— 基于Laravel的 轻博客系统</li>
+ 	<li><a href="https://github.com/yccphp/laravel-5-blog" target="_blank" rel="noopener noreferrer">Laravel 5 Blog</a> —— 基于 Laravel 5 开发的博客系统</li>
+ 	<li><a href="http://demo.0ez.ru/root/login">0ez</a> —— 基于Laravel的 轻博客系统</li>
  	<li><a href="https://github.com/Vuedo/vuedo">Vuedo</a> —— 基于Laravel+Vue.js的博客平台</li>
- 	<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a> —— 专注于写作的最小化博客平台</li>
+ 	<li><a href="http://laravelacademy.org/post/1203.html">Wardrobe</a> —— 专注于写作的最小化博客平台</li>
  	<li><a href="https://github.com/jcc/blog">PJ Blog</a> —— 基于Laravel和Vue.js构建的开源博客</li>
+ 	<li><a href="https://github.com/cong5/myPersimmon">MyPersimmon</a> —— 基于Laravel 5.4开发的博客系统</li>
 </ul>
 <h4>其他</h4>
 <ul>
  	<li><a href="http://laravelacademy.org/post/788.html">Laravel.com</a> —— Laravel官网源码</li>
- 	<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a> —— Laravel小技巧&amp;小贴士</li>
- 	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a> —— 基于Laravel构建的开源发票及时间跟踪应用</li>
+ 	<li><a href="http://laravelacademy.org/post/681.html">Laravel Tricks</a> —— Laravel小技巧&amp;小贴士</li>
+ 	<li><a href="http://laravelacademy.org/post/1117.html">Invoice Ninja</a> —— 基于Laravel构建的开源发票及时间跟踪应用</li>
  	<li><a href="http://laravelacademy.org/post/748.html">Paperwork</a> —— 基于Laravel 4.X的开源的笔记&amp;归档工具</li>
  	<li><a href="http://laravelacademy.org/post/824.html">Cachet</a> —— 基于Laravel 5的开源的状态页系统</li>
  	<li><a href="http://laravelacademy.org/post/872.html">StyleCI</a> —— 由 PHP CS Fixer开发，提供PHP代码风格持续集成服务</li>
  	<li><a href="http://laravelacademy.org/post/1006.html">Podcastwala</a> —— 基于Laravel 5，构建属于你自己的播客网站</li>
- 	<li><a href="http://laravelacademy.org/post/1681.html">Deployer</a> —— 基于Laravel 5.1的、免费的、开源的PHP应用部署工具</li>
+ 	<li><a href="http://laravelacademy.org/post/1681.html">Deployer</a> —— 基于Laravel 5.1的、免费的、开源的PHP应用部署工具</li>
  	<li><a href="http://laravelacademy.org/post/2555.html">RSS Monster</a> —— 基于 Lumen 开发的 RSS 聚合器和阅读器</li>
  	<li><a href="http://laravelacademy.org/post/2624.html">Koel</a> —— 基于 Laravel 5.1 &amp; Vue.js 开发的酷炫音乐流媒体应用</li>
- 	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a> —— 基于 Laravel 框架开发的开源门票及活动管理应用</li>
- 	<li><a href="https://github.com/laramap/laramap.com">Laramap</a></li>
- 	<li><a href="https://github.com/laravelso/site" target="_blank" rel="noopener noreferrer">Laravel.so</a></li>
- 	<li><a href="https://github.com/stefanzweifel/screeenly">Screeenly</a> - 通过API创建网站截图</li>
- 	<li><a href="https://github.com/adamwathan/jigsaw">Jigsaw</a> - 使用Blade的静态站点生成器</li>
+ 	<li><a href="http://laravelacademy.org/post/3615.html">Attendize</a> —— 基于 Laravel 框架开发的开源门票及活动管理应用</li>
+ 	<li><a href="https://github.com/stefanzweifel/screeenly">Screeenly</a> —— 通过API创建网站截图</li>
+ 	<li><a href="https://github.com/adamwathan/jigsaw">Jigsaw</a> —— 使用Blade的静态站点生成器</li>
+ 	<li><a href="https://dependenci.miguelpiedrafita.com/" target="_blank" rel="noopener noreferrer">DependenCI</a> —— Composer持续集成工具</li>
 </ul>
 <h3><a id="user-content-新闻" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%96%B0%E9%97%BB"></a>新闻</h3>
 <ul>
@@ -644,7 +650,7 @@
  	<li><a href="http://phphub.org/">Laravel China</a></li>
  	<li><a href="http://laravel.tw/">Laravel Taiwan</a> (<a href="https://www.facebook.com/groups/laravel.tw/">Facebook群组</a>)</li>
  	<li><a href="http://laraveles.com/foro/">Laravel Spanish</a></li>
- 	<li><a href="http://laravel.co.kr/">Laravel Korea</a> (<a href="https://www.facebook.com/groups/laravelkorea/" target="_blank" rel="noopener noreferrer">Facebook群组</a>)</li>
+ 	<li><a href="http://laravel.co.kr/">Laravel Korea</a> (<a href="https://www.facebook.com/groups/laravelkorea/" target="_blank" rel="noopener noreferrer">Facebook群组</a>)</li>
  	<li><a href="http://moroccanphpartisans.github.io/" target="_blank" rel="noopener noreferrer">Laravel Morocco</a></li>
  	<li><a href="http://laravel.jp/" target="_blank" rel="noopener noreferrer">Laravel Japan</a> (<a href="https://www.facebook.com/groups/laravel.jp/" target="_blank" rel="noopener noreferrer">Facebook群组</a>)</li>
  	<li><a href="http://laravel.tokyo/" target="_blank" rel="noopener noreferrer">Laravel Tokyo</a> (<a href="https://www.facebook.com/groups/laraveltokyo/" target="_blank" rel="noopener noreferrer">Facebook群组</a>)</li>
