@@ -143,6 +143,7 @@
  	<li><a href="https://github.com/spatie/laravel-image-optimizer">Laravel Image Optimizer</a> - Laravel 图片优化扩展包</li>
  	<li><a href="https://github.com/404labfr/laravel-impersonate">Laravel Impersonate</a> - 让你以任意用户的身份登录到应用</li>
  	<li><a href="https://github.com/RachidLaasri/LaravelInstaller">Laravel Installer</a> - 让你像安装WordPress一样按照向导安装Laravel</li>
+ 	<li><a href="https://github.com/tarequemdhanif/laravel-kit">Laravel Kit</a> - 轻松实现Laravel管理，无需任何终端即可执行Artisan命令</li>
  	<li><a href="https://github.com/GrahamCampbell/Laravel-Markdown">Laravel Markdown</a> - 封装CommonMark</li>
  	<li><a href="https://github.com/spatie/laravel-medialibrary" target="_blank" rel="noopener noreferrer">Laravel MediaLibrary</a> - Eloquent模型助手文件（1400+ stars）</li>
  	<li><a href="https://github.com/cmgmyr/laravel-messenger">Laravel Messenger</a> - 在Laravel中创建用户消息系统（1200+ stars）</li>
@@ -195,6 +196,7 @@
  	<li><a href="https://github.com/laracasts/PHP-Vars-To-Js-Transformer">PHP Vars to JavaScript Transformer</a> - 在JavaScript中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据（1300+ stars）</li>
  	<li><a href="https://github.com/proengsoft/laravel-jsvalidation">Javascript Validation</a> - 使用验证规则、消息、表单请求和验证器在客户端验证表单而不需要编写任何JavaScript代码</li>
  	<li><a href="https://github.com/tightenco/ziggy">Ziggy</a> - 在 JavaScript 中使用 Laravel 路由</li>
+ 	<li><a href="https://github.com/spatie/laravel-blade-javascript">laravel-blade-javascript</a> - 可以导出变量到 JavaScript 的 Blade 指令</li>
 </ul>
 <h4><strong>后台模板</strong></h4>
 <ul>
@@ -260,6 +262,14 @@
  	<li><a href="https://github.com/laravel/elixir">Elixr</a> - Node(NPM) 包用于运行Gulp任务（监控文件、运行测试、最小化CSS、组合脚本等等）（1000+ stars）</li>
  	<li><a href="https://github.com/laravel/envoy">Envoy</a> - SSH任务运行器（900+ stars）</li>
 </ul>
+<h4><strong>队列 &amp; 消息</strong></h4>
+<ul>
+ 	<li><a href="https://github.com/fhteam/laravel-amqp">Laravel AMQP</a> - 适配Laravel 队列的 AMQP 驱动</li>
+ 	<li><a href="https://github.com/rapideinternet/laravel-queue-kafka">Laravel Kafka</a> - 适配 Laravel 的 Kafka 队列驱动</li>
+ 	<li><a href="https://github.com/Superbalist/php-pubsub-kafka">Laravel Kafka pubsub adapter</a> - php-pubsub 扩展包的 Kafka 适配器</li>
+ 	<li><a href="https://github.com/LaravelCollective/iron-queue">Laravel IronMQ</a> - 适配 Laravel 队列的 IronMQ 驱动</li>
+ 	<li><a href="https://github.com/lokielse/laravel-mns">Laravel MNS Queue</a> - 适配 Laravel 的阿里云 MNS 队列驱动</li>
+</ul>
 <h4><a id="user-content-支付" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%94%AF%E4%BB%98"></a><strong>支付</strong></h4>
 <ul>
  	<li><a href="https://github.com/laravel/cashier">Laravel Cashier</a> - 为Stripe提供了平滑、优雅的接口实现订购支付功能（信用卡支付）（1000+ stars）</li>
@@ -274,7 +284,8 @@
  	<li><a href="https://github.com/dwightwatson/rememberable">Rememberable</a> - Laravel 5查询缓存（Eloquent）</li>
  	<li><a href="https://github.com/imanghafoori1/laravel-widgetize">Laravel Widgetize</a> - 让Laravel应用变得更干净、更快（页面缓存）</li>
  	<li><a href="https://github.com/appstract/laravel-opcache">Laravel OPcache</a> - 在 Laravel 提供 Artisan 命令处理 PHP OPcache</li>
- 	<li><a href="https://github.com/renatomarinho/laravel-page-speed">Laravel Blade Minify</a> - 压缩页面 HTML 输出，最高提升 35%+ 页面加载速度</li>
+ 	<li><a href="https://github.com/renatomarinho/laravel-page-speed">Laravel Page Speed</a> - 压缩页面 HTML 输出，最高提升 35%+ 页面加载速度（1000+stars）</li>
+ 	<li><a href="https://github.com/spiritix/lada-cache">Lada Cache</a> - 基于Redis，完全自动化、可扩展的数据库缓存层</li>
 </ul>
 <h4><a id="user-content-本地化" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E6%9C%AC%E5%9C%B0%E5%8C%96"></a><strong>本地化</strong></h4>
 <ul>
@@ -320,6 +331,7 @@
  	<li><a href="https://github.com/huanghua581/laravel-wechat-sdk">Laravel Wechat SDK</a> - 另一个微信公众平台 Laravel SDK</li>
  	<li><a href="https://github.com/johnlui/AliyunOSS">AliyunOSS</a> —— 阿里云 OSS 官方 SDK 的 Composer 封装，支持任何 PHP 项目，包括 Laravel、Symfony 等等</li>
  	<li><a href="https://github.com/zgldh/qiniu-laravel-storage">Laravel Qiniu</a> —— Qiniu 云储存 Laravel 5 Storage版</li>
+ 	<li><a href="https://github.com/ankitjain28may/hackerearth-api">Laravel Hackerearth</a> - Laravel HackerEarth 代码检查 API</li>
 </ul>
 <h3><a id="user-content-开发环境" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83"></a>开发环境</h3>
 <ul>
@@ -345,7 +357,8 @@
 </ul>
 </li>
  	<li><a href="https://laragon.org/">Laragon</a> - Windows上隔离的开发环境</li>
- 	<li><a href="https://maxlab.github.io/stacker/"><span class="blob-code-inner"><span class="pl-e">Stacker</span></span></a> - Docker 本地web开发环境</li>
+ 	<li><a href="https://maxlab.github.io/stacker/"><span class="blob-code-inner"><span class="pl-e">Stacker</span></span></a> - Docker 本地 Web 开发环境</li>
+ 	<li><a href="https://github.com/cytopia/devilbox">Devilbox</a> - Docker 版 XAMPP</li>
 </ul>
 <h3><a id="user-content-主机" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E4%B8%BB%E6%9C%BA"></a>主机</h3>
 <ul>
@@ -464,6 +477,8 @@
  	<li><a href="https://www.flynsarmy.com/2015/02/creating-a-basic-todo-application-in-laravel-5-part-1/"><span class="pl-e">Flynsarmy</span></a></li>
  	<li><a href="https://themsaid.com/">Mohamed Said</a></li>
  	<li><a href="http://cloudways.com/blog/laravel">Cloudways Laravel Blog</a></li>
+ 	<li><a href="https://www.kerneldev.com/">KernelDev</a></li>
+ 	<li><a href="https://snipcart.com/blog/laravel-ecommerce-tutorial-pyrocms-demo">Snipcart</a></li>
 </ul>
 <h3><a id="user-content-视频教程" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B"></a>视频</h3>
 <h4>英文</h4>
