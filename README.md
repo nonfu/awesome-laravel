@@ -51,16 +51,19 @@
  	<li><a href="https://github.com/JeffreyWay/Laravel-4-Generators">Generators</a> - 为Laravel自动生成代码（Laravel 4）（3100+ stars）</li>
  	<li><a href="https://github.com/Indatus/blacksmith">Blacksmith</a> - 灵活的代码生成工具（Laravel 4）</li>
  	<li><a href="https://github.com/barryvdh/laravel-ide-helper">IDE Helper</a> - 为IDE的自动完成功能生成帮助文件（Laravel 4 &amp; Laravel 5）（3900+ stars）</li>
+ 	<li><a href="https://github.com/yabhq/laracogs">Laracogs</a> - Laravel 工具集（命令、服务、门面、模板等）</li>
  	<li><a href="https://github.com/appzcoder/crud-generator">Laravel 5 CRUD Generator</a> - Laravel 5 CRUD 生成器</li>
  	<li><a href="https://github.com/laracasts/Laravel-5-Generators-Extended">Laravel 5 Extended Generators</a> - 扩展内置的文件生成器（Laravel 5）（1200+ stars）</li>
  	<li><a href="http://labs.infyom.com/laravelgenerator/">Laravel API/Scaffold/CRUD Generator</a> - API、CRUD、脚手架生成器（1000+ stars）</li>
  	<li><a href="https://github.com/mpociot/laravel-apidoc-generator/">Laravel API Document Generator</a> - Laravel API 文档生成器（900+ stars）</li>
- 	<li><a href="https://github.com/yabhq/laracogs">Laracogs</a> - Laravel 工具集（命令、服务、门面、模板等）</li>
+ 	<li><a href="https://github.com/CrestApps/laravel-code-generator">Laravel Code Generator</a> - 一个简洁干净的代码智能生成器</li>
+ 	<li><a href="https://github.com/lubusIN/laravel-decomposer">Laravel Decomposer</a> - 列出所有安装的扩展包以及它们的依赖，还有你的应用&amp;服务器环境变量</li>
  	<li><a href="https://github.com/spatie/laravel-menu" target="_blank" rel="noopener noreferrer">Laravel Menu</a> - Html导航菜单生成器</li>
+ 	<li><a href="https://github.com/Mombuyish/Laravel-Oh-Generators">Laravel Oh Generators</a> - 扩展 Laravel 内置代码生成器</li>
  	<li><a href="https://github.com/Jeroen-G/Laravel-Packager" target="_blank" rel="noopener noreferrer">Laravel Packager</a> - 通过CLI工具创建Laravel扩展包</li>
  	<li><a href="https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl" target="_blank" rel="noopener noreferrer">Laravel Testtools</a> - Chrome扩展，用于生成Laravel集成测试</li>
+ 	<li><a href="https://github.com/furey/tinx">Laravel Tinx</a> - 从 Laravel Tinker 内部重新载入 Session，新增一些方法的缩写</li>
  	<li><a href="https://github.com/amranidev/scaffold-interface">Scaffold Interface</a> - Laravel智能CRUD生成器</li>
- 	<li><a href="https://github.com/CrestApps/laravel-code-generator">Laravel Code Generator</a> - 一个简洁干净的代码智能生成器</li>
 </ul>
 <h4><a id="user-content-调试--分析" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%B0%83%E8%AF%95--%E5%88%86%E6%9E%90"></a><strong>调试 &amp; 分析</strong></h4>
 <ul>
@@ -143,7 +146,7 @@
  	<li><a href="https://github.com/spatie/laravel-image-optimizer">Laravel Image Optimizer</a> - Laravel 图片优化扩展包</li>
  	<li><a href="https://github.com/404labfr/laravel-impersonate">Laravel Impersonate</a> - 让你以任意用户的身份登录到应用</li>
  	<li><a href="https://github.com/RachidLaasri/LaravelInstaller">Laravel Installer</a> - 让你像安装WordPress一样按照向导安装Laravel</li>
- 	<li><a href="https://github.com/tarequemdhanif/laravel-kit">Laravel Kit</a> - 轻松实现Laravel管理，无需任何终端即可执行Artisan命令</li>
+ 	<li><a href="https://github.com/tarequemdhanif/laravel-kit">Laravel Kit</a> - 跨平台、用于管理 Laravel 应用的桌面 App</li>
  	<li><a href="https://github.com/GrahamCampbell/Laravel-Markdown">Laravel Markdown</a> - 封装CommonMark</li>
  	<li><a href="https://github.com/spatie/laravel-medialibrary" target="_blank" rel="noopener noreferrer">Laravel MediaLibrary</a> - Eloquent模型助手文件（1400+ stars）</li>
  	<li><a href="https://github.com/cmgmyr/laravel-messenger">Laravel Messenger</a> - 在Laravel中创建用户消息系统（1200+ stars）</li>
@@ -479,6 +482,7 @@
  	<li><a href="http://cloudways.com/blog/laravel">Cloudways Laravel Blog</a></li>
  	<li><a href="https://www.kerneldev.com/">KernelDev</a></li>
  	<li><a href="https://snipcart.com/blog/laravel-ecommerce-tutorial-pyrocms-demo">Snipcart</a></li>
+ 	<li><a href="https://github.com/alexeymezenin/laravel-best-practices">Laravel Best Practices</a></li>
 </ul>
 <h3><a id="user-content-视频教程" class="anchor" href="https://github.com/nonfu/awesome-laravel#%E8%A7%86%E9%A2%91%E6%95%99%E7%A8%8B"></a>视频</h3>
 <h4>英文</h4>
