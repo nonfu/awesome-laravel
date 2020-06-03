@@ -1,5 +1,3 @@
-# Laravel 精选资源大全（持续更新）
-
 > 来自 Laravel 生态系统的精选资源大全，包括书签、包、教程、视频以及其它诸多很酷的资源。
 
 对应 GitHub 地址：<https://github.com/nonfu/awesome-laravel>，更多 Laravel 中文学习资源，请关注：[Laravel学院](https://xueyuanjun.com)。
@@ -19,13 +17,6 @@
 - [Laravel中文网](http://www.golaravel.com/) - 由 Bootstrap 中文网站长驱动
 - [Laravel台湾](http://laravel.tw/) - Laravel 文档繁体中文版
 
-### 代码片段
-
-- [Laravel Cheat Sheet](http://cheats.jesse-obrien.ca/)
-- [Laravel Tricks](http://www.laravel-tricks.com/)
-- [Laravel Recipies](http://laravel-recipes.com/)
-- [代码片段](https://xueyuanjun.com/resources/code)
-
 ### 扩展包资源组
 
 - [Packagist](https://packagist.org/)
@@ -42,7 +33,8 @@
 
 * [Scaffold Interface](https://github.com/amranidev/scaffold-interface) - 为 Laravel 提供的智能 CRUD 代码生成器
 * [IDE Helper](https://github.com/barryvdh/laravel-ide-helper) - 为 IDE 的自动完成功能生成帮助文件
-* [Laravel 5 Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - 扩展内置的文件生成器
+* [LaravelDash](https://github.com/getspooky/laravelDash) -  基于 LaravelDash 提供的 CRUD 接口快速构建 Laravel 应用
+* [Laravel Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - 扩展内置的文件生成器
 * [Laravel API/Scaffold/CRUD Generator](https://github.com/InfyOmLabs/laravel-generator) - API、CRUD 等脚手架代码生成器
 * [Laravel Tinx](https://github.com/furey/tinx) - 在 Tinker 内部重新加载 Laravel Tinker Session
 * [Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator) - 自动生成 API 文档
@@ -52,17 +44,20 @@
 * [Laravel ER Diagram Generator](https://github.com/beyondcode/laravel-er-diagram-generator) - 为 Laravel 模型生成实体关系图
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - 列出所有已安装扩展包及其依赖、以及应用&服务器信息
 * [LaRecipe](https://github.com/saleem-hadad/larecipe) - 在 Laravel 应用中通过 Markdown 为产品编写漂亮的文档
+* [Prequel](https://github.com/Protoqol/Prequel/) - 干净简洁的 Laravel 数据库 GUI 管理工具
 
 #### 测试 & 调试
 
 * [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - 使用应用期间自动生成 Laravel 集成测试的 Chrome 扩展
 * [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - 通过已存在模型生成 Laravel 测试工厂
 * [Clockwork](https://github.com/itsgoingd/clockwork) - 集成 Clockwork 的 Chrome 扩展用于调试和分析应用
-* [Debug Bar](https://github.com/barryvdh/laravel-debugbar) - 在 Laravel 中集成 PHP Debug Bar 工具
-* [Laravel 5 Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 在浏览器中查看 Laravel 日志
+* [Ignition](https://github.com/facade/ignition) - 优化 Laravel 应用错误页显示
+* [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) - 在 Laravel 中集成 PHP Debug Bar 工具
+* [Laravel Log Reader](https://github.com/haruncpi/laravel-log-reader) - 简单美观的 Laravel 日志读取器
+* [Laravel Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 在浏览器中查看 Laravel 日志
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Laravel 日志查看器
-* [LERN](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - 将异常写入数据库并发送通知
-* [Mail Preview](https://github.com/themsaid/laravel-mail-preview) - 在Web 浏览器或邮件客户端中预览发送的邮件
+* [LERN (Laravel Exception Recorder and Notifier)](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - 将异常写入数据库并发送通知
+* [Laravel Mail Preview Driver](https://github.com/themsaid/laravel-mail-preview) - 在Web 浏览器或邮件客户端中预览发送的邮件
 * [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - 在 Laravel 中集成 Nette Tracy Debugger
 * [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - 在 Web 应用中运行 Artisan 命令
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - 类似 Postman 这种对 Laravel 路由进行测试的工具
@@ -85,6 +80,7 @@
 * [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP 认证和 Active Directory 管理
 * [Doorman](https://github.com/clarkeash/doorman) - 通过邀请码限制对 Laravel 应用的访问流量
 * [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman) - 简单的 Laravel 授权和验证扩展包
+* [Laravel Auth Checker](https://github.com/404labfr/laravel-auth-checker) - 收集用户认证时的设备信息，判断是否来自新 IP 或者新设备
 
 #### 其它有用的利器
 
@@ -103,6 +99,7 @@
 * [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - 为 Eloquent 模型创建标题别名（slug）以利于 SEO
 * [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - 为Eloquent 模型添加排序功能
 * [Ekko](https://github.com/laravelista/Ekko) - 自动高亮当前激活的导航菜单并应用 Bootstrap 样式
+* [Email Checker](https://github.com/aman00323/email-checker) - 在无需发送邮件的情况下验证邮件发送
 * [Friendship](https://github.com/hootlex/laravel-friendships) - 让 Eloquent 模型插上管理朋友关系的翅膀
 * [HTML](https://github.com/LaravelCollective/html) - Laravel HTML 及表单元素构建器
 * [Laraberg Editor](https://github.com/VanOns/laraberg) - 将 Gutenberg 编辑器集成到 Laravel 项目
@@ -173,7 +170,7 @@
 * [VAT Calculator](https://github.com/mpociot/vat-calculator) - 处理所有与欧盟 MOSS 增值税条例相关的麻烦事儿
 * [Widgets for Laravel](https://github.com/arrilot/laravel-widgets) - View Composer 替代方法，功能强大
 
-##### 媒体 & 文档管理
+#### 媒体 & 文档管理
 
 * [Intervention Image](https://github.com/Intervention/image) - 图片处理库（创建、编辑、压缩图片）
 * [Laravel ImageUp](https://github.com/qcod/laravel-imageup) - 另一个图片操作扩展包，添加了很多额外功能
@@ -186,7 +183,7 @@
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) - 快速导入/导出 Excel 文件（支持 XLSX、CSV、ODT）
 * [Laravolt Avatar](https://github.com/laravolt/avatar) - Laravel 头像扩展包
 
-##### 集成 JavaScript
+#### 集成 JavaScript
 
 * [Laroute](https://github.com/aaronlord/laroute) - 在 JavaScript 中生成Laravel 路由 URL
 * [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - 在 JavaScript 中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据
@@ -194,8 +191,9 @@
 * [Laravel Pjax](https://github.com/spatie/laravel-pjax) - Pjax 中间件
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - 将 PHP 变量转化为 Javascript 变量的 Blade 指令
 * [Ziggy](https://github.com/tightenco/ziggy) - 在 JavaScript 中使用 Laravel 命名路由
+* [LiveWire](https://github.com/livewire/livewire) - Laravel 前端框架
 
-##### 数据库/ORM/迁移/填充
+#### 数据库/ORM/迁移/填充
 
 * [Ardent](https://github.com/laravel-ardent/ardent) - 为 Eloquent ORM 提供的自验证的、安全的、智能的模型
 * [Backup Manager](https://github.com/backup-manager/laravel) - 在 S3、Dropbox、SFTP 中备份及取出数据库
@@ -220,9 +218,11 @@
 * [stancl/tenancy](https://github.com/stancl/tenancy) - Laravel 多数据库自动代理包
 * [belongsToThrough](https://github.com/znck/belongs-to-through) - 逆向的远层一对多
 
-##### 搜索
+
+#### 搜索
 
 * [Laravel Scout](https://github.com/laravel/scout) - Laravel 官方全文搜索解决方案（官方扩展包）
+* [Laravel Scout Postgres](https://github.com/pmatseykanets/laravel-scout-postgres) - 适用于 PostgreSQL 的 Laravel Scout 全文搜索驱动
 * [Scout Extended](https://github.com/algolia/scout-extended) - 为 Laravel Scout 添加特定 Algolia 特性
 * [Algolia Search](https://github.com/algolia/algoliasearch-laravel) - 集成 Algolia Search API 到 Laravel Eloquent ORM
 * [Elasticquent](https://github.com/elasticquent/Elasticquent) - 在 Eloquent 模型中集成 Elasticsearch
@@ -262,9 +262,9 @@
 #### 任务/命令/调度
 
 * [Dispatcher](https://github.com/indatus/dispatcher) - 调度 Artisan 命令
-* [Elixir](https://github.com/laravel/elixir) - 用于运行 Gulp 任务（监控文件、运行测试、最小化CSS、组合脚本等等）的 NPM 包
-* [Mix](https://github.com/JeffreyWay/laravel-mix) - 用于定义基本 webpack 构建步骤的流式 API
-* [Envoy](https://github.com/laravel/envoy) - SSH 任务运行器
+* [Laravel Elixir](https://github.com/laravel/elixir) - 用于运行 Gulp 任务（监控文件、运行测试、最小化CSS、组合脚本等等）的 NPM 包
+* [Laravel Mix](https://github.com/JeffreyWay/laravel-mix) - 用于定义基本 webpack 构建步骤的流式 API
+* [Laravel Envoy](https://github.com/laravel/envoy) - SSH 任务运行器
 
 #### 电子商务
 
@@ -272,7 +272,7 @@
 * [Laravel Shoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - 在 Laravel 中快速实现购物车（5.7-）
 * [Laravel Shopping Cart](https://github.com/overtrue/laravel-shopping-cart) - Laravel 购物车扩展包（5.8+）
 
-##### 支付
+#### 支付
 
 * [Cashier](https://github.com/laravel/cashier) - 为 Stripe 提供了平滑、优雅的接口实现订购支付功能（信用卡支付）
 * [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - 集成 [Omnipay](https://github.com/thephpleague/omnipay) PHP 支付处理库（含支付宝、银联支付、微信支付、Paypal、Stripe等）
@@ -291,7 +291,7 @@
 * [Laravel MNS Queue](https://github.com/lokielse/laravel-mns) - 适配 Laravel 的阿里云 MNS 队列驱动
 * [RabbitMQ Queue driver for Laravel](https://github.com/vyuldashev/laravel-queue-rabbitmq) - 适配 Laravel 的 RabbitMQ 队列驱动
 
-##### 性能优化
+#### 性能优化
 
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Intervention 图片类的缓存扩展
 * [Laravel Image Optimizer](https://github.com/spatie/laravel-image-optimizer) - Laravel 图片优化扩展包
@@ -304,7 +304,7 @@
 * [Laravel Page Speed](https://github.com/renatomarinho/laravel-page-speed) - 压缩页面 HTML 输出，最高提升 35%+ 页面加载速度
 * [LaravelFly](https://github.com/scil/LaravelFly) - 更快运行 Laravel，在线使用tinker，并避免在不同请求之间的数据污染
 
-##### 监控
+#### 监控
 
 * [Horizon](https://github.com/laravel/horizon) - 通过简单的 Web UI 监控和配置队列（官方扩展包）
 * [Laravel Failed Job Monitor](https://github.com/spatie/laravel-failed-job-monitor) - 队列任务失败时获取通知
@@ -312,6 +312,7 @@
 * [Laravel Server Monitor](https://github.com/ericmakesstuff/laravel-server-monitor) - Laravel应用服务器监听命令
 * [Laravel Uptime Monitor](https://github.com/spatie/laravel-uptime-monitor) - 配置运行时间和 ssl 监控
 * [Larametrics](https://github.com/aschmelyun/larametrics) - Laravel 应用监控和通知平台
+* [Bugphix](https://github.com/bugphix/bugphix-laravel) - 通过可视化 UI 界面捕获并监控错误日志细节
 
 #### 本地化
 
@@ -365,6 +366,11 @@
 * [Stacker](https://github.com/Maxlab/stacker) - 本地 Docker Web 开发环境
 * [Devilbox](https://github.com/cytopia/devilbox) - 包含每个 PHP 版本的容器化通用 LAMP/MEAN 开发环境
 * [Vessel](https://vessel.shippingdocker.com) - 适用于 Laravel 的简单 Docker 开发环境
+* [Lando](https://docs.lando.dev/config/laravel.html) - 一个基于 Docker 的本地开发环境
+
+### 微服务
+
+* [Cloud Pub/Sub](https://github.com/gdg-tangier/cloud-pubsub) - 基于 Google Cloud Pub/Sub 和 Laravel 构建事件驱动的微服务
 
 ### 应用主机
 
@@ -372,10 +378,14 @@
 * [FortRabbit](https://www.fortrabbit.com/laravel-hosting)
 * [Heroku](https://www.heroku.com/) ([Documentation](https://devcenter.heroku.com/articles/getting-started-with-laravel))
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html))
+* [Cipi](https://cipi.sh/)
 * [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 * [Ploi](https://ploi.io/)
 * [CodePier](https://codepier.io?ref=awesome-laravel)
 * [RunCloud](https://runcloud.io/)
+* [Digital Ocean](https://www.digitalocean.com/)
+* [Vultr](https://www.vultr.com/)
+* [Vapor](https://vapor.laravel.com)
 
 ### 应用部署
 
@@ -386,10 +396,10 @@
 
 ### 代码片段
 
-* [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([中文版](https://cs.phphub.org/))
-* [Laravel Tricks](http://laravel-tricks.com/)
-
-<h3>文章，教程，博客等</h3>
+- [Laravel LTS Cheat Sheet ](https://summerblue.github.io/laravel5-cheatsheet/) ([中文版](https://cs.phphub.org/))
+- [Laravel Tricks](http://www.laravel-tricks.com/)
+- [Laravel Recipies](http://laravel-recipes.com/)
+- [代码片段](https://xueyuanjun.com/resources/code)
 
 ### 教程/博客
 
@@ -412,7 +422,6 @@
 * [芒果笔记](http://note.mango.im/)
 
 #### 英文
-
 
 * [Taylor Otwell](http://taylorotwell.com/)
 * [Tuts+](https://code.tutsplus.com/categories/laravel)
@@ -452,6 +461,7 @@
 * [Lynda](https://www.lynda.com/search?q=laravel)
 * [Pluralsight](https://www.pluralsight.com/search?q=laravel&categories=course)
 * [Bitfumes](https://www.youtube.com/bitfumes)
+* [ConfidentLaravel](https://confidentlaravel.com/)
 
 ### 会议/讨论
 
@@ -522,6 +532,7 @@
 * [React Native and Laravel for Future Mobile Development](https://leanpub.com/rn_laravel) by Ega Radiegtya
 * [Servers for Hackers](https://book.serversforhackers.com) by Chris Fidao
 * [Full-Stack Vue.js 2 and Laravel 5](https://www.amazon.com/Full-Stack-Vue-js-Laravel-frontend-together/dp/1788299582) by Anthony Gore
+* [Build an API with Laravel](https://buildanapi.com) by Wacky Studio
 
 ### 代码库
 
@@ -549,6 +560,7 @@
 * [Laravel Vue Boilerplate](https://github.com/alefesouza/laravel-vue-boilerplate) - 基于 Vue 2、Bootstrap 4、TypeScript、Sass、Pug 和 Jest 构建基于 Laravel 的单页面应用
 * [Laravel Enso](https://github.com/laravel-enso/enso) - 基于 Bulma 主题的 Laravel Vue SPA
 * [Laravel Template with Vue](https://github.com/wmhello/laravel_template_with_vue) - Laravel + Vue.js 结合的前后端分离项目模板
+* [Awes.io](https://github.com/awes-io/awes-io) - 基于 Laravel + Vue + TailwindCSS 的 CRM、SaaS、ERP 应用模板
 
 #### CMS 
 
@@ -565,6 +577,7 @@
 * [Borgert CMS](https://github.com/odirleiborgert/borgert-cms/)
 * [PJ Blog](https://github.com/jcc/blog/)
 * [Laralum](https://github.com/Laralum/Laralum)
+* [Twill](https://github.com/area17/twill)
 
 #### 电商
 
@@ -671,8 +684,9 @@
 ### 工作
 
 - [LaraJobs](https://larajobs.com/)
-- [Laravel Gurus](http://laravelgurus.com/)
 - [Laravel Certification](https://laravel.com/certification/)
+- [Laravel Freelancer](https://freelancercv.com/tag/service/laravel)
+- [Laravel Gurus](http://laravelgurus.com/)
 - [Laravel Remotely](https://laravelremotely.com/)
 - [Laravel学院招聘频道](https://xueyuanjun.com/jobs)
 
@@ -686,6 +700,8 @@
 
 ### 其它
 
+* [Best of Laravel](https://bestoflaravel.com) - 关于 Laravel 的一切都可以在这里学习
 * [CodeCanyon](https://codecanyon.net/tags/laravel?term=laravel) - 支付脚本和插件
 * [Laravel Collections](https://laravelcollections.com) - Laravel 资源集合，支持搜索
 * [LaravelLinks](https://telegram.me/laravellinks) - 分享 Laravel 资源的电报频道
+* [FreelancerCV](https://freelancercv.com/tag/item/laravel) - Laravel 插件和脚本市场
