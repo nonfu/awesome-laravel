@@ -23,7 +23,8 @@
 - [Laravel Collective](http://laravelcollective.com/)
 - [Packalyst](http://packalyst.com/)
 - [Cartalyst](https://cartalyst.com/)
-- [Spatie](https://spatie.be/opensource/laravel)
+- [Spatie](https://spatie.be/open-source)
+- [Top 1,000 Laravel 扩展包](https://laravel.bepsvpt.me)
 
 ### 热门扩展包
 
@@ -36,6 +37,8 @@
 * [LaravelDash](https://github.com/getspooky/laravelDash) -  基于 LaravelDash 提供的 CRUD 接口快速构建 Laravel 应用
 * [Laravel Extended Generators](https://github.com/laracasts/Laravel-5-Generators-Extended) - 扩展内置的文件生成器
 * [Laravel API/Scaffold/CRUD Generator](https://github.com/InfyOmLabs/laravel-generator) - API、CRUD 等脚手架代码生成器
+* [Laravel Stats](https://github.com/stefanzweifel/laravel-stats) - Laravel 项目代码分析工具
+* [Laravel TALL Preset](https://github.com/laravel-frontend-presets/tall/) - 使用 TALL（Tailwind CSS + Alpine.js + Laravel + Livewire）技术栈编写 Laravel 前端代码
 * [Laravel Tinx](https://github.com/furey/tinx) - 在 Tinker 内部重新加载 Laravel Tinker Session
 * [Laravel API Documentation Generator](https://github.com/mpociot/laravel-apidoc-generator) - 自动生成 API 文档
 * [Laravel Packager](https://github.com/Jeroen-G/Laravel-Packager) - 用于创建 Laravel 扩展包的 CLI 工具
@@ -44,25 +47,34 @@
 * [Laravel ER Diagram Generator](https://github.com/beyondcode/laravel-er-diagram-generator) - 为 Laravel 模型生成实体关系图
 * [Laravel Decomposer](https://github.com/lubusIN/laravel-decomposer) - 列出所有已安装扩展包及其依赖、以及应用&服务器信息
 * [LaRecipe](https://github.com/saleem-hadad/larecipe) - 在 Laravel 应用中通过 Markdown 为产品编写漂亮的文档
+* [Optic](https://github.com/opticdev/optic) - 自动为 API 编写文档和测试
 * [Prequel](https://github.com/Protoqol/Prequel/) - 干净简洁的 Laravel 数据库 GUI 管理工具
 
 #### 测试 & 调试
 
-* [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - 使用应用期间自动生成 Laravel 集成测试的 Chrome 扩展
-* [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - 通过已存在模型生成 Laravel 测试工厂
 * [Clockwork](https://github.com/itsgoingd/clockwork) - 集成 Clockwork 的 Chrome 扩展用于调试和分析应用
 * [Ignition](https://github.com/facade/ignition) - 优化 Laravel 应用错误页显示
-* [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) - 在 Laravel 中集成 PHP Debug Bar 工具
-* [Laravel Log Reader](https://github.com/haruncpi/laravel-log-reader) - 简单美观的 Laravel 日志读取器
-* [Laravel Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 在浏览器中查看 Laravel 日志
 * [LogViewer](https://github.com/ARCANEDEV/LogViewer) - Laravel 日志查看器
 * [LERN (Laravel Exception Recorder and Notifier)](https://github.com/tylercd100/lern#lern-laravel-exception-recorder-and-notifier) - 将异常写入数据库并发送通知
-* [Laravel Mail Preview Driver](https://github.com/themsaid/laravel-mail-preview) - 在Web 浏览器或邮件客户端中预览发送的邮件
-* [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - 在 Laravel 中集成 Nette Tracy Debugger
-* [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - 在 Web 应用中运行 Artisan 命令
 * [Laravel API Tester](https://github.com/asvae/laravel-api-tester) - 类似 Postman 这种对 Laravel 路由进行测试的工具
+* [Laravel Debugbar](https://github.com/barryvdh/laravel-debugbar) - 在 Laravel 中集成 PHP Debug Bar 工具
+* [Laravel Dump Server](https://github.com/beyondcode/laravel-dump-server) - 将 Symfony 的 Var-Dump Server 引入 Laravel
+* [Laravel Log Enhancer](https://github.com/freshbitsweb/laravel-log-enhancer) - Laravel 日志功能增强
+* [Laravel Log Reader](https://github.com/haruncpi/laravel-log-reader) - 简单美观的 Laravel 日志读取器
+* [Laravel Log Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 在浏览器中查看 Laravel 日志
+* [Laravel Mail Preview Driver](https://github.com/themsaid/laravel-mail-preview) - 在Web 浏览器或邮件客户端中预览发送的邮件
+* [Laravel Microscope](https://github.com/imanghafoori1/laravel-microscope) - 智能代码重构助手，可满足 IDE 短期需求
+* [Laravel Self-Diagnosis](https://github.com/beyondcode/laravel-self-diagnosis) - Laravel 自诊断测试扩展包
 * [Laravel Tail](https://github.com/spatie/laravel-tail) - 通过 Artisan 命令查看日志尾部信息
-* [Larvel Telescope](https://github.com/laravel/telescope) - Laravel 本地开发最佳伴侣（官方扩展包）
+* [Laravel Telescope](https://github.com/laravel/telescope) - Laravel 本地开发最佳伴侣（官方扩展包）
+* [Laravel Terminal](https://github.com/recca0120/laravel-terminal) - 在 Web 应用中运行 Artisan 命令
+* [Laravel TestTools](https://chrome.google.com/webstore/detail/laravel-testtools/ddieaepnbjhgcbddafciempnibnfnakl) - 使用应用期间自动生成 Laravel 集成测试的 Chrome 扩展
+* [Laravel Test Factory Generator](https://github.com/mpociot/laravel-test-factory-helper) - 通过已存在模型生成 Laravel 测试工厂
+* [Laravel Tinker Server](https://github.com/beyondcode/laravel-tinker-server) - 运行时通过 Tinker 调试变量
+* [Laravel Tracy](https://github.com/recca0120/laravel-tracy) - 在 Laravel 中集成 Nette Tracy Debugger
+* [PHPUnit SpeedTrap](https://github.com/johnkary/phpunit-speedtrap) - PHPUnit 单元测试中运行较慢的测试报告
+* [PHPUnit Pretty Result Printer](https://github.com/mikeerickson/phpunit-pretty-result-printer) - 扩展 PHPUnit 默认输出，让其更美观
+* [TDDDD](https://github.com/antonioribeiro/ci) - 持续集成管理后台
 
 #### 认证 & 授权
 
@@ -79,6 +91,7 @@
 * [Laravel User Verification](https://github.com/jrean/laravel-user-verification) - 处理用户验证流程及邮箱验证
 * [Adldap2 Laravel](https://github.com/Adldap2/Adldap2-Laravel) - LDAP 认证和 Active Directory 管理
 * [Doorman](https://github.com/clarkeash/doorman) - 通过邀请码限制对 Laravel 应用的访问流量
+* [Laravel ACL](https://github.com/mateusjunges/laravel-acl) - 基于数据库管理用户权限和分组
 * [Laravel Heyman](https://github.com/imanghafoori1/laravel-heyman) - 简单的 Laravel 授权和验证扩展包
 * [Laravel Auth Checker](https://github.com/404labfr/laravel-auth-checker) - 收集用户认证时的设备信息，判断是否来自新 IP 或者新设备
 
@@ -86,6 +99,7 @@
 
 * [Artisan View](https://github.com/svenluijten/artisan-view) - 通过 Artisan 管理 Laravel 项目的视图
 * [Artisan Beans](https://github.com/pmatseykanets/artisan-beans) - 在Artisan 控制台中管理 beanstalkd 任务队列
+* [Blade Filters](https://github.com/conedevelopment/blade-filters) - 在 Laravel Blade 模板中轻松使用字符串过滤器
 * [Blogify](https://github.com/jorenvh/blogify) － 在 Laravel 中快速添加博客功能 
 * [Bootstrapper](https://github.com/patricktalmadge/bootstrapper/) - 创建 Bootstrap 3 标记的类集
 * [Bootstrap 4 forms](https://github.com/netojose/laravel-bootstrap-4-forms) - 兼容 Bootstrap 4 的表单构建器
@@ -95,16 +109,17 @@
 * [Collect](https://github.com/tightenco/collect) - 在 Laravel 框架之外使用集合功能
 * [Collection XML](https://github.com/mtownsend5512/collection-xml) - 将集合中的数据转化为 XML 格式
 * [Comments](https://github.com/laravelista/comments) - 在 Laravel 中快速添加评论功能
-* [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - 以Eloquent 方式筛选过滤 Eloquent 模型及其关联关系
-* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - 为 Eloquent 模型创建标题别名（slug）以利于 SEO
-* [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - 为Eloquent 模型添加排序功能
 * [Ekko](https://github.com/laravelista/Ekko) - 自动高亮当前激活的导航菜单并应用 Bootstrap 样式
 * [Email Checker](https://github.com/aman00323/email-checker) - 在无需发送邮件的情况下验证邮件发送
+* [Eventy](https://github.com/tormjens/eventy) - 引入 Wordpress 的动作和过滤器功能到 Laravel 应用
 * [Friendship](https://github.com/hootlex/laravel-friendships) - 让 Eloquent 模型插上管理朋友关系的翅膀
+* [GitDown](https://laravel-news.com/gitdown-parsing-markdown-in-php) - 基于 Github API 解析 Markdown
+* [Guzzle Advanced Throttle](https://github.com/hamburgscleanest/guzzle-advanced-throttle) - 基于多个规则限定请求频率
 * [HTML](https://github.com/LaravelCollective/html) - Laravel HTML 及表单元素构建器
 * [Laraberg Editor](https://github.com/VanOns/laraberg) - 将 Gutenberg 编辑器集成到 Laravel 项目
 * [Lavacharts](https://github.com/kevinkhill/lavacharts) - 通过 Google JavaScript 图表 API 为 PHP 应用提供图表功能
-* [Laraform](https://github.com/laraform/laraform) - 基于 Laravel 的 Vue 表单生成器
+* [Laraform](https://github.com/laraform/laraform) - 基于 Vue 的 Laravel 表单生成器
+* [Laratables](https://github.com/freshbitsweb/laratables) - 在 Laravel 中支持通过 Ajax 加载 DataTables
 * [Laravel Achievements](https://github.com/gstt/laravel-achievements) - 在 Laravel 中添加勋章成就系统
 * [Laravel Activitylog](https://github.com/spatie/laravel-activitylog) - 在 Laravel 中记录用户活动日志
 * [Laravel Auditing](https://github.com/owen-it/laravel-auditing) - 记录Laravel 模型修改日志
@@ -113,12 +128,16 @@
 * [Laravel Breadcrumbs](https://github.com/davejamesmiller/laravel-breadcrumbs) - 创建及管理面包屑导航
 * [Laravel Collection Macros](https://github.com/spatie/laravel-collection-macros) - 增强的 Laravel 集合方法
 * [Laravel Cookie Consent](https://github.com/spatie/laravel-cookie-consent) - 让你的 Laravel 应用遵循疯狂的欧盟 Cookie 规则
+* [Laravel Console Menu](https://github.com/nunomaduro/laravel-console-menu) - 更美观的 Artisan 控制台输出
+* [Laravel Credentials](https://github.com/beyondcode/laravel-credentials) - 管理 Laravel 项目中的敏感配置信息
 * [Laravel Datatables](https://github.com/yajra/laravel-datatables) - jQuery DataTables API
 * [Laravel Emoji](https://github.com/unicodeveloper/laravel-emoji) - Laravel Emoji 表情扩展包
 * [Laravel Enum](https://github.com/BenSampo/laravel-enum) - Laravel Enum 扩展包
 * [Laravel EnvProviders](https://github.com/svenluijten/env-providers) - 基于开发环境加载服务提供者
+* [Laravel Favicon](https://github.com/beyondcode/laravel-favicon) - 基于环境配置动态创建 Favicon
 * [Laravel Favicon Extractor](https://github.com/stefanbauer/laravel-favicon-extractor) - 从网站中解析出 favicon 并将其保存到本地存储
 * [Laravel FFMpeg](https://github.com/pascalbaljetmedia/laravel-ffmpeg) - 在 Laravel 中集成使用 FFmpeg
+* [Laravel Flash](https://github.com/spatie/laravel-flash) - Laravel 轻量级 Flash 消息扩展包
 * [Laravel FlexEnv](https://github.com/svenluijten/flex-env) - 通过 Artisan 管理 `.env` 文件
 * [Laravel Form Builder](https://github.com/kristijanhusak/laravel-form-builder) - Laravel 表单构建器（受 Symfony 表单构建器启发）
 * [Laravel GeoIP](https://github.com/Torann/laravel-geoip) - 基于网站访问用户的 IP 地址判断其地理位置
@@ -127,37 +146,49 @@
 * [Laravel IDoc](https://github.com/ovac/idoc) - 通过 Laravel 路由自动生成交互式 API 文档
 * [Laravel Impersonate](https://github.com/404labfr/laravel-impersonate) - 让你以任意用户的身份登录到应用
 * [Laravel Installer](https://github.com/RachidLaasri/LaravelInstaller) - 让你像安装 WordPress 一样按照向导安装 Laravel
+* [Laravel JSON](https://github.com/jannejava/laravel-json) - Laravel JSON 扩展包
 * [Laravel Kit](https://github.com/tarequemdhanif/laravel-kit) - 跨平台、用于管理 Laravel 应用的桌面 App
 * [Laravel Love](https://github.com/cybercog/laravel-love) - 基于 Eloquent 模型的喜欢/取消喜欢功能
+* [Laravel Luhn](https://github.com/marvinlabs/laravel-luhn) - 在 Laravel 中简化使用 Luhn 算法的功能属性验证和计算，比如信用卡、SIREN 码等。
 * [Laravel Mailbox](https://github.com/beyondcode/laravel-mailbox) - 在 Laravel 应用中实现收件箱
+* [Laravel Mail Editor](https://github.com/Qoraiche/laravel-mail-editor) - 基于 Web UI 的 Laravel 邮件编辑器
+* [Laravel Mail Viewer](https://github.com/JoggApp/laravel-mail-viewer) - 在一个地方查看 Laravel 应用的所有邮件
 * [Laravel Markdown](https://github.com/GrahamCampbell/Laravel-Markdown) - 封装 CommonMark Markdown 解析器
 * [Laravel Menu](https://github.com/spatie/laravel-menu) - Laravel Html 菜单生成器
 * [Laravel Messenger](https://github.com/cmgmyr/laravel-messenger) - 用户消息系统
 * [Laravel Moderation](https://github.com/hootlex/laravel-moderation) - 内容审核系统，允许你接收或拒绝对资源的请求
 * [Laravel Modules](https://github.com/nWidart/laravel-modules) - 在Laravel中实现简单的模块化管理
+* [Laravel Personal Data Export](https://github.com/spatie/laravel-personal-data-export) - Laravel 个人数据导出为 Zip 压缩文件
 * [Laravel Phone](https://github.com/Propaganistas/Laravel-Phone) - 在Laravel 或 Lumen 中对手机号码进行验证&格式化
 * [Laravel Pinyin](https://github.com/overtrue/pinyin) - 基于词库的中文转拼音优质解决方案
+* [Laravel Postal Code Validation](https://github.com/axlon/laravel-postal-code-validation) - Laravel 邮政编码验证
 * [Laravel Proxy](https://github.com/fideloper/TrustedProxy) - 用于在负载均衡器和其它中间设备之后处理 Session
+* [Laravel Relationship Events](https://github.com/chelout/laravel-relationship-events) - 新增额外的 Laravel 关联关系事件
 * [Laravel Setting](https://github.com/anlutro/laravel-settings) - 对 Laravel 进行全局配置
 * [Laravel Sitemap](https://github.com/spatie/laravel-sitemap) - 为 Laravel 应用自动生成站点地图
 * [Laravel Sms](https://github.com/toplan/laravel-sms) - Laravel 短信发送扩展包
 * [Laravel Stats Tracker](https://github.com/antonioribeiro/tracker) -  从请求中收集信息以验证和存储
 * [Laravel SweetAlert](https://github.com/realrashid/sweet-alert) - 在 Laravel 项目中集成 SweetAlert 2
 * [Laravel Tags](https://github.com/spatie/laravel-tags) - 添加标签和标签行为到 Laravel 应用
+* [Laravel Tag Helper](https://github.com/beyondcode/laravel-tag-helper) - 添加 HTML 标签到 Laravel 应用
 * [Laravel Talk](https://github.com/nahid/talk) - 用户实时消息&聊天系统
 * [Laravel Themvel](https://github.com/shipu/themevel) - Laravel 主题及前端资源管理系统
 * [Laravel url signer](https://github.com/spatie/laravel-url-signer) - 通过有效时间创建安全的URL
 * [Laravel UUID](https://github.com/webpatser/laravel-uuid) - 基于 RFC 4122 标准生成 UUID 的 Laravel 扩展包
 * [Laravel UEditor](https://github.com/stevenyangecho/laravel-u-editor) - 集成百度编辑器到 Laravel 5（支持七牛云存储）
+* [Laravel Under Construction](https://github.com/larsjanssen6/underconstruction) - 增强版维护模式：请求 URL 中带有四位验证码可以在维护模式期间访问应用 
 * [Laravel Validation Rules](https://laravel-validation-rules.github.io) - Laravel 验证规则社区版（与官方版不同）
 * [Laravel Video Chat](https://github.com/PHPJunior/laravel-video-chat) - 通过 Socket.IO 和 WebRTC 实现的视频聊天
+* [Laravel View Models](https://github.com/spatie/laravel-view-models) - Laravel 视图模型
 * [Laravel Visits](https://github.com/awssat/laravel-visits) - Laravel 模型访问计数器
+* [Laravel WebSockets](https://github.com/beyondcode/laravel-websockets) - Laravel Websocket 服务器实现
 * [Listify](https://github.com/lookitsatravis/listify) - 添加分类/排序到任意 Eloquent 模型
 * [MailThief](https://github.com/tightenco/mailthief) - 测试邮件发送扩展包，无需真实发送邮件
 * [Multi-tenant](https://github.com/hyn/multi-tenant) - 该扩展包用于支持多个站点基于同一个 Laravel 安装
+* [Multitenency](https://github.com/romegadigital/Multitenancy) - 简化创建包含多个子域名的站点
 * [noCAPTCHA](https://github.com/ARCANEDEV/noCAPTCHA) - Google 新的noCAPTCHA（reCAPTCHA）助手
-* [Page Cache](https://github.com/JosephSilber/page-cache) - 将整个响应以静态文件的方式存储到硬盘以便加快页面加载速度
 * [Purifier](https://github.com/mewebstudio/purifier) - 集成 HTMLPurifier 到 Laravel 应用
+* [Pwned Passwords Validator](https://github.com/valorin/pwned-validator) - Laravel 密码安全性验证扩展包
 * [ReadTime](https://github.com/mtownsend5512/read-time) - 显示用户阅读时间的 PHP 扩展包
 * [Request XML](https://github.com/mtownsend5512/request-xml) - 捕获输入的 XML 请求并将其合并到 Request 对象中
 * [Response XML](https://github.com/mtownsend5512/response-xml) - 生成 XML 响应
@@ -182,42 +213,54 @@
 * [Laravel Excel](https://github.com/Maatwebsite/Laravel-Excel) - 导入导出 Excel 和 CSV 文件
 * [Fast Excel](https://github.com/rap2hpoutre/fast-excel) - 快速导入/导出 Excel 文件（支持 XLSX、CSV、ODT）
 * [Laravolt Avatar](https://github.com/laravolt/avatar) - Laravel 头像扩展包
+* [Laravel Proximage](https://github.com/coderello/laravel-proximage) - 基于 `images.weserve.nl` 代理图片访问
 
 #### 集成 JavaScript
 
-* [Laroute](https://github.com/aaronlord/laroute) - 在 JavaScript 中生成Laravel 路由 URL
-* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - 在 JavaScript 中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据
 * [Javascript Validation](https://github.com/proengsoft/laravel-jsvalidation) - 使用验证规则、消息、表单请求和验证器在客户端验证表单而不需要编写任何JavaScript代码
-* [Laravel Pjax](https://github.com/spatie/laravel-pjax) - Pjax 中间件
 * [Laravel Blade Javascript](https://github.com/spatie/laravel-blade-javascript) - 将 PHP 变量转化为 Javascript 变量的 Blade 指令
+* [Laravel Localization To Vue](https://github.com/kg-bot/laravel-localization-to-vue) - 将 Laravel 语言文件转化为可以被 Vue.js 解析的格式
+* [Laravel Pjax](https://github.com/spatie/laravel-pjax) - Pjax 中间件
+* [Laroute](https://github.com/aaronlord/laroute) - 在 JavaScript 中生成Laravel 路由 URL
+* [LiveWire](https://github.com/livewire/livewire) - Laravel 前端组件开发框架
+* [PHP Vars to JavaScript Transformer](https://github.com/laracasts/PHP-Vars-To-Js-Transformer) - 在 JavaScript 中处理来自服务器端的字符串、数组、集合以及其它数据结构的数据
 * [Ziggy](https://github.com/tightenco/ziggy) - 在 JavaScript 中使用 Laravel 命名路由
-* [LiveWire](https://github.com/livewire/livewire) - Laravel 前端框架
 
 #### 数据库/ORM/迁移/填充
 
+* [Accountant](https://gitlab.com/altek/accountant) - 追踪 Eloquent 模型变化
 * [Ardent](https://github.com/laravel-ardent/ardent) - 为 Eloquent ORM 提供的自验证的、安全的、智能的模型
 * [Backup Manager](https://github.com/backup-manager/laravel) - 在 S3、Dropbox、SFTP 中备份及取出数据库
 * [Baum](https://github.com/etrepat/baum) - 在 Laravel 中实现嵌套集合模式
-* [Laravel Model Settings](https://github.com/glorand/laravel-model-settings) - Laravel 应用模型设置扩展包
-* [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) - 嵌套集合模式实现
+* [belongsToThrough](https://github.com/znck/belongs-to-through) - 逆向的远层一对多
 * [ClosureTable](https://github.com/franzose/ClosureTable) - 闭包表模式实现
 * [Doctrine DBAL](https://github.com/doctrine/dbal) - 数据迁移时支持列的重命名操作
 * [Eloquence](https://github.com/kirkbushell/eloquence) - 为 Eloquent 模型添加额外功能特性
+* [Eloquent Cloner](https://github.com/BKWLD/cloner) - 克隆 Eloquent 模型类，包含关联关系
+* [Eloquent Filter](https://github.com/Tucker-Eric/EloquentFilter) - 以Eloquent 方式筛选过滤 Eloquent 模型及其关联关系
+* [Eloquent Sluggable](https://github.com/cviebrock/eloquent-sluggable) - 为 Eloquent 模型创建标题别名（slug）以利于 SEO
+* [Eloquent Sortable](https://github.com/spatie/eloquent-sortable) - 为Eloquent 模型添加排序功能
 * [iSeed](https://github.com/orangehill/iseed) - 从已有数据表中生成一个新的填充文件
-* [Laravel OCI8](https://github.com/yajra/laravel-oci8) - 通过 OCI8 在 Laravel 中实现 Oracle DB 驱动
+* [Lada Cache](https://github.com/spiritix/lada-cache) - 基于 Redis，完全自动化、可扩展的数据库缓存层
 * [Laravel Backup](https://github.com/spatie/laravel-backup) - 备份应用
+* [Laravel Database Hashing](https://laravel-news.com/laravel-database-hashing-package) - Laravel 数据库模型属性哈希扩展包
 * [Laravel Doctrine](https://github.com/laravel-doctrine/orm) - Doctrine 2 ORM 实现
+* [Laravel Model Settings](https://github.com/glorand/laravel-model-settings) - Laravel 应用模型设置扩展包
 * [Laravel MongoDB](https://github.com/jenssegers/laravel-mongodb) - 支持 MongoDB 的 Eloquent 模型及查询构建器实现
+* [Laravel MySQL Spatial extension](https://github.com/grimzy/laravel-mysql-spatial) - 在 Laravel 中轻松处理 MySQL Spatial Data Types 和 MySQL Spatial Functions
+* [Laravel Nestedset](https://github.com/lazychaser/laravel-nestedset) - 嵌套集合模式实现
+* [Laravel OCI8](https://github.com/yajra/laravel-oci8) - 通过 OCI8 在 Laravel 中实现 Oracle DB 驱动
+* [Laravel Options](https://github.com/appstract/laravel-options) - Laravel 数据库全局键值对选项存储器
+* [Laravel Repository](https://github.com/andersao/l5-repository) - 用于抽象数据层，让应用更加灵活、可维护
+* [Laravel Search String](https://github.com/lorisleiva/laravel-search-string) - 通过简单可定制的语法基于唯一字符串生成的数据库查询
+* [Laravel Schemaless Attributes](https://github.com/spatie/laravel-schemaless-attributes) - 添加非数据表字段属性到 Eloquent 模型
+* [Laravel Shareable Models](https://github.com/ksassnowski/laravel-shareable-models) - 为 Eloquent 模型类生成可分享链接
+* [Laravel Soft Cascade Delete & Restore](https://github.com/Askedio/laravel-soft-cascade) - 使用 Laravel 软删除功能实现级联删除和恢复
 * [Migrations Generator](https://github.com/Xethron/migrations-generator) - 从已有数据库中生成迁移
 * [Sofa/Eloquence](https://github.com/jarektkaczyk/eloquence) - Eloquent ORM 扩展
-* [Tenanti](https://github.com/orchestral/tenanti) - 群租数据库结构管理器
-* [Laravel Repository](https://github.com/andersao/l5-repository) - 用于抽象数据层，让应用更加灵活、可维护
-* [Laravel 5 Soft Cascade Delete & Restore](https://github.com/Askedio/laravel5-soft-cascade) - 使用 Laravel 软删除功能实现级联删除和恢复
-* [Lada Cache](https://github.com/spiritix/lada-cache) - 基于 Redis，完全自动化、可扩展的数据库缓存层
-* [Laravel MySQL Spatial extension](https://github.com/grimzy/laravel-mysql-spatial) - 在 Laravel 中轻松处理 MySQL Spatial Data Types 和 MySQL Spatial Functions
 * [stancl/tenancy](https://github.com/stancl/tenancy) - Laravel 多数据库自动代理包
-* [belongsToThrough](https://github.com/znck/belongs-to-through) - 逆向的远层一对多
-
+* [Snipe Migrations](https://github.com/drfraker/snipe-migrations) - 测试期间快速完成数据库迁移
+* [Tenanti](https://github.com/orchestral/tenanti) - 群租数据库结构管理器
 
 #### 搜索
 
@@ -271,6 +314,7 @@
 * [Aimeos Laravel package](https://github.com/aimeos/aimeos-laravel) -  Laravel 电子商务扩展包
 * [Laravel Shoppingcart](https://github.com/Crinsane/LaravelShoppingcart) - 在 Laravel 中快速实现购物车（5.7-）
 * [Laravel Shopping Cart](https://github.com/overtrue/laravel-shopping-cart) - Laravel 购物车扩展包（5.8+）
+* [Laravel Vouchers](https://github.com/beyondcode/laravel-vouchers) - 将优惠券和 Eloquent 模型关联 
 
 #### 支付
 
@@ -294,15 +338,18 @@
 #### 性能优化
 
 * [Intervention Image Cache](https://github.com/Intervention/imagecache) - Intervention 图片类的缓存扩展
-* [Laravel Image Optimizer](https://github.com/spatie/laravel-image-optimizer) - Laravel 图片优化扩展包
+* [Laravel Fly](https://github.com/scil/LaravelFly) - 更快运行 Laravel，在线使用tinker，并避免在不同请求之间的数据污染
 * [Laravel HTMLMin](https://github.com/GrahamCampbell/Laravel-HTMLMin) - 最小化 Blade/HTML/CSS/JavaScript
+* [Laravel HTTP Cache](https://github.com/barryvdh/laravel-httpcache) - HTTP 缓存扩展包
+* [Laravel Image Optimizer](https://github.com/spatie/laravel-image-optimizer) - Laravel 图片优化扩展包
+* [Laravel Model Caching](https://github.com/GeneaLabs/laravel-model-caching) - Laravel 模型查询缓存
+* [Laravel OPcache](https://github.com/appstract/laravel-opcache) - 在 Laravel 提供 Artisan 命令处理 PHP OPcache
+* [Laravel Page Cache](https://github.com/JosephSilber/page-cache) - 另一个 HTTP 缓存扩展包，将整个响应以静态文件的方式存储到硬盘
+* [Laravel Page Speed](https://github.com/renatomarinho/laravel-page-speed) - 压缩页面 HTML 输出，最高提升 35%+ 页面加载速度
+* [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - 通过缓存整个响应加速应用
+* [Laravel Swoole](https://github.com/swooletw/laravel-swoole) - 基于 Swoole 的高性能 HTTP 服务器，可用于加速 Laravel 和 Lumen 应用
 * [Rememberable](https://github.com/dwightwatson/rememberable) - Eloquent 查询缓存
 * [Widgetize](https://github.com/imanghafoori1/laravel-widgetize) - 让 Laravel 应用变得更干净、更快（页面缓存）
-* [Laravel Responsecache](https://github.com/spatie/laravel-responsecache) - 通过缓存整个响应加速应用
-* [Laravel-Swoole](https://github.com/swooletw/laravel-swoole) - 基于 Swoole 的高性能 HTTP 服务器，可用于加速 Laravel 和 Lumen 应用
-* [Laravel OPcache](https://github.com/appstract/laravel-opcache) - 在 Laravel 提供 Artisan 命令处理 PHP OPcache
-* [Laravel Page Speed](https://github.com/renatomarinho/laravel-page-speed) - 压缩页面 HTML 输出，最高提升 35%+ 页面加载速度
-* [LaravelFly](https://github.com/scil/LaravelFly) - 更快运行 Laravel，在线使用tinker，并避免在不同请求之间的数据污染
 
 #### 监控
 
@@ -317,16 +364,18 @@
 #### 本地化
 
 * [Countries](https://github.com/antonioribeiro/countries) - 国家和货币扩展包
-* [Language Files](https://github.com/caouecs/Laravel-lang) - 超过 37 种语言的验证、分页、提醒等语言行
+* [Language Files](https://github.com/caouecs/Laravel-lang) - 超过 75 种语言的验证、分页、提醒等消息的本地化翻译，支持 Jetstream
 * [Laravel Localization](https://github.com/mcamara/laravel-localization) - 通过路由支持 i18n
 * [Laravel Translatable](https://github.com/spatie/laravel-translatable) - 让 Eloquent 模型变得可翻译
 * [Laravel Translatable](https://github.com/dimsav/laravel-translatable) - 取出及保存可翻译的 Eloquent 模型类实例
 * [Laravel Translator](https://github.com/vinkla/laravel-translator) - 将 Eloquent 模型翻译到多种语言文件
 * [Laravel Date](https://github.com/jenssegers/date) - 基于  Carbon 处理不同语言的日期
+* [Laravel Google Translate](https://github.com/tanmuhittin/laravel-google-translate) - 使用 Google 翻译 API 进行本地化翻译
 * [Laravel Langman](https://github.com/themsaid/laravel-langman) - 从 Artisan 命令行管理语言文件
 * [Laravel Translation](https://github.com/waavi/translation) - 翻译和本地化管理
-* [Linguist](https://github.com/keevitaja/linguist) - Laravel 框架 i18n 本地化支持
 * [Laravel Translation Loader](https://github.com/spatie/laravel-translation-loader) - 将翻译存放到数据库或其他地方
+* [Laravel Translate Sheet](https://github.com/nikaia/translation-sheet) - 通过 Google 表格翻译 Laravel 语言文件
+* [Linguist](https://github.com/keevitaja/linguist) - Laravel 框架 i18n 本地化支持
 
 #### 第三方服务集成
 
@@ -386,6 +435,7 @@
 * [Digital Ocean](https://www.digitalocean.com/)
 * [Vultr](https://www.vultr.com/)
 * [Vapor](https://vapor.laravel.com)
+* [Cleaver](https://cleaver.cloud/laravel)
 
 ### 应用部署
 
@@ -393,6 +443,7 @@
 * [Envoyer](https://envoyer.io/) - 适配 PHP & Laravel 项目的零停机时间 Deployer
 * [Rocketeer](https://github.com/rocketeers/rocketeer) - 任务运行器及部署包
 * [Maneuver](https://github.com/fadion/Maneuver/) - 使用 FTP/SFTP 轻松部署 Laravel 项目，通过 Git 进行版本管理
+* [Cleaver](https://cleaver.cloud/laravel) - 零停机部署和回滚 Laravel 项目
 
 ### 代码片段
 
